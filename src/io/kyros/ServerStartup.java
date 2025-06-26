@@ -150,7 +150,7 @@ public class ServerStartup {
         if (Server.isDebug()) {
             PlayerFactory.createTestPlayers();
         }
-        ReferralCode.load();
+        //ReferralCode.load();
         DailyRewardContainer.load();
         DailyRewardsRecords.load();
         WorldEventContainer.getInstance().initialise();

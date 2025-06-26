@@ -108,7 +108,7 @@ public class Configuration {
 	 */
 	private static final LocalDateTime LAUNCH_TIME = LocalDateTime.now();
 	public static String USER_FOLDER = System.getProperty("user.home");
-	public static final String SAVE_DIRECTORY =  "C:/Users/15305/Desktop/SPK/ArkCane-Server/save_files/";
+	public static final String SAVE_DIRECTORY =  "./save_files/";
 	public static final String LOG_DIRECTORY = "./logs/";
 	public static final String ERROR_LOG_DIRECTORY = LOG_DIRECTORY + "error_logs/";
 	public static String ERROR_LOG_FILE = ("error_log_" + Misc.createFileNameSmallDate(LAUNCH_TIME) + ".txt");
