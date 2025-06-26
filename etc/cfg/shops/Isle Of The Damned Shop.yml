@@ -1,0 +1,52 @@
+---
+id: 596
+name: "Isle Of The Damned Store"
+items:
+  - id: 28421 #Isle of the damned key
+    price: 3250
+  - id: 33296 #Artorias helm
+    price: 325000
+  - id: 33297 #Artorias body
+    price: 325000
+  - id: 33298 #Artorias legs
+    price: 325000
+  - id: 33202 #Demon X Sword
+    price: 275000
+  - id: 33203 #Demon X Scythe
+    price: 275000
+  - id: 33204 #Demon X Spear
+    price: 275000
+  - id: 33205 #Demon X Staff
+    price: 275000
+  - id: 33207 #Demon X Bow
+    price: 275000
+  - id: 26269 #Demon X C'Bow
+    price: 275000
+  - id: 6679 #mystery
+    price: 50
+  - id: 6677 #smb
+    price: 100
+  - id: 6678 #umb
+    price: 250
+  - id: 6680 #mini arbo
+    price: 750
+  - id: 12579 #arbo box
+    price: 1500
+  - id: 33360 #mini crusade box
+    price: 1250
+  - id: 33361 #crusade box
+    price: 2500
+  - id: 9600 #BaBa Instance Token
+    price: 15000
+  - id: 9616 #Chaotic Instance Token
+    price: 15000
+  - id: 27039 #Enhanced hespori seed
+    price: 25000
+  - id: 27040 #Enhanced damage boost
+    price: 25000
+  - id: 27037 #Enhanced raid seed
+    price: 10000
+  - id: 27038 #Enhanced iasor seed
+    price: 10000
+  - id: 27041 #Enhanced slayer seed
+    price: 7500

@@ -1,0 +1,256 @@
+common:
+  # Mini Mystery Box
+- amount: 5
+  id: 6679
+
+  # Crystal key
+- amount: 15
+  id: 990
+
+  # Clean dwarf weed
+- amount: 150
+  id: 268
+
+  # Clean torstol
+- amount: 150
+  id: 270
+
+  # Clean snapdragon
+- amount: 150
+  id: 3001
+
+  # Super combat potion(4)
+- amount: 150
+  id: 12696
+
+  # Super restore(4)
+- amount: 200
+  id: 3025
+
+  # Dark crab
+- amount: 500
+  id: 11937
+
+  # Anglerfish
+- amount: 500
+  id: 13442
+
+  # Cooked karambwan
+- amount: 500
+  id: 3145
+
+  # Fire cape
+- amount: 1
+  id: 6570
+
+  # Babydragon bones
+- amount: 500
+  id: 535
+
+  # Dark bow
+- amount: 1
+  id: 11235
+
+  # Abyssal whip
+- amount: 1
+  id: 4151
+
+  # Guthan's armour set
+- amount: 1
+  id: 12873
+
+  # Verac's armour set
+- amount: 1
+  id: 12875
+
+  # Dharok's armour set
+- amount: 1
+  id: 12877
+
+  # Torag's armour set
+- amount: 1
+  id: 12879
+
+  # Ahrim's armour set
+- amount: 1
+  id: 12881
+
+  # Karil's armour set
+- amount: 1
+  id: 12883
+
+uncommon:
+  # Bandos boots
+- amount: 1
+  id: 11836
+
+  # Mage's book
+- amount: 1
+  id: 6889
+
+  # Guthan's armour set
+- amount: 1
+  id: 12873
+
+  # Verac's armour set
+- amount: 1
+  id: 12875
+
+  # Dharok's armour set
+- amount: 1
+  id: 12877
+
+  # Torag's armour set
+- amount: 1
+  id: 12879
+
+  # Ahrim's armour set
+- amount: 1
+  id: 12881
+
+  # Karil's armour set
+- amount: 1
+  id: 12883
+
+  # Dragon bones
+- amount: 250
+  id: 537
+
+  # Runite bar
+- amount: 300
+  id: 2364
+
+  # Magic logs
+- amount: 500
+  id: 1514
+
+  # Uncut dragonstone
+- amount: 250
+  id: 1632
+
+rare:
+  # Armadyl helmet
+- amount: 1
+  id: 11826
+
+  # Armadyl chestplate
+- amount: 1
+  id: 11828
+
+  # Armadyl chainskirt
+- amount: 1
+  id: 11830
+
+  # Bandos chestplate
+- amount: 1
+  id: 11832
+
+  # Bandos tassets
+- amount: 1
+  id: 11834
+
+  # Archers ring
+- amount: 1
+  id: 6733
+
+  # Seer's ring
+- amount: 1
+  id: 6731
+
+  # Berserker ring
+- amount: 1
+  id: 6737
+
+  # Warrior ring
+- amount: 1
+  id: 6735
+
+  # Rangers' tunic
+- amount: 1
+  id: 12596
+
+  # Ranger boots
+- amount: 1
+  id: 2577
+
+  # Dragon pickaxe
+- amount: 1
+  id: 11920
+
+  # Dragon axe
+- amount: 1
+  id: 6739
+
+  # Dragon boots
+- amount: 1
+  id: 11840
+
+  # Occult necklace
+- amount: 1
+  id: 12002
+
+  # Amulet of fury
+- amount: 1
+  id: 6585
+
+  # Bandos godsword
+- amount: 1
+  id: 11804
+
+  # Saradomin godsword
+- amount: 1
+  id: 11806
+
+  # Zamorak godsword
+- amount: 1
+  id: 11808
+
+  # Armadyl godsword
+- amount: 1
+  id: 11802
+
+very_rare:
+  # 3rd age full helmet
+- amount: 1
+  id: 10350
+
+  # 3rd age platebody
+- amount: 1
+  id: 10348
+
+  # 3rd age platelegs
+- amount: 1
+  id: 10346
+
+  # 3rd age kiteshield
+- amount: 1
+  id: 10352
+
+  # 3rd age range coif
+- amount: 1
+  id: 10334
+
+  # 3rd age range top
+- amount: 1
+  id: 10330
+
+  # 3rd age range legs
+- amount: 1
+  id: 10332
+
+  # 3rd age mage hat
+- amount: 1
+  id: 10342
+
+  # 3rd age robe top
+- amount: 1
+  id: 10338
+
+  # 3rd age robe
+- amount: 1
+  id: 10340
+
+  # 3rd age amulet
+- amount: 1
+  id: 10344
+

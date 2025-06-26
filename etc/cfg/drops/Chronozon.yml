@@ -1,0 +1,179 @@
+---
+npc_id: 4987
+constant:
+  accessibility: 0
+  items:
+    - item: 33251 #dono coin
+      minimum: 10
+      maximum: 10
+    - item: 33428 #1m nomad
+      minimum: 20
+      maximum: 20
+common:
+  accessibility: 15
+  items:
+    - item: 8167
+      minimum: 1
+      maximum: 1
+    - item: 23776
+      minimum: 25
+      maximum: 25
+    - item: 22885
+      minimum: 2
+      maximum: 2
+    - item: 22883
+      minimum: 2
+      maximum: 2
+    - item: 2403 #$10
+      minimum: 1
+      maximum: 1
+    - item: 33251
+      minimum: 1
+      maximum: 1
+    - item: 21034
+      minimum: 1
+      maximum: 1
+    - item: 21079
+      minimum: 1
+      maximum: 1
+    - item: 1048
+      minimum: 1
+      maximum: 1
+    - item: 1046
+      minimum: 1
+      maximum: 1
+    - item: 21003
+      minimum: 1
+      maximum: 1
+    - item: 22324
+      minimum: 1
+      maximum: 1
+    - item: 24664
+      minimum: 1
+      maximum: 1
+    - item: 24666
+      minimum: 1
+      maximum: 1
+    - item: 24668
+      minimum: 1
+      maximum: 1
+
+uncommon:
+  accessibility: 30
+  items:
+    - item: 13302
+      minimum: 5
+      maximum: 5
+    - item: 2400
+      minimum: 1
+      maximum: 1
+    - item: 22875
+      minimum: 1
+      maximum: 1
+    - item: 27285
+      minimum: 3
+      maximum: 3
+    - item: 13239
+      minimum: 1
+      maximum: 1
+    - item: 13235
+      minimum: 1
+      maximum: 1
+    - item: 13237
+      minimum: 1
+      maximum: 1
+    - item: 27226
+      minimum: 1
+      maximum: 1
+    - item: 27229
+      minimum: 1
+      maximum: 1
+    - item: 27232
+      minimum: 1
+      maximum: 1
+
+rare:
+  accessibility: 643
+  items:
+    - item: 786 #$50
+      minimum: 1
+      maximum: 1
+    - item: 22405 #Vial Of Blood
+      minimum: 1
+      maximum: 1
+    - item: 21046 #chest rate bonus
+      minimum: 1
+      maximum: 1000
+    - item: 27285 #eye of corruption
+      minimum: 1
+      maximum: 5
+    - item: 26879 #wraith essence
+      minimum: 100
+      maximum: 300
+    - item: 33343 #ember helm
+      minimum: 1
+      maximum: 1
+    - item: 33344 #ember body
+      minimum: 1
+      maximum: 1
+    - item: 33345 #ember legs
+      minimum: 1
+      maximum: 1
+    - item: 33202 #demon x sword
+      minimum: 1
+      maximum: 1
+    - item: 33311 #ice helm
+      minimum: 1
+      maximum: 1
+    - item: 33312 #ice body
+      minimum: 1
+      maximum: 1
+    - item: 33313 #ice legs
+      minimum: 1
+      maximum: 1
+    - item: 26269 #Demon x c'bow
+      minimum: 1
+      maximum: 1
+    - item: 33308 #reverie helm
+      minimum: 1
+      maximum: 1
+    - item: 33309 #reverie body
+      minimum: 1
+      maximum: 1
+    - item: 33310 #reverie legs
+      minimum: 1
+      maximum: 1
+    - item: 33205 #demon x staff
+      minimum: 1
+      maximum: 1
+
+extremely_rare:
+  accessibility: 900
+  items:
+    - item: 33296 #Artorias Helm
+      minimum: 1
+      maximum: 1
+    - item: 33297 #Artorias Body
+      minimum: 1
+      maximum: 1
+    - item: 33298 #Artorias Legs
+      minimum: 1
+      maximum: 1
+    - item: 33406 #Heredit Ring
+      minimum: 1
+      maximum: 1
+    - item: 33407 #Heredit Amulet
+      minimum: 1
+      maximum: 1
+    - item: 33408 #Heredit Boots
+      minimum: 1
+      maximum: 1
+    - item: 33409 #Heredit Gloves
+      minimum: 1
+      maximum: 1
+    - item: 33410 #Heredit Cape
+      minimum: 1
+      maximum: 1
+    - item: 33411 #Heredit Quiver
+      minimum: 1
+      maximum: 1

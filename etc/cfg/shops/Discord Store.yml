@@ -1,0 +1,82 @@
+---
+id: 118
+name: "Discord Store"
+items:
+  - id: 696 #250k nomad
+    price: 10000000
+  - id: 21079 #arcane
+    price: 35000000
+  - id: 21034 #dex
+    price: 35000000
+  - id: 2400 #arbo key
+    price: 150000000
+  - id: 13302 #bank key
+    price: 75000000
+  - id: 23083 #brimstone key
+    price: 2500000
+  - id: 2572 #row
+    price: 10000000
+  - id: 12785 #rowi
+    price: 25000000
+  - id: 20788 #row3
+    price: 75000000
+  - id: 12783 #row scroll
+    price: 3000000
+  - id: 12786 #msb imbue
+    price: 1500000
+  - id: 7629 #x2 slayer
+    price: 1750000
+  - id: 7968 #skill pet
+    price: 1750000
+  - id: 24460 #fast clue
+    price: 1750000
+  - id: 2841 #bonus exp
+    price: 1750000
+  - id: 6121 #break vials
+    price: 25000000
+  - id: 12821 #spectral
+    price: 75000000
+  - id: 12817 #ely
+    price: 75000000
+  - id: 12825 #arcane
+    price: 75000000
+  - id: 6199 #mb
+    price: 250000 #50/24 period MAX
+  - id: 6828 #smb
+    price: 750000
+  - id: 13346 #umb
+    price: 1000000
+  - id: 8167 #pet box
+    price: 150000000
+  - id: 20366 #tort(or)
+    price: 10000000
+  - id: 22249 #anguish(or)
+    price: 10000000
+  - id: 19720 #occult(or)
+    price: 10000000
+  - id: 4151 #whip
+    price: 2500000
+  - id: 12006 #tentacle
+    price: 10000000
+  - id: 13263 #bludgeon
+    price: 10000000
+  - id: 12924 #blowpipe
+    price: 50000000
+  - id: 11907 #trident
+    price: 2500000
+  - id: 11730 #ovl
+    price: 500000
+  - id: 11212 #darrow
+    price: 20000
+  - id: 13438 #slayer mbox
+    price: 250000
+  - id: 20011 #3a hatchet
+    price: 10000000
+  - id: 20014 #3a axe
+    price: 10000000
+    #boost w status: 34,560k/24hrs logged in
+    #boost no status: 23,040k/24
+    #non w/ status: 17,280k/24
+    #non no status: 5,760k/24
+    #AVG: 20,160k/24hr
+    #mb/smb/umb working under assumption you're utilising the claw-machine mechanic

@@ -1,0 +1,146 @@
+---
+npc_id: 5169
+constant:
+  accessibility: 0
+  items:
+    - item: 696  #1.25m Nomad
+      minimum: 5
+      maximum: 5
+common:
+  accessibility: 150
+  items:
+    - item: 696  #2.5m Nomad
+      minimum: 1
+      maximum: 10
+    - item: 11666  #Elite void token
+      minimum: 1
+      maximum: 1
+    - item: 26500  #Dono boss scroll
+      minimum: 1
+      maximum: 1
+    - item: 25376  #Dragon pick (or)
+      minimum: 1
+      maximum: 1
+    - item: 25378  #Dragon axe (or)
+      minimum: 1
+      maximum: 1
+    - item: 25373  #Dragon harpoon (or)
+      minimum: 1
+      maximum: 1
+    - item: 27624  #Ancient sceptre
+      minimum: 1
+      maximum: 1
+    - item: 22316  #Kyros sword
+      minimum: 1
+      maximum: 1
+    - item: 26545  #Hope perk
+      minimum: 1
+      maximum: 1
+    - item: 6769  #$5
+      minimum: 1
+      maximum: 1
+uncommon:
+  accessibility: 250
+  items:
+    - item: 696  #5m Nomad
+      minimum: 1
+      maximum: 20
+    - item: 27226  #Masori mask
+      minimum: 1
+      maximum: 1
+    - item: 27229  #Masori body
+      minimum: 1
+      maximum: 1
+    - item: 27232  #Masori chaps
+      minimum: 1
+      maximum: 1
+    - item: 26374  #Zaryte c'bow
+      minimum: 1
+      maximum: 1
+    - item: 26235  #Zaryte vembracers
+      minimum: 1
+      maximum: 1
+    - item: 26382  #Torva helm
+      minimum: 1
+      maximum: 1
+    - item: 26384  #Torva body
+      minimum: 1
+      maximum: 1
+    - item: 26386  #Torva legs
+      minimum: 1
+      maximum: 1
+    - item: 22324  #Ghrazi rapier
+      minimum: 1
+      maximum: 1
+    - item: 27285  # Eye of the corruptor
+      minimum: 1
+      maximum: 1
+    - item: 26225  #Ancient helm
+      minimum: 1
+      maximum: 1
+    - item: 26221  #Ancient body
+      minimum: 1
+      maximum: 1
+    - item: 26223  #Ancient legs
+      minimum: 1
+      maximum: 1
+    - item: 21006  #Kodai
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 450
+  items:
+    - item: 10557  #Collector icon
+      minimum: 1
+      maximum: 1
+    - item: 10556  #Attacker
+      minimum: 1
+      maximum: 1
+    - item: 10558  #Defender
+      minimum: 1
+      maximum: 1
+    - item: 10559  #Healer
+      minimum: 1
+      maximum: 1
+    - item: 27285   #Eye of the corruptor
+      minimum: 1
+      maximum: 3
+    - item: 25985  #Elidinis' ward
+      minimum: 1
+      maximum: 1
+    - item: 2400  #Arbo key
+      minimum: 1
+      maximum: 10
+    - item: 13346  #Umb
+      minimum: 1
+      maximum: 5
+very_rare:
+  accessibility: 650
+  items:
+    - item: 696  #10m Nomad
+      minimum: 40
+      maximum: 40
+    - item: 3128  #Dural phat
+      minimum: 1
+      maximum: 1
+    - item: 21129  #Troll (i5)
+      minimum: 1
+      maximum: 1
+    - item: 22405  #Vial of blood
+      minimum: 1
+      maximum: 1
+    - item: 27285  #Eye of the corruptor
+      minimum: 1
+      maximum: 5
+    - item: 20997  #Twisted bow
+      minimum: 1
+      maximum: 1
+    - item: 22325  #Scythe
+      minimum: 1
+      maximum: 1
+    - item: 22323  #Sanguinesti staff
+      minimum: 1
+      maximum: 1
+    - item: 20786  #Row (i5)
+      minimum: 1
+      maximum: 1

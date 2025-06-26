@@ -1,0 +1,72 @@
+---
+id: 9
+name: "Donator Store"
+items:
+  - id: 33251 #Dono coin
+    price: 1
+  - id: 7774 #Dono coin
+    price: 10
+  - id: 7775 #Dono coin
+    price: 50
+  - id: 7776 #Dono coin
+    price: 100
+  - id: 33113 #Mystery madness
+    price: 100
+  - id: 33112 #Pot of gold
+    price: 100
+  - id: 33111 #Magic paper
+    price: 100
+  - id: 33110 #Clepto maniac
+    price: 100
+  - id: 33109 #Raiders luck
+    price: 100
+  - id: 11481 #Inf prayer
+    price: 300
+  - id: 22999 #Inf overload
+    price: 300
+  - id: 26914 #Collector ammy
+    price: 250
+  - id: 20788 #Row(i3)
+    price: 5
+  - id: 6677 #Mini Smb
+    price: 1
+  - id: 6678 #Mini Umb
+    price: 2
+  - id: 19887 #mini dono box
+    price: 3
+  - id: 19897 #Cosmetic box
+    price: 3
+  - id: 26500 #Donor boss scroll
+    price: 10
+  - name: "dexterous prayer scroll"
+    price: 50
+  - name: "arcane prayer scroll"
+    price: 50
+  - id: 11666 #Elite void token
+    price: 15
+  - id: 21259 #Name change scroll
+    price: 75
+  - id: 22325 #Scythe
+    price: 250
+  - id: 26382 #Torva helm
+    price: 150
+  - id: 26384 #Torva body
+    price: 150
+  - id: 26386 #Torva legs
+    price: 150
+  - id: 27226 #Masori mask
+    price: 150
+  - id: 27229 #Masori body
+    price: 150
+  - id: 27232 #Masori chaps
+    price: 150
+  - id: 20997 #T bow
+    price: 250
+  - id: 26374 #Zaryte c'bow
+    price: 200
+  - id: 28274 #smoked gem
+    price: 5
+  - id: 10943 #dono vault token
+    price: 75
+  - id: 6805 #fortune spin
+    price: 15

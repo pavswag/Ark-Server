@@ -1,0 +1,112 @@
+---
+id: 4
+name: "Range Supplies"
+items:
+- name: "iron arrow"
+  price: 25
+- name: "steel arrow"
+  price: 50
+- name: "mithril arrow"
+  price: 100
+- name: "adamant arrow"
+  price: 250
+- name: "rune arrow"
+  price: 500
+- name: "iron knife"
+  price: 500
+- name: "mithril knife"
+  price: 750
+- name: "adamant knife"
+  price: 1000
+- name: "adamant dart"
+  price: 1000
+- name: "shortbow"
+  price: 50
+- name: "longbow"
+  price: 75
+- name: "oak shortbow"
+  price: 100
+- name: "oak longbow"
+  price: 150
+- name: "willow shortbow"
+  price: 200
+- name: "willow longbow"
+  price: 300
+- name: "maple shortbow"
+  price: 400
+- name: "maple longbow"
+  price: 500
+- name: "yew shortbow"
+  price: 1000
+- name: "yew longbow"
+  price: 1500
+- name: "magic shortbow"
+  price: 10000
+- name: "magic longbow"
+  price: 15000
+- name: "bronze crossbow"
+  price: 1000
+- name: "rune crossbow"
+  price: 2500000
+- name: "adamant bolts"
+  price: 250
+- name: "diamond bolts e"
+  price: 500
+- name: "ruby bolts e"
+  price: 1500
+- name: "runite bolts"
+  price: 500
+- name: "dragonstone bolts e"
+  price: 1500
+- name: "rune javelin"
+  price: 250
+- name: "leather body"
+  price: 250
+- name: "leather chaps"
+  price: 250
+- name: "studded body"
+  price: 500
+- name: "studded chaps"
+  price: 500
+- name: "green dhide body"
+  price: 5000
+- name: "green dhide chaps"
+  price: 5000
+- name: "green dhide vamb"
+  price: 5000
+- name: "blue dhide body"
+  price: 10000
+- name: "blue dhide chaps"
+  price: 10000
+- name: "blue dhide vamb"
+  price: 10000
+- name: "red dhide body"
+  price: 15000
+- name: "red dhide chaps"
+  price: 15000
+- name: "red dhide vamb"
+  price: 15000
+- name: "black dhide body"
+  price: 25000
+- name: "black dhide chaps"
+  price: 25000
+- name: "black dhide vamb"
+  price: 25000
+- name: "archer helm"
+  price: 25000
+- name: "snakeskin boots"
+  price: 5000
+- name: "amulet of accuracy"
+  price: 500
+- name: "avas accumulator"
+  price: 15000
+- name: "cannon base"
+  price: 25000000
+- name: "cannon stand"
+  price: 25000000
+- name: "cannon barrels"
+  price: 25000000
+- name: "cannon furnace"
+  price: 25000000
+- name: "cannonball"
+  price: 2500

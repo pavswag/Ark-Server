@@ -1,0 +1,44 @@
+---
+identifier: "10_2021"
+date: [2021, 7, 1]
+rewards:
+  - id: 33428 # 1M Nomad Certificate
+    amount: 10
+  - id: 24366 # Island Scroll (60min)
+    amount: 1
+  - id: 12582 # Chambers Box
+    amount: 10
+  - id: 23933 # Vote crystals
+    amount: 50
+  - id: 22093 # Lightbearer
+    amount: 1
+  - id: 7775 # 50 Credit Scroll
+    amount: 1
+  - id: 2396 # $25 Scroll
+    amount: 1
+  - id: 2528 # Experience Lamp
+    amount: 15
+  - id: 33429 # 10M Nomad Certificate
+    amount: 5
+  - id: 2400 # Silverlight Key
+    amount: 15
+  - id: 12588 # Dono Mystery Box
+    amount: 10
+  - id: 6805 # Fortune Spin Ticket
+    amount: 10
+  - id: 22875 # Hespori Seed
+    amount: 1
+  - id: 33353 # Suprise Box
+    amount: 10
+  - id: 7776 # 100 Credit Scroll
+    amount: 1
+  - id: 33378 # Super Vote Box
+    amount: 10
+  - id: 761 # $100 Donator Scroll
+    amount: 1
+  - id: 33354 # Wonder Box
+    amount: 10
+  - id: 33259 # Coinflip Token
+    amount: 5
+  - id: 27285 # Eye of the Corruptor
+    amount: 25

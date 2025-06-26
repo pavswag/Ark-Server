@@ -1,0 +1,74 @@
+---
+id: 196
+name: "Seasonal Shop"
+items:
+  - id: 33059
+    price: 300
+  - id: 33060
+    price: 300
+  - id: 33061
+    price: 300
+  - id: 33062
+    price: 300
+  - id: 33063
+    price: 300
+  - id: 33064
+    price: 300
+  - id: 20439
+    price: 100
+  - id: 20436
+    price: 100
+  - id: 20442
+    price: 100
+  - id: 20433
+    price: 100
+  - id: 1053
+    price: 200
+  - id: 1055
+    price: 200
+  - id: 1057
+    price: 200
+  - id: 11847
+    price: 700
+  - id: 26258
+    price: 20
+  - id: 26256
+    price: 20
+  - id: 24305
+    price: 20
+  - id: 24307
+    price: 20
+  - id: 24309
+    price: 20
+  - id: 24311
+    price: 20
+  - id: 24313
+    price: 20
+  - id: 24315
+    price: 50
+  - id: 24317
+    price: 50
+  - id: 24319
+    price: 50
+  - id: 24321
+    price: 50
+  - id: 24323
+    price: 50
+  - id: 9920
+    price: 20
+  - id: 24327
+    price: 20
+  - id: 24325
+    price: 20
+  - id: 27497
+    price: 50
+  - id: 27499
+    price: 50
+  - id: 27501
+    price: 50
+  - id: 27503
+    price: 50
+  - id: 27505
+    price: 50
+  - id: 27507
+    price: 50

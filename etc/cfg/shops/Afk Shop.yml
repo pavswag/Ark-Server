@@ -1,0 +1,56 @@
+---
+id: 195
+name: "Kyros's AFK Shop"
+items:
+  - id: 7478 #afk token
+    price: 1
+  - id: 6769 #$5
+    price: 750000
+  - id: 2528 #exp lamp
+    price: 25000
+  - id: 26858 #hat of the eye
+    price: 250000
+  - id: 26860 #robe top  of the eye
+    price: 250000
+  - id: 26862 #robe bottoms  of the eye
+    price: 250000
+  - id: 33065 #beaver pet
+    price: 2000000
+  - id: 22093 #vote key
+    price: 125000
+  - id: 11739 #vote m box
+    price: 100000
+  - id: 6679 #mini mystery box
+    price: 100000
+  - id: 6677 #mini smb
+    price: 250000
+  - id: 6678 #mini umb
+    price: 500000
+  - id: 8167 #nomad chest
+    price: 1000000
+  - id: 10025 #magic box
+    price: 2500
+  - id: 989 #crystal key
+    price: 10000
+  - id: 23083 #brimstone key
+    price: 10000
+  - id: 6792 #Seren's key
+    price: 75000
+  - id: 4185 #porozdir key
+    price: 75000
+  - id: 23490 #larran's key
+    price: 75000
+  - id: 22374 #hespori key
+    price: 250000
+  - id: 7968 #25% skilling pet
+    price: 50000
+  - id: 24460 #faster clues
+    price: 50000
+  - id: 7629 #doubler slayer points
+    price: 50000
+  - id: 12785 #row
+    price: 100000
+  - id: 12783 #row scroll
+    price: 50000
+  - id: 11666 #elite void token
+    price: 250000

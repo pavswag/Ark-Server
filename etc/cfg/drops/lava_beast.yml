@@ -1,0 +1,77 @@
+---
+npc_id: 7817
+constant:
+  accessibility: 0
+  items:
+    - item: 537 #Noted Dragon bone
+      minimum: 1
+      maximum: 1
+    - item: 33237 #1 Nomad
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 1
+  items:
+    - item: 691 #10k nomad
+      minimum: 1
+      maximum: 2
+    - item: 6679 #Mini mystery
+      minimum: 1
+      maximum: 1
+    - item: 681 #Ancient talisman
+      minimum: 1
+      maximum: 5
+    - item: 11180 #Ancient coin
+      minimum: 1
+      maximum: 5
+    - item: 21551 #100k Bone
+      minimum: 1
+      maximum: 1
+uncommon:
+  accessibility: 1
+  items:
+    - item: 692 #25k nomad
+      minimum: 1
+      maximum: 3
+    - item: 6677 #Mini smb
+      minimum: 1
+      maximum: 1
+    - item: 6828 #Smb
+      minimum: 1
+      maximum: 1
+    - item: 989 #C Key
+      minimum: 10
+      maximum: 25
+    - item: 21553 #250k Bone
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 75
+  items:
+    - item: 693 #50k nomad
+      minimum: 1
+      maximum: 4
+    - item: 6678 #Mini umb
+      minimum: 1
+      maximum: 1
+    - item: 12774 #Frozen whip
+      minimum: 1
+      maximum: 1
+    - item: 21012 #Dhcb
+      minimum: 1
+      maximum: 1
+    - item: 12899 #Trident of the swamp
+      minimum: 1
+      maximum: 1
+    - item: 26545 #Hope Perk
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 2000
+  items:
+    - item: 696 #250k nomad
+      minimum: 1
+      maximum: 2
+    - item: 19887 #mini dono
+      minimum: 1
+      maximum: 1

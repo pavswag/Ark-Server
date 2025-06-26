@@ -1,0 +1,80 @@
+common:
+  - id: 2396 #$25
+    amount: 1
+  - id: 696 #nomad
+    amount: 125
+  - id: 6805 #fortune spin
+    amount: 10
+  - id: 12582 #chambers box
+    amount: 100
+  - id: 19891 #tob box
+    amount: 100
+  - id: 12579 #arbo box
+    amount: 100
+uncommon:
+  - id: 786 #$50
+    amount: 1
+  - id: 7775 #50 credits
+    amount: 1
+  - id: 12588 #dono box
+    amount: 150
+  - id: 22325 #scythe
+    amount: 1
+  - id: 22323 #sang staff
+    amount: 1
+  - id: 20997 #tbow
+    amount: 1
+  - id: 25734 #holy ghrazi
+    amount: 1
+  - id: 13681 #codex
+    amount: 1
+  - id: 696 #nomad
+    amount: 250
+  - id: 10943 #vault tickets
+    amount: 2
+  - id: 2399 #nomad keys
+    amount: 3
+  - id: 28094 #bounty crates
+    amount: 5
+  - id: 33259 #coin flip
+    amount: 1
+rare:
+  - id: 761 #$100
+    amount: 1
+  - id: 25739 #sang scythe
+    amount: 1
+  - id: 33149 #nox staff
+    amount: 1
+  - id: 33189 #dragon guard
+    amount: 1
+  - id: 33190 #dragon guard
+    amount: 1
+  - id: 33191 #dragon guard
+    amount: 1
+  - id: 33141 #Virtus
+    amount: 1
+  - id: 33142 #Virtus
+    amount: 1
+  - id: 33143 #Virtus
+    amount: 1
+very_rare:
+  - id: 33058 #sgb
+    amount: 1
+  - id: 33184 #blood scythe
+    amount: 1
+  - id: 27275 #tumekens
+    amount: 1
+  - id: 33308 #Reverie
+    amount: 1
+  - id: 33309 #Reverie
+    amount: 1
+  - id: 33310 #Reverie
+    amount: 1
+  - id: 33324 #Starlight
+    amount: 1
+  - id: 33325 #Starlight
+    amount: 1
+  - id: 33326 #Starlight
+    amount: 1
+  - id: 33329 #Starlight
+    amount: 1

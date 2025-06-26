@@ -1,0 +1,106 @@
+---
+npc_id: 12572
+constant:
+  accessibility: 0
+  items:
+  - item: 33429 #1m Nomad
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 3
+  items:
+  - item: 989 # c key
+    minimum: 100
+    maximum: 100
+  - item: 23083 #brimstone key
+    minimum: 100
+    maximum: 100
+  - item: 22374 #Hespori key
+    minimum: 50
+    maximum: 50
+  - item: 4185 #Porazdir key
+    minimum: 50
+    maximum: 50
+  - item: 6792 #Seren key
+    minimum: 50
+    maximum: 50
+  - item: 23490 #larrens key
+    minimum: 50
+    maximum: 50
+  - item: 13302 #bank key
+    minimum: 25
+    maximum: 25
+  - item: 22093 #vote key
+    minimum: 15
+    maximum: 15
+  - item: 2400 #arbo key
+    minimum: 25
+    maximum: 25
+  - item: 28416 #shadow crusade key
+    minimum: 25
+    maximum: 25
+  - item: 28421 #isle of the damned key
+    minimum: 25
+    maximum: 25
+  - item: 13346 #umb
+    minimum: 75
+    maximum: 75
+  - item: 12582 #cox box
+    minimum: 50
+    maximum: 50
+  - item: 19891 #tob box
+    minimum: 50
+    maximum: 50
+  - item: 12579 #arbo box
+    minimum: 50
+    maximum: 50
+  - item: 33361 #crusade box
+    minimum: 50
+    maximum: 50
+  - item: 33353 #suprise
+    minimum: 7
+    maximum: 7
+  - item: 33354 #wonder
+    minimum: 7
+    maximum: 7
+  - item: 33355 #phantom
+    minimum: 7
+    maximum: 7
+  - item: 33357 #epic
+    minimum: 5
+    maximum: 5
+  - item: 33358 #chaotic
+    minimum: 5
+    maximum: 5
+  - item: 33391 #freedom
+    minimum: 5
+    maximum: 5
+  - item: 33359 #crusade
+    minimum: 5
+    maximum: 5
+  - item: 33362 #heredit
+    minimum: 3
+    maximum: 3
+  - item: 33374 #damned
+    minimum: 3
+    maximum: 3
+  - item: 33364 #forsaken
+    minimum: 3
+    maximum: 3
+  - item: 33429 #nomad
+    minimum: 10
+    maximum: 10
+
+uncommon:
+  accessibility: 150
+  items:
+    - item: 33429 #nomad
+      minimum: 20
+      maximum: 20
+
+rare:
+  accessibility: 250
+  items:
+    - item: 33429 #nomad
+      minimum: 50
+      maximum: 50

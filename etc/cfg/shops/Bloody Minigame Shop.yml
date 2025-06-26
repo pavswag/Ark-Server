@@ -1,0 +1,138 @@
+---
+id: 197
+name: "Bloody Minigame Shop"
+items:
+  - name: "cooked karambwan noted"
+    price: 5
+  - name: "anglerfish noted"
+    price: 5
+  - name: "dragon bones noted"
+    price: 5
+  - name: "divine ranging potion4 noted"
+    price: 10
+  - name: "divine magic potion4 noted"
+    price: 10
+  - name: "divine super combat potion4 noted"
+    price: 10
+  - name: "overload 4"
+    price: 25
+  - id: 696 #10k nomad
+    price: 150
+  - id: 26500 #donor boss scroll
+    price: 1250
+  - name: "dragon arrow"
+    price: 5
+  - name: "dragon dart"
+    price: 5
+  - name: "dragon javelin"
+    price: 5
+  - name: "rune pouch"
+    price: 1000
+  - name: "royal seed pod"
+    price: 1000
+  - id: 26526 #cannon
+    price: 4000
+  - id: 26522 #cannon
+    price: 4000
+  - id: 26520 #cannon
+    price: 4000
+  - id: 26524 #cannon
+    price: 4000
+  - name: "ammo mould"
+    price: 5
+  - name: "casket"
+    price: 25
+  - id: 6679 #mini mbox
+    price: 100
+  - id: 6677 #mini smb
+    price: 250
+  - id: 6678 #mini umb
+    price: 500
+  - id: 8167 #nomad chest
+    price: 10000
+  - id: 26714 #arma helm (or)
+    price: 6500
+  - id: 26715 #arma body (or)
+    price: 6500
+  - id: 26716 #arma skirt (or)
+    price: 6500
+  - id: 26718 #bandos chest (or)
+    price: 6500
+  - id: 26719 #bandos tassets (or)
+    price: 6500
+  - id: 26720 #bandos boots (or)
+    price: 6500
+  - name: "fighter torso"
+    price: 1000
+  - id: 12873 #guthans
+    price: 1000
+  - id: 12875 #veracs
+    price: 1000
+  - id: 12877 #dharoks
+    price: 1000
+  - id: 12879 #torags
+    price: 1000
+  - id: 12881 #ahrims
+    price: 1000
+  - id: 12883 #karils
+    price: 1000
+  - name: "ring of wealth"
+    price: 1000
+  - name: "ring of wealth scroll"
+    price: 500
+  - name: "crystal weapon seed"
+    price: 50
+  - name: "uncut onyx"
+    price: 2500
+  - name: "berserker necklace"
+    price: 500
+  - id: 2577 #ranger boots
+    price: 500
+  - id: 6920 #infinity boots
+    price: 500
+  - id: 11840 #dragon boots
+    price: 500
+  - id: 27112 #barrows gloves wrapped
+    price: 1000
+  - name: "master wand"
+    price: 750
+  - name: "mages book"
+    price: 750
+  - name: "darklight"
+    price: 500
+  - name: "zamorakian spear"
+    price: 500
+  - id: 13615 #graceful
+    price: 1500
+  - id: 13617 #graceful
+    price: 1500
+  - id: 13619 #graceful
+    price: 1500
+  - id: 13621 #graceful
+    price: 1500
+  - id: 13623 #graceful
+    price: 1500
+  - id: 13625 #graceful
+    price: 1500
+  - id: 4069
+    price: 500
+  - id: 4070
+    price: 500
+  - id: 4504
+    price: 500
+  - id: 4505
+    price: 500
+  - id: 4509
+    price: 500
+  - id: 4510
+    price: 500
+  - id: 11899
+    price: 500
+  - id: 11900
+    price: 500
+  - id: 24165
+    price: 500
+  - id: 24163
+    price: 500
+  - id: 24164
+    price: 500

@@ -1,0 +1,520 @@
+common:
+  # Scrap paper
+- amount: 100
+  id: 11681
+
+uncommon:
+  # Scrap paper
+- amount: 100
+  id: 11681
+
+  # Death rune
+- amount: 125
+  id: 560
+
+  # Death rune
+- amount: 125
+  id: 560
+
+  # Death rune
+- amount: 125
+  id: 560
+
+  # Death rune
+- amount: 125
+  id: 560
+
+  # Death rune
+- amount: 125
+  id: 560
+
+  # Death rune
+- amount: 125
+  id: 560
+
+  # Death rune
+- amount: 125
+  id: 560
+
+  # Death rune
+- amount: 125
+  id: 560
+
+  # Death rune
+- amount: 125
+  id: 560
+
+  # Death rune
+- amount: 125
+  id: 560
+
+  # Death rune
+- amount: 125
+  id: 560
+
+  # Death rune
+- amount: 125
+  id: 560
+
+  # Blood rune
+- amount: 125
+  id: 565
+
+  # Blood rune
+- amount: 125
+  id: 565
+
+  # Blood rune
+- amount: 125
+  id: 565
+
+  # Blood rune
+- amount: 125
+  id: 565
+
+  # Blood rune
+- amount: 125
+  id: 565
+
+  # Blood rune
+- amount: 125
+  id: 565
+
+  # Blood rune
+- amount: 125
+  id: 565
+
+  # Blood rune
+- amount: 125
+  id: 565
+
+  # Blood rune
+- amount: 125
+  id: 565
+
+  # Blood rune
+- amount: 125
+  id: 565
+
+  # Blood rune
+- amount: 125
+  id: 565
+
+  # Blood rune
+- amount: 125
+  id: 565
+
+  # Overload (4)
+- amount: 1
+  id: 11730
+
+  # Overload (4)
+- amount: 1
+  id: 11730
+
+  # Overload (4)
+- amount: 1
+  id: 11730
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon arrow
+- amount: 125
+  id: 11212
+
+  # Dragon dart
+- amount: 125
+  id: 11230
+
+  # Dragon dart
+- amount: 125
+  id: 11230
+
+  # Dragon dart
+- amount: 125
+  id: 11230
+
+  # Dragon dart
+- amount: 125
+  id: 11230
+
+  # Dragon dart
+- amount: 125
+  id: 11230
+
+  # Dragon dart
+- amount: 125
+  id: 11230
+
+  # Dragon dart
+- amount: 125
+  id: 11230
+
+  # Dragon dart
+- amount: 125
+  id: 11230
+
+  # Dragon dart
+- amount: 125
+  id: 11230
+
+  # Dragon dart
+- amount: 125
+  id: 11230
+
+  # Dragonstone dragon bolts (e)
+- amount: 125
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 125
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 125
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 125
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 125
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 125
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 125
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 125
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 125
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 125
+  id: 21948
+
+  # Runite ore
+- amount: 125
+  id: 452
+
+  # Runite ore
+- amount: 125
+  id: 452
+
+  # Runite ore
+- amount: 125
+  id: 452
+
+  # Runite ore
+- amount: 125
+  id: 452
+
+  # Runite ore
+- amount: 125
+  id: 452
+
+  # Runite ore
+- amount: 125
+  id: 452
+
+  # Runite ore
+- amount: 125
+  id: 452
+
+  # Runite ore
+- amount: 125
+  id: 452
+
+  # Runite ore
+- amount: 125
+  id: 452
+
+  # Runite ore
+- amount: 125
+  id: 452
+
+  # Runite bar
+- amount: 125
+  id: 2364
+
+  # Runite bar
+- amount: 125
+  id: 2364
+
+  # Runite bar
+- amount: 125
+  id: 2364
+
+  # Runite bar
+- amount: 125
+  id: 2364
+
+  # Runite bar
+- amount: 125
+  id: 2364
+
+  # Runite bar
+- amount: 125
+  id: 2364
+
+  # Runite bar
+- amount: 125
+  id: 2364
+
+  # Runite bar
+- amount: 125
+  id: 2364
+
+  # Runite bar
+- amount: 125
+  id: 2364
+
+  # Runite bar
+- amount: 125
+  id: 2364
+
+rare:
+  # Scrap paper
+- amount: 100
+  id: 11681
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # Twisted Ancestral hat
+- amount: 1
+  id: 24664
+
+  # Twisted Ancestral robe top
+- amount: 1
+  id: 24666
+
+  # Twisted Ancestral robe bottom
+- amount: 1
+  id: 24668
+
+  # Ancient sceptre
+- amount: 1
+  id: 27624
+
+  # Vesta Longsword
+- amount: 1
+  id: 22613
+
+  # Dragon hunter crossbow (b)
+- amount: 1
+  id: 25918
+
+very_rare:
+# Scrap paper
+- amount: 100
+  id: 11681
+
+  # Scythe of vitur
+- amount: 1
+  id: 22325
+
+  # Sanguinesti staff
+- amount: 1
+  id: 22323
+
+  # Ghrazi rapier
+- amount: 1
+  id: 22324
+
+  # Ghrazi rapier
+- amount: 1
+  id: 22324
+
+  # Ghrazi rapier
+- amount: 1
+  id: 22324
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # Justiciar faceguard
+- amount: 1
+  id: 22326
+
+  # Justiciar chestguard
+- amount: 1
+  id: 22327
+
+  # Justiciar legguards
+- amount: 1
+  id: 22328
+
+  # Vampyric slayer helmet
+- amount: 1
+  id: 25904
+
+  # Vampyric slayer helmet
+- amount: 1
+  id: 25904
+
+  # Vampyric slayer helmet
+- amount: 1
+  id: 25904
+
+  # Vampyric slayer helmet
+- amount: 1
+  id: 25904
+
+  # Vampyric slayer helmet
+- amount: 1
+  id: 25904
+
+  # Vampyric slayer helmet
+- amount: 1
+  id: 25904
+
+  # Vampyric slayer helmet
+- amount: 1
+  id: 25904
+
+  # Avernic defender hilt
+- amount: 1
+  id: 22477
+
+  # Avernic defender hilt
+- amount: 1
+  id: 22477
+
+  # Avernic defender hilt
+- amount: 1
+  id: 22477
+
+  # Avernic defender hilt
+- amount: 1
+  id: 22477
+
+  # Avernic defender hilt
+- amount: 1
+  id: 22477
+

@@ -1,0 +1,391 @@
+common:
+  # Scrap paper
+- amount: 100
+  id: 11681
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # Dark relic
+- amount: 2
+  id: 21027
+
+  # Dark relic
+- amount: 2
+  id: 21027
+
+  # Overload (4)
+- amount: 2
+  id: 11730
+
+  # Overload (4)
+- amount: 2
+  id: 11730
+
+  # Dragon arrow
+- amount: 10
+  id: 11212
+
+  # Dragon arrow
+- amount: 10
+  id: 11212
+
+  # Dragon dart
+- amount: 10
+  id: 11230
+
+  # Dragon dart
+- amount: 10
+  id: 11230
+
+  # Dragonstone dragon bolts (e)
+- amount: 10
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 10
+  id: 21948
+
+  # Amethyst
+- amount: 10
+  id: 21348
+
+  # Amethyst
+- amount: 10
+  id: 21348
+
+  # Runite ore
+- amount: 10
+  id: 452
+
+  # Runite ore
+- amount: 10
+  id: 452
+
+  # Runite bar
+- amount: 10
+  id: 2364
+
+  # Runite bar
+- amount: 10
+  id: 2364
+
+  # Rune arrow
+- amount: 25
+  id: 892
+
+  # Rune arrow
+- amount: 25
+  id: 892
+
+  # Runite bolts
+- amount: 25
+  id: 9144
+
+  # Runite bolts
+- amount: 25
+  id: 9144
+
+  # Divine super combat potion(4)
+- amount: 10
+  id: 23686
+
+  # Divine super combat potion(4)
+- amount: 10
+  id: 23686
+
+  # Divine magic potion(4)
+- amount: 10
+  id: 23746
+
+  # Divine magic potion(4)
+- amount: 10
+  id: 23746
+
+rare:
+  # Scrap paper
+- amount: 100
+  id: 11681
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # Dragon warhammer
+- amount: 1
+  id: 13576
+
+  # Dragon warhammer
+- amount: 1
+  id: 13576
+
+  # Dragon warhammer
+- amount: 1
+  id: 13576
+
+  # Dragon warhammer
+- amount: 1
+  id: 13576
+
+  # Rune c'bow (or)
+- amount: 1
+  id: 26486
+
+  # Rune c'bow (or)
+- amount: 1
+  id: 26486
+
+  # Rune c'bow (or)
+- amount: 1
+  id: 26486
+
+  # Rune c'bow (or)
+- amount: 1
+  id: 26486
+
+very_rare:
+  # Scrap paper
+- amount: 100
+  id: 11681
+
+  # Twisted bow
+- amount: 1
+  id: 20997
+
+  # Olmlet
+- amount: 1
+  id: 20851
+
+  # Raiders Luck
+- amount: 1
+  id: 33109
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 10
+  id: 696
+
+  # Arcane Prayer Scroll
+- amount: 1
+  id: 21079
+
+  # Arcane Prayer Scroll
+- amount: 1
+  id: 21079
+
+  # Arcane Prayer Scroll
+- amount: 1
+  id: 21079
+
+  # Arcane Prayer Scroll
+- amount: 1
+  id: 21079
+
+  # Dexterous Prayer Scroll
+- amount: 1
+  id: 21034
+
+  # Dexterous Prayer Scroll
+- amount: 1
+  id: 21034
+
+  # Dexterous Prayer Scroll
+- amount: 1
+  id: 21034
+
+  # Dexterous Prayer Scroll
+- amount: 1
+  id: 21034
+
+  # Ancestral hat
+- amount: 1
+  id: 21018
+
+  # Ancestral hat
+- amount: 1
+  id: 21018
+
+  # Ancestral hat
+- amount: 1
+  id: 21018
+
+  # Ancestral hat
+- amount: 1
+  id: 21018
+
+  # Ancestral robe top
+- amount: 1
+  id: 21021
+
+  # Ancestral robe top
+- amount: 1
+  id: 21021
+
+  # Ancestral robe top
+- amount: 1
+  id: 21021
+
+  # Ancestral robe top
+- amount: 1
+  id: 21021
+
+  # Ancestral robe bottom
+- amount: 1
+  id: 21024
+
+  # Ancestral robe bottom
+- amount: 1
+  id: 21024
+
+  # Ancestral robe bottom
+- amount: 1
+  id: 21024
+
+  # Ancestral robe bottom
+- amount: 1
+  id: 21024
+
+  # Kodai wand
+- amount: 1
+  id: 21006
+
+  # Kodai wand
+- amount: 1
+  id: 21006
+
+  # Kodai wand
+- amount: 1
+  id: 21006
+
+  # Kodai wand
+- amount: 1
+  id: 21006
+
+  # Elder maul
+- amount: 1
+  id: 21003
+
+  # Elder maul
+- amount: 1
+  id: 21003
+
+  # Dragon claws
+- amount: 1
+  id: 20784
+
+  # Dragon claws
+- amount: 1
+  id: 20784
+
+  # Dinh's bulwark
+- amount: 1
+  id: 21015
+
+  # Dinh's bulwark
+- amount: 1
+  id: 21015
+
+  # Twisted buckler
+- amount: 1
+  id: 21000
+
+  # Twisted buckler
+- amount: 1
+  id: 21000
+
+  # Dragon hunter crossbow
+- amount: 1
+  id: 21012
+
+  # Dragon hunter crossbow
+- amount: 1
+  id: 21012
+

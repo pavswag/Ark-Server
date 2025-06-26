@@ -1,0 +1,312 @@
+common:
+  # Death rune
+- amount: 2500
+  id: 560
+
+  # Death rune
+- amount: 2500
+  id: 560
+
+  # Death rune
+- amount: 2500
+  id: 560
+
+  # Death rune
+- amount: 2500
+  id: 560
+
+  # Death rune
+- amount: 2500
+  id: 560
+
+  # Blood rune
+- amount: 2500
+  id: 565
+
+  # Blood rune
+- amount: 2500
+  id: 565
+
+  # Blood rune
+- amount: 2500
+  id: 565
+
+  # Blood rune
+- amount: 2500
+  id: 565
+
+  # Blood rune
+- amount: 2500
+  id: 565
+
+  # Overload (4)
+- amount: 8
+  id: 11730
+
+  # Overload (4)
+- amount: 8
+  id: 11730
+
+  # Dragon arrow
+- amount: 2500
+  id: 11212
+
+  # Dragon arrow
+- amount: 2500
+  id: 11212
+
+  # Dragon arrow
+- amount: 2500
+  id: 11212
+
+  # Dragon arrow
+- amount: 2500
+  id: 11212
+
+  # Dragon arrow
+- amount: 2500
+  id: 11212
+
+  # Dragon dart
+- amount: 2500
+  id: 11230
+
+  # Dragon dart
+- amount: 2500
+  id: 11230
+
+  # Dragon dart
+- amount: 2500
+  id: 11230
+
+  # Dragon dart
+- amount: 2500
+  id: 11230
+
+  # Dragon dart
+- amount: 2500
+  id: 11230
+
+  # Dragonstone dragon bolts (e)
+- amount: 2500
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 2500
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 2500
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 2500
+  id: 21948
+
+  # Dragonstone dragon bolts (e)
+- amount: 2500
+  id: 21948
+
+  # Runite ore
+- amount: 1500
+  id: 452
+
+  # Runite ore
+- amount: 1500
+  id: 452
+
+  # Runite ore
+- amount: 1500
+  id: 452
+
+  # Runite ore
+- amount: 1500
+  id: 452
+
+  # Runite ore
+- amount: 1500
+  id: 452
+
+  # Runite bar
+- amount: 1500
+  id: 2364
+
+  # Runite bar
+- amount: 1500
+  id: 2364
+
+  # Runite bar
+- amount: 1500
+  id: 2364
+
+  # Runite bar
+- amount: 1500
+  id: 2364
+
+  # Runite bar
+- amount: 1500
+  id: 2364
+
+uncommon:
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # Ancient sceptre
+- amount: 1
+  id: 27624
+
+  # Vesta Longsword
+- amount: 1
+  id: 22613
+
+  # Vesta Longsword
+- amount: 1
+  id: 22613
+
+rare:
+  # 250,000 Nomad Point Certificate
+- amount: 40
+  id: 696
+
+  # Dragon hunter crossbow (b)
+- amount: 1
+  id: 25918
+
+  # Vampyric slayer helmet
+- amount: 1
+  id: 25904
+
+  # Vampyric slayer helmet
+- amount: 1
+  id: 25904
+
+  # Vampyric slayer helmet
+- amount: 1
+  id: 25904
+
+  # Avernic defender hilt
+- amount: 1
+  id: 22477
+
+  # Avernic defender hilt
+- amount: 1
+  id: 22477
+
+  # Avernic defender hilt
+- amount: 1
+  id: 22477
+
+  # Avernic defender hilt
+- amount: 1
+  id: 22477
+
+  # Avernic defender hilt
+- amount: 1
+  id: 22477
+
+  # Justiciar faceguard
+- amount: 1
+  id: 22326
+
+  # Justiciar chestguard
+- amount: 1
+  id: 22327
+
+  # Justiciar legguards
+- amount: 1
+  id: 22328
+
+  # Twisted Ancestral hat
+- amount: 1
+  id: 24664
+
+  # Twisted Ancestral hat
+- amount: 1
+  id: 24664
+
+  # Twisted Ancestral robe top
+- amount: 1
+  id: 24666
+
+  # Twisted Ancestral robe top
+- amount: 1
+  id: 24666
+
+  # Twisted Ancestral robe bottom
+- amount: 1
+  id: 24668
+
+  # Twisted Ancestral robe bottom
+- amount: 1
+  id: 24668
+
+very_rare:
+  # 250,000 Nomad Point Certificate
+- amount: 200
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 50
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 50
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 50
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 50
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 50
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 50
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 50
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 50
+  id: 696
+
+  # 250,000 Nomad Point Certificate
+- amount: 50
+  id: 696
+
+  # Scythe of vitur
+- amount: 1
+  id: 22325
+
+  # Sanguinesti staff
+- amount: 1
+  id: 22323
+
+  # Ghrazi rapier
+- amount: 1
+  id: 22324
+
+  # Ghrazi rapier
+- amount: 1
+  id: 22324
+
+  # Ghrazi rapier
+- amount: 1
+  id: 22324
+
+  # Ghrazi rapier
+- amount: 1
+  id: 22324
+
+  # Ghrazi rapier
+- amount: 1
+  id: 22324
+

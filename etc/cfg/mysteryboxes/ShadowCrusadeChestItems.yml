@@ -1,0 +1,173 @@
+common:
+  - id: 28416  #Shadow Crusade Key
+    amount: 1
+  - id: 696  #5m Nomad
+    amount: 20
+  - id: 6678  #Mini Ultra
+    amount: 50
+  - id: 33360  #Mini Shadow Raid Bow
+    amount: 2
+  - id: 452  #Rune Ore
+    amount: 500
+  - id: 2364  #Rune Bar
+    amount: 500
+  - id: 1632  #Uncut DragonStone
+    amount: 1000
+  - id: 1748  #Black DragonHide
+    amount: 1000
+  - id: 22638  #Morrigans Coif
+    amount: 1
+  - id: 22641  #Mottigans Body
+    amount: 1
+  - id: 22644  #Morrigans Chaps
+    amount: 1
+  - id: 22650  #Zuriels Hood
+    amount: 1
+  - id: 22653  #Zuriels Body
+    amount: 1
+  - id: 22656  #Zuriels Legs
+    amount: 1
+  - id: 22647  #Zuriels Staff
+    amount: 1
+  - id: 4152  #Noted Whip
+    amount: 1
+  - id: 28416  #Shadow Crusade Key (Start of double rewards)
+    amount: 1
+  - id: 696  #5m Nomad
+    amount: 20
+  - id: 6678  #Mini Ultra
+    amount: 50
+  - id: 33360  #Mini Shadow Raid Bow
+    amount: 2
+  - id: 452  #Rune Ore
+    amount: 500
+  - id: 2364  #Rune Bar
+    amount: 500
+  - id: 1632  #Uncut DragonStone
+    amount: 1000
+  - id: 1748  #Black DragonHide
+    amount: 1000
+  - id: 22638  #Morrigans Coif
+    amount: 1
+  - id: 22641  #Mottigans Body
+    amount: 1
+  - id: 22644  #Morrigans Chaps
+    amount: 1
+  - id: 22650  #Zuriels Hood
+    amount: 1
+  - id: 22653  #Zuriels Body
+    amount: 1
+  - id: 22656  #Zuriels Legs
+    amount: 1
+  - id: 22647  #Zuriels Staff
+    amount: 1
+  - id: 4152  #Noted Whip (End of double rewards)
+    amount: 1
+uncommon:
+  - id: 28416  #Shadow Crusade Key
+    amount: 1
+  - id: 696  #10m Nomad
+    amount: 40
+  - id: 6678  #Mini Ultra
+    amount: 100
+  - id: 33360  #Mini Shadow Raid Bow
+    amount: 25
+  - id: 6571  #Uncut Onyx
+    amount: 5
+  - id: 33141  #Virtus Mask
+    amount: 1
+  - id: 33142  #Virtus Top
+    amount: 1
+  - id: 33143  #Virtus Legs
+    amount: 1
+  - id: 13681  #Cruciferous Codex
+    amount: 1
+  - id: 27235  #Masori Mask (f)
+    amount: 1
+  - id: 27238  #Masori body (f)
+    amount: 1
+  - id: 27241  #Masori Chaps (f)
+    amount: 1
+  - id: 20997  #Twisted Bow
+    amount: 1
+rare:
+  - id: 28416  #Shadow Crusade Key
+    amount: 1
+  - id: 696  #10m Nomad
+    amount: 40
+  - id: 6678  #Mini Ultra
+    amount: 100
+  - id: 33360  #Mini Shadow Raid Bow
+    amount: 25
+  - id: 6571  #Uncut Onyx
+    amount: 5
+  - id: 33141  #Virtus Mask
+    amount: 1
+  - id: 33142  #Virtus Top
+    amount: 1
+  - id: 33143  #Virtus Legs
+    amount: 1
+  - id: 13681  #Cruciferous Codex
+    amount: 1
+  - id: 27235  #Masori Mask (f)
+    amount: 1
+  - id: 27238  #Masori body (f)
+    amount: 1
+  - id: 27241  #Masori Chaps (f)
+    amount: 1
+  - id: 20997  #Twisted Bow
+    amount: 1
+  - id: 28416  #Shadow Crusade Key
+    amount: 1
+  - id: 696  #10m Nomad
+    amount: 40
+  - id: 6678  #Mini Ultra
+    amount: 100
+  - id: 33360  #Mini Shadow Raid Bow
+    amount: 25
+  - id: 6571  #Uncut Onyx
+    amount: 5
+  - id: 33141  #Virtus Mask
+    amount: 1
+  - id: 33142  #Virtus Top
+    amount: 1
+  - id: 33143  #Virtus Legs
+    amount: 1
+  - id: 13681  #Cruciferous Codex
+    amount: 1
+  - id: 27235  #Masori Mask (f)
+    amount: 1
+  - id: 27238  #Masori body (f)
+    amount: 1
+  - id: 27241  #Masori Chaps (f)
+    amount: 1
+  - id: 20997  #Twisted Bow
+    amount: 1  #Double copy from uncommon
+  - id: 28416  #Shadow Crusade Key
+    amount: 2
+  - id: 22405  #Vial of Blood
+    amount: 1
+  - id: 696  #25m Nomad
+    amount: 100
+  - id: 6678  #Mini Ultra
+    amount: 250
+  - id: 33361  #Shadow Raid Box
+    amount: 10
+  - id: 33354  #Wonder Box
+    amount: 2
+  - id: 33292  #Ice Helm (Range)
+    amount: 1
+  - id: 33293  #Ice Body (Range)
+    amount: 1
+  - id: 33294  #Ice Legs (Range)
+    amount: 1
+  - id: 27119  #Elder Chaos Hood OR (Magic)
+    amount: 1
+  - id: 27115  #Elder Chaos Top OR (Magic)
+    amount: 1
+  - id: 27117  #Elder Chaos Legs OR (Magic)
+    amount: 1
+  - id: 29599  #Corrupted Dark Bow
+    amount: 1
+  - id: 29594  #Purging Staff
+    amount: 1

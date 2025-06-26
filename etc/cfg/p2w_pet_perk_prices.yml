@@ -1,0 +1,21 @@
+perks:
+  - perkKey: "p2w_chosen_one"
+    price: 100
+  - perkKey: "p2w_boosted"
+    price: 50
+  - perkKey: "p2w_juggernaut"
+    price: 100
+  - perkKey: "p2w_bullseye"
+    price: 100
+  - perkKey: "p2w_raiders_ruse"
+    price: 100
+  - perkKey: "p2w_rogue_beast"
+    price: 250
+  - perkKey: "p2w_pvm_master"
+    price: 100
+  - perkKey: "p2w_skiller"
+    price: 100
+  - perkKey: "p2w_raider"
+    price: 100
+  - perkKey: "p2w_loyalist"
+    price: 100

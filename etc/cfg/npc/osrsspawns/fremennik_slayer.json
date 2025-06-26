@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Pyrefiend",
+    "id": 433,
+    "x": 2757,
+    "y": 10011,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 433,
+    "x": 2761,
+    "y": 10012,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 434,
+    "x": 2760,
+    "y": 10008,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 434,
+    "x": 2757,
+    "y": 10006,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 435,
+    "x": 2759,
+    "y": 10003,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 435,
+    "x": 2762,
+    "y": 10005,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 436,
+    "x": 2766,
+    "y": 10002,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 436,
+    "x": 2760,
+    "y": 10000,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 433,
+    "x": 2766,
+    "y": 10004,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  },
+  {
+    "name": "Pyrefiend",
+    "id": 435,
+    "x": 2761,
+    "y": 9997,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 6
+  }
+]

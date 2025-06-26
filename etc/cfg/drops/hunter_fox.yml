@@ -1,0 +1,77 @@
+---
+npc_id: 13426
+constant:
+  accessibility: 0
+  items:
+    - item: 532
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 80
+  items:
+    - item: 30000
+      minimum: 1
+      maximum: 1
+    - item: 1163
+      minimum: 1
+      maximum: 1
+    - item: 4095
+      minimum: 1
+      maximum: 1
+    - item: 4097
+      minimum: 1
+      maximum: 1
+    - item: 2962
+      minimum: 25
+      maximum: 50
+uncommon:
+  accessibility: 140
+  items:
+    - item: 30001
+      minimum: 1
+      maximum: 1
+    - item: 11840
+      minimum: 1
+      maximum: 1
+    - item: 22804
+      minimum: 10
+      maximum: 25
+    - item: 4153
+      minimum: 1
+      maximum: 1
+    - item: 2962
+      minimum: 50
+      maximum: 100
+rare:
+  accessibility: 200
+  items:
+    - item: 30002
+      minimum: 1
+      maximum: 1
+    - item: 4151
+      minimum: 1
+      maximum: 1
+    - item: 11235
+      minimum: 1
+      maximum: 1
+    - item: 2513
+      minimum: 1
+      maximum: 1
+    - item: 20727
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 370
+  items:
+    - item: 11286
+      minimum: 1
+      maximum: 1
+    - item: 20724
+      minimum: 1
+      maximum: 1
+    - item: 33124
+      minimum: 1
+      maximum: 1
+    - item: 33087
+      minimum: 1
+      maximum: 1

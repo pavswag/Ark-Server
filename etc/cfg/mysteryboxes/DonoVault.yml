@@ -1,0 +1,141 @@
+common:
+  - id: 6679
+    amount: 250
+  - id: 6679
+    amount: 250
+  - id: 6679
+    amount: 500
+  - id: 6679
+    amount: 500
+  - id: 6679
+    amount: 750
+  - id: 6679
+    amount: 750
+  - id: 6679
+    amount: 1000
+  - id: 6679
+    amount: 1000
+  - id: 6677
+    amount: 100
+  - id: 6677
+    amount: 200
+  - id: 6677
+    amount: 300
+  - id: 6678
+    amount: 25
+  - id: 6678
+    amount: 50
+  - id: 6678
+    amount: 75
+  - id: 6678
+    amount: 100
+
+uncommon:
+  - id: 21003
+    amount: 1
+  - id: 21012
+    amount: 1
+  - id: 21018
+    amount: 1
+  - id: 21021
+    amount: 1
+  - id: 21024
+    amount: 1
+  - id: 21006
+    amount: 1
+  - id: 26714
+    amount: 1
+  - id: 26715
+    amount: 1
+  - id: 26716
+    amount: 1
+  - id: 25916
+    amount: 1
+  - id: 21000
+    amount: 1
+  - id: 26718
+    amount: 1
+  - id: 26719
+    amount: 1
+  - id: 26720
+    amount: 1
+  - id: 20784
+    amount: 1
+  - id: 22322
+    amount: 1
+  - id: 21079
+    amount: 1
+  - id: 21015
+    amount: 1
+  - id: 20788
+    amount: 1
+  - id: 22881
+    amount: 3
+  - id: 22869
+    amount: 3
+  - id: 6112
+    amount: 3
+  - id: 20909
+    amount: 3
+  - id: 20906
+    amount: 3
+  - id: 20903
+    amount: 3
+
+rare:
+  - id: 19887
+    amount: 5
+  - id: 6769
+    amount: 1
+  - id: 2403
+    amount: 1
+  - id: 20786
+    amount: 1
+  - id: 22883
+    amount: 2
+  - id: 22885
+    amount: 2
+  - id: 22875
+    amount: 1
+  - id: 6805
+    amount: 3
+  - id: 21000
+    amount: 1
+  - id: 24419
+    amount: 1
+  - id: 24420
+    amount: 1
+  - id: 24421
+    amount: 1
+  - id: 24417
+    amount: 1
+  - id: 22326
+    amount: 1
+  - id: 22327
+    amount: 1
+  - id: 22328
+    amount: 1
+  - id: 22324
+    amount: 1
+  - id: 26219
+    amount: 1
+  - id: 24664
+    amount: 1
+  - id: 24666
+    amount: 1
+  - id: 24668
+    amount: 1
+  - id: 10559
+    amount: 1
+  - id: 10558
+    amount: 1
+  - id: 10557
+    amount: 1
+  - id: 10556
+    amount: 1
+  - id: 30014
+    amount: 1
+  - id: 30021
+    amount: 1
+  - id: 30020
+    amount: 1

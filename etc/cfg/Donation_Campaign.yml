@@ -1,0 +1,49 @@
+donationCampaignPots:
+  - amountRequired: 500
+    prize:
+      - id: 33259
+        amount: 5
+      - id: 33353
+        amount: 15
+      - id: 33354
+        amount: 5
+      - id: 33386
+        amount: 5
+      - id: 25537
+        amount: 5
+  - amountRequired: 1000
+    prize:
+      - id: 33386
+        amount: 10
+      - id: 25537
+        amount: 10
+      - id: 33388
+        amount: 1
+      - id: 33358
+        amount: 5
+      - id: 11505
+        amount: 1
+  - amountRequired: 2500
+    prize:
+      - id: 33358
+        amount: 20
+      - id: 33388
+        amount: 5
+      - id: 33386
+        amount: 20
+      - id: 25537
+        amount: 20
+      - id: 33404
+        amount: 1
+  - amountRequired: 5000
+    prize:
+      - id: 33358
+        amount: 50
+      - id: 33388
+        amount: 10
+      - id: 33386
+        amount: 50
+      - id: 25537
+        amount: 50
+      - id: 33233
+        amount: 1

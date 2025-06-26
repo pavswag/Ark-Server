@@ -1,0 +1,1 @@
+package io.kyros.content.minigames.barrows;

@@ -1,0 +1,256 @@
+common:
+  # 3rd age full helmet
+- amount: 1
+  id: 10350
+
+  # 3rd age full helmet
+- amount: 1
+  id: 10350
+
+  # 3rd age platelegs
+- amount: 1
+  id: 10346
+
+  # 3rd age platelegs
+- amount: 1
+  id: 10346
+
+  # 3rd age platebody
+- amount: 1
+  id: 10348
+
+  # 3rd age platebody
+- amount: 1
+  id: 10348
+
+  # 3rd age kiteshield
+- amount: 1
+  id: 10352
+
+  # 3rd age kiteshield
+- amount: 1
+  id: 10352
+
+  # 3rd age range coif
+- amount: 1
+  id: 10334
+
+  # 3rd age range coif
+- amount: 1
+  id: 10334
+
+  # 3rd age range top
+- amount: 1
+  id: 10330
+
+  # 3rd age range top
+- amount: 1
+  id: 10330
+
+  # 3rd age range legs
+- amount: 1
+  id: 10332
+
+  # 3rd age range legs
+- amount: 1
+  id: 10332
+
+  # 3rd age mage hat
+- amount: 1
+  id: 10342
+
+  # 3rd age mage hat
+- amount: 1
+  id: 10342
+
+  # 3rd age robe top
+- amount: 1
+  id: 10338
+
+  # 3rd age robe top
+- amount: 1
+  id: 10338
+
+  # 3rd age robe
+- amount: 1
+  id: 10340
+
+  # 3rd age robe
+- amount: 1
+  id: 10340
+
+  # 3rd age amulet
+- amount: 1
+  id: 10344
+
+  # 3rd age amulet
+- amount: 1
+  id: 10344
+
+  # Tyrannical ring (i)
+- amount: 1
+  id: 12691
+
+  # Treasonous ring (i)
+- amount: 1
+  id: 12692
+
+uncommon:
+  # Malediction ward
+- amount: 1
+  id: 12806
+
+  # Odium ward
+- amount: 1
+  id: 12807
+
+  # Unknown Item
+- amount: 1
+  id: 26498
+
+  # Unknown Item
+- amount: 1
+  id: 26498
+
+  # Unknown Item
+- amount: 1
+  id: 26496
+
+  # Unknown Item
+- amount: 1
+  id: 26496
+
+  # Unknown Item
+- amount: 1
+  id: 26494
+
+  # Unknown Item
+- amount: 1
+  id: 26494
+
+  # Book of law (or)
+- amount: 1
+  id: 26492
+
+  # Book of law (or)
+- amount: 1
+  id: 26492
+
+  # Unknown Item
+- amount: 1
+  id: 26490
+
+  # Unknown Item
+- amount: 1
+  id: 26490
+
+  # Unknown Item
+- amount: 1
+  id: 26488
+
+  # Unknown Item
+- amount: 1
+  id: 26488
+
+rare:
+  # Armadyl helmet (or)
+- amount: 1
+  id: 26714
+
+  # Armadyl helmet (or)
+- amount: 1
+  id: 26714
+
+  # Armadyl chestplate (or)
+- amount: 1
+  id: 26715
+
+  # Armadyl chestplate (or)
+- amount: 1
+  id: 26715
+
+  # Armadyl chainskirt (or)
+- amount: 1
+  id: 26716
+
+  # Armadyl chainskirt (or)
+- amount: 1
+  id: 26716
+
+  # Ancient ceremonial mask
+- amount: 1
+  id: 26225
+
+  # Ancient ceremonial top
+- amount: 1
+  id: 26221
+
+  # Ancient ceremonial legs
+- amount: 1
+  id: 26223
+
+  # Silverlight key
+- amount: 1
+  id: 2400
+
+  # K'klik
+- amount: 1
+  id: 30014
+
+  # Bandos godsword (or)
+- amount: 1
+  id: 20370
+
+  # Zamorak godsword (or)
+- amount: 1
+  id: 20374
+
+  # Saradomin godsword (or)
+- amount: 1
+  id: 20372
+
+  # Armadyl godsword (or)
+- amount: 1
+  id: 20368
+
+very_rare:
+  # 250,000 Nomad Point Certificate
+- amount: 400
+  id: 696
+
+  # Silverlight key
+- amount: 1
+  id: 2400
+
+  # Silverlight key
+- amount: 1
+  id: 2400
+
+  # Eye of the corruptor
+- amount: 1
+  id: 27285
+
+  # Keris partisan
+- amount: 1
+  id: 25979
+
+  # Osmumten's fang
+- amount: 1
+  id: 26219
+
+  # Noxious Staff
+- amount: 1
+  id: 33149
+
+  # Sanguine Scythe of vitur
+- amount: 1
+  id: 25739
+
+  # Elidinis' ward
+- amount: 1
+  id: 25985
+
+  # Lightbearer
+- amount: 1
+  id: 25975
+

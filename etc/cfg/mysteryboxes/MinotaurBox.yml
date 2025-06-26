@@ -1,0 +1,125 @@
+rates:
+  common: 9000
+  uncommon: 600
+  rare: 300
+  very_rare: 245
+
+common:
+  - id: 696 #500m nomad
+    amount: 2000
+  - id: 761 #$100
+    amount: 1
+  - id: 25537 #Gear goodie bag
+    amount: 3
+  - id: 33386 #Pride goodie bag
+    amount: 3
+  - id: 33388 #Bis goodiebag
+    amount: 3
+  - id: 33354 #wonder box
+    amount: 3
+  - id: 33353 #suprise box
+    amount: 3
+  - id: 33357 #Epic box
+    amount: 3
+  - id: 33259 #coin flip
+    amount: 3
+  - id: 33258 #Coinflip (Blue)
+    amount: 3
+  - id: 33391 #Freedom Box
+    amount: 3
+  - id: 33358 #Chaotic Box
+    amount: 3
+  - id: 33359 #Crusade Box
+    amount: 3
+  - id: 33362 #Heredit Box
+    amount: 3
+  - id: 33374 #Damned Box
+    amount: 3
+
+uncommon:
+  - id: 696 #750m nomad
+    amount: 3000
+  - id: 761 #$100
+    amount: 1
+  - id: 25537 #Gear goodie bag
+    amount: 4
+  - id: 33386 #Pride goodie bag
+    amount: 4
+  - id: 33388 #Bis goodiebag
+    amount: 4
+  - id: 33354 #wonder box
+    amount: 4
+  - id: 33353 #suprise box
+    amount: 4
+  - id: 33357 #Epic box
+    amount: 4
+  - id: 33259 #coin flip
+    amount: 4
+  - id: 33258 #Coinflip (Blue)
+    amount: 4
+  - id: 33391 #Freedom Box
+    amount: 4
+  - id: 33358 #Chaotic Box
+    amount: 4
+  - id: 33359 #Crusade Box
+    amount: 4
+  - id: 33362 #Heredit Box
+    amount: 4
+  - id: 33374 #Damned Box
+    amount: 4
+  - id: 25537 #Gear goodie bag
+    amount: 5
+  - id: 33386 #Pride goodie bag
+    amount: 5
+  - id: 33388 #Bis goodiebag
+    amount: 5
+  - id: 33354 #wonder box
+    amount: 5
+  - id: 33353 #suprise box
+    amount: 5
+  - id: 33357 #Epic box
+    amount: 5
+  - id: 33259 #coin flip
+    amount: 5
+  - id: 33258 #Coinflip (Blue)
+    amount: 5
+  - id: 33391 #Freedom Box
+    amount: 5
+  - id: 33358 #Chaotic Box
+    amount: 5
+  - id: 33359 #Crusade Box
+    amount: 5
+  - id: 33362 #Heredit Box
+    amount: 5
+  - id: 33374 #Damned Box
+    amount: 5
+
+rare:
+  - id: 696 #1000m nomad
+    amount: 4000
+  - id: 761 #$100
+    amount: 2
+  - id: 33418 #Heredit (or) Ring
+    amount: 1
+  - id: 33419 #Heredit (or) Amulet
+    amount: 1
+  - id: 33420 #Heredit (or) Boots
+    amount: 1
+  - id: 33421 #Heredit (or) Gloves
+    amount: 1
+  - id: 33422 #Heredit (or) Cape
+    amount: 1
+  - id: 33423 #Heredit (or) Quiver
+    amount: 1
+
+very_rare:
+  - id: 33449 #Goblin Cape
+    amount: 1
+  - id: 33450 #Goblin Boots
+    amount: 1
+  - id: 33451 #Goblin Gloves
+    amount: 1
+  - id: 33452 #Goblin Ring
+    amount: 1
+  - id: 33453 #Goblin Amulet
+    amount: 1

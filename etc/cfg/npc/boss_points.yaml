@@ -1,0 +1,102 @@
+- name: theatre of blood
+  points: 15
+  manual: true
+- name: chambers of xeric
+  points: 12
+  manual: true
+- name: hespori
+  points: 5
+  manual: true
+- name: shadow crusade raid
+  points: 15
+  manual: true
+
+- name: obor
+  points: 5
+- name: bryophyta
+  points: 5
+
+# Non-manual below this line
+- name: manticore
+  points: 10
+- name: javelin colossus
+  points: 10
+- name: Ba-Ba's Phantom
+  points: 15
+- name: the nightmare
+  points: 5
+- name: alchemical hydra
+  points: 3
+- name: crystalline hunllef
+  points: 3
+- name: corporeal beast
+  points: 5
+- name: chaotic death spawn
+  points: 15
+- name: sol heredit
+  points: 15
+
+- name: nex
+  points: 5
+- name: tzkal-zuk
+  points: 15
+- name: vorkath
+  points: 3
+- name: abyssal sire
+  points: 3
+- name: thermonuclear smoke devil
+  points: 3
+- name: tztok-jad
+  points: 10
+- name: kalphite queen
+  points: 1
+- name: zulrah
+  points: 3
+- name: king black dragon
+  points: 5
+- name: skotizo
+  points: 5
+- name: kraken
+  points: 1
+- name: giant mole
+  points: 1
+- name: sarachnis
+  points: 5
+- name: barrelchest
+  points: 1
+- name: cerberus
+  points: 3
+
+# Dag kings
+- name: dagannoth rex
+  points: 1
+- name: dagannoth prime
+  points: 1
+- name: dagannoth supreme
+  points: 1
+
+# Wilderness
+- name: crazy archaeologist
+  points: 4
+- name: chaos fanatic
+  points: 4
+- name: chaos elemental
+  points: 4
+- name: venenatis
+  points: 4
+- name: scorpia
+  points: 4
+- name: callisto
+  points: 4
+- name: vet'ion
+  points: 4
+
+# Godwars
+- name: commander zilyana
+  points: 1
+- name: k'ril tsutsaroth
+  points: 1
+- name: general graardor
+  points: 1
+- name: kree'arra
+  points: 1

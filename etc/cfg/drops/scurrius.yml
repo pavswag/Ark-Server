@@ -1,0 +1,113 @@
+---
+npc_id: 7221
+constant:
+  accessibility: 0
+  items:
+    - item: 696
+      minimum: 5
+      maximum: 10
+common:
+  accessibility: 10
+  items:
+    - item: 2403
+      minimum: 1
+      maximum: 1
+    - item: 696
+      minimum: 20
+      maximum: 20
+    - item: 13346
+      minimum: 10
+      maximum: 10
+    - item: 10556
+      minimum: 1
+      maximum: 1
+    - item: 10557
+      minimum: 1
+      maximum: 1
+uncommon:
+  accessibility: 50
+  items:
+    - item: 2396
+      minimum: 1
+      maximum: 1
+    - item: 696
+      minimum: 40
+      maximum: 40
+    - item: 13346
+      minimum: 20
+      maximum: 20
+    - item: 10559
+      minimum: 1
+      maximum: 1
+    - item: 10558
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 150
+  items:
+    - item: 19887
+      minimum: 15
+      maximum: 30
+    - item: 13346
+      minimum: 50
+      maximum: 50
+    - item: 786
+      minimum: 1
+      maximum: 1
+    - item: 696
+      minimum: 200
+      maximum: 200
+    - item: 7774
+      minimum: 1
+      maximum: 1
+    - item: 33259
+      minimum: 1
+      maximum: 1
+    - item: 2399
+      minimum: 1
+      maximum: 1
+    - item: 33149
+      minimum: 1
+      maximum: 1
+    - item: 33058
+      minimum: 1
+      maximum: 1
+    - item: 25739
+      minimum: 1
+      maximum: 1
+extremely_rare:
+  accessibility: 227
+  items:
+    - item: 12588
+      minimum: 25
+      maximum: 75
+    - item: 761
+      minimum: 1
+      maximum: 1
+    - item: 27235
+      minimum: 1
+      maximum: 1
+    - item: 27238
+      minimum: 1
+      maximum: 1
+    - item: 27241
+      minimum: 1
+      maximum: 1
+    - item: 33141
+      minimum: 1
+      maximum: 1
+    - item: 33142
+      minimum: 1
+      maximum: 1
+    - item: 33143
+      minimum: 1
+      maximum: 1
+    - item: 33189
+      minimum: 1
+      maximum: 1
+    - item: 33190
+      minimum: 1
+      maximum: 1
+    - item: 33191
+      minimum: 1
+      maximum: 1

@@ -1,0 +1,80 @@
+common:
+  - id: 2403 #$10
+    amount: 1
+  - id: 696 #nomad
+    amount: 75
+  - id: 6805 #fortune spin
+    amount: 5
+  - id: 7774 #10 credits
+    amount: 1
+  - id: 12585 #chambers box
+    amount: 50
+  - id: 19891 #tob box
+    amount: 50
+  - id: 12579 #arbo box
+    amount: 50
+uncommon:
+  - id: 2396 #$25
+    amount: 1
+  - id: 10943 #vault
+    amount: 1
+  - id: 2399 #nomad key
+    amount: 1
+  - id: 28094 #bounty crate
+    amount: 1
+  - id: 12588 #dono box
+    amount: 20
+  - id: 22325 #scythe
+    amount: 1
+  - id: 22323 #sang staff
+    amount: 1
+  - id: 20997 #tbow
+    amount: 1
+  - id: 25734 #holy ghrazi
+    amount: 1
+  - id: 13681 #codex
+    amount: 1
+  - id: 696 #nomad
+    amount: 125
+rare:
+  - id: 786 #$50
+    amount: 1
+  - id: 25739 #sang scythe
+    amount: 1
+  - id: 33149 #nox staff
+    amount: 1
+  - id: 26382 #torva
+    amount: 1
+  - id: 26384 #torva
+    amount: 1
+  - id: 26386 #torva
+    amount: 1
+  - id: 27226 #masori
+    amount: 1
+  - id: 27229 #masori
+    amount: 1
+  - id: 27232 #masori
+    amount: 1
+very_rare:
+  - id: 33392 #
+    amount: 1
+  - id: 33394 #
+    amount: 1
+  - id: 33393 #
+    amount: 1
+  - id: 33311 #plague
+    amount: 1
+  - id: 33312 #plague
+    amount: 1
+  - id: 33313 #plague
+    amount: 1
+  - id: 33343 #ember
+    amount: 1
+  - id: 33344 #ember
+    amount: 1
+  - id: 33345 #ember
+    amount: 1
+  - id: 33346 #ember
+    amount: 1
+  - id: 33347 #ember
+    amount: 1

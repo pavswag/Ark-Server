@@ -1,0 +1,128 @@
+---
+npc_id: 12449
+constant:
+  accessibility: 0
+  items:
+    - item: 23933 #vote crystal
+      minimum: 4
+      maximum: 8
+    - item: 22093 #vote key
+      minimum: 2
+      maximum: 4
+    - item: 11739 #vote mbox
+      minimum: 2
+      maximum: 4
+common:
+  accessibility: 30
+  items:
+    - item: 691 #10k nomad
+      minimum: 5
+      maximum: 10
+    - item: 23933 #vote crystal
+      minimum: 8
+      maximum: 16
+    - item: 6679 #mini mbox
+      minimum: 25
+      maximum: 50
+    - item: 6677 #mini smb
+      minimum: 10
+      maximum: 20
+    - item: 6678 #mini ultra
+      minimum: 5
+      maximum: 10
+    - item: 24365 #30min island scroll
+      minimum: 1
+      maximum: 1
+    - item: 7478 #afk token
+      minimum: 25000
+      maximum: 50000
+uncommon:
+  accessibility: 60
+  items:
+    - item: 692 #25k nomad
+      minimum: 4
+      maximum: 40
+    - item: 23933 #vote crystal
+      minimum: 16
+      maximum: 32
+    - item: 22883 #iasor
+      minimum: 1
+      maximum: 1
+    - item: 26500 #donor boss scroll
+      minimum: 1
+      maximum: 3
+    - item: 13302 #bank key
+      minimum: 1
+      maximum: 3
+    - item: 25959 #infernal crystal
+      minimum: 1
+      maximum: 1
+    - item: 2528
+      minimum: 50
+      maximum: 100
+    - item: 20788 #(i3)
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 160
+  items:
+    - item: 693 #50k nomad
+      minimum: 20
+      maximum: 100
+    - item: 23933 #vote crystal
+      minimum: 32
+      maximum: 64
+    - item: 6805 #fortune spin
+      minimum: 1
+      maximum: 2
+    - item: 22885 #kronos
+      minimum: 1
+      maximum: 1
+    - item: 10557 #collector icon
+      minimum: 1
+      maximum: 1
+    - item: 10556 #attack icon
+      minimum: 1
+      maximum: 1
+    - item: 10558 #defender icon
+      minimum: 1
+      maximum: 1
+    - item: 10559 #healer icon
+      minimum: 1
+      maximum: 1
+    - item: 33115 #voting king
+      minimum: 1
+      maximum: 1
+    - item: 28274 #smoked gen
+      minimum: 1
+      maximum: 1
+extremely_rare:
+  accessibility: 260
+  items:
+    - item: 696 #250k nomad
+      minimum: 100
+      maximum: 200
+    - item: 23933 #vote crystal
+      minimum: 64
+      maximum: 128
+    - item: 13346 #umb
+      minimum: 1
+      maximum: 5
+    - item: 12582 #chambers box
+      minimum: 1
+      maximum: 5
+    - item: 19891 #tob box
+      minimum: 1
+      maximum: 5
+    - item: 8167 #nomad chest
+      minimum: 1
+      maximum: 1
+    - item: 7774 #10 credits
+      minimum: 1
+      maximum: 1
+    - item: 2403 #$10 scroll
+      minimum: 1
+      maximum: 1
+    - item: 22875 #hespori seed
+      minimum: 1
+      maximum: 1

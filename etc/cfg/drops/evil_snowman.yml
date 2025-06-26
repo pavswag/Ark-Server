@@ -1,0 +1,149 @@
+---
+npc_id: 2317
+common:
+  accessibility: 1
+  items:
+    - item: 12887 #Santa mask
+      minimum: 1
+      maximum: 1
+    - item: 12888 #Santa body
+      minimum: 1
+      maximum: 1
+    - item: 12889 #Santa legs
+      minimum: 1
+      maximum: 1
+    - item: 12890 #Santa gloves
+      minimum: 1
+      maximum: 1
+    - item: 12891 #Santa boots
+      minimum: 1
+      maximum: 1
+    - item: 28116 #Rainbow jumper
+      minimum: 1
+      maximum: 1
+    - item: 6570 #Firecape
+      minimum: 1
+      maximum: 1
+    - item: 693 #50k Nomad
+      minimum: 1
+      maximum: 1
+    - item: 696 #250k Nomad
+      minimum: 1
+      maximum: 1
+    - item: 33251 #100 Credits
+      minimum: 1
+      maximum: 1
+    - item: 3456 #Common raids key
+      minimum: 10
+      maximum: 10
+uncommon:
+  accessibility: 2
+  items:
+    - item: 6828 #Smb
+      minimum: 2
+      maximum: 2
+    - item: 24428 #Gingerbread shield
+      minimum: 1
+      maximum: 1
+    - item: 24430 #Gingerbread shield
+      minimum: 1
+      maximum: 1
+    - item: 24431 #Gingerbread shield
+      minimum: 1
+      maximum: 1
+    - item: 12892 #Antisanta mask
+      minimum: 1
+      maximum: 1
+    - item: 12893 #Antisanta body
+      minimum: 1
+      maximum: 1
+    - item: 12894 #Antisanta legs
+      minimum: 1
+      maximum: 1
+    - item: 12895 #Antisanta gloves
+      minimum: 1
+      maximum: 1
+    - item: 12896 #Antisanta boots
+      minimum: 1
+      maximum: 1
+    - item: 21295 #Infernal cape
+      minimum: 1
+      maximum: 1
+    - item: 696 #500k Nomad
+      minimum: 2
+      maximum: 2
+rare:
+  accessibility: 15
+  items:
+    - item: 13346 #Umb
+      minimum: 1
+      maximum: 1
+    - item: 6769 #$5
+      minimum: 1
+      maximum: 1
+    - item: 33251 #500 Credits
+      minimum: 1
+      maximum: 1
+    - item: 26545 #Hope perk
+      minimum: 1
+      maximum: 1
+    - item: 13343 #Black Santa
+      minimum: 1
+      maximum: 1
+    - item: 1050 #Santa
+      minimum: 1
+      maximum: 1
+    - item: 696 #1m Nomad
+      minimum: 4
+      maximum: 4
+very_rare:
+  accessibility: 25
+  items:
+    - item: 26649 #Skis
+      minimum: 1
+      maximum: 1
+    - item: 4083 #Sled
+      minimum: 1
+      maximum: 1
+    - item: 21695 #Runefest shield
+      minimum: 1
+      maximum: 1
+    - item: 12399 #Partyhat & Specs
+      minimum: 1
+      maximum: 1
+    - item: 10556 #Attack icon
+      minimum: 1
+      maximum: 1
+    - item: 10557 #Collector icon
+      minimum: 1
+      maximum: 1
+    - item: 10558 #Defender icon
+      minimum: 1
+      maximum: 1
+    - item: 10559 #Healer icon
+      minimum: 1
+      maximum: 1
+    - item: 33159 #Christmas imp
+      minimum: 1
+      maximum: 1
+    - item: 22323 #Sang staff
+      minimum: 1
+      maximum: 1
+    - item: 973 #Charcoal
+      minimum: 1
+      maximum: 1
+    - item: 27580 #Nutcracker staff
+      minimum: 1
+      maximum: 1
+    - item: 696 #10m Nomad
+      minimum: 40
+      maximum: 40
+    - item: 12161 #Chistmas Mbox
+      minimum: 1
+      maximum: 1
+    - item: 5020 #Durial token
+      minimum: 1
+      maximum: 1
+    - item: 2400 #Silverlight key
+      minimum: 1
+      maximum: 4

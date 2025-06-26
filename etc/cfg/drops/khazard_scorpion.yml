@@ -1,0 +1,35 @@
+---
+npc_id: 1226
+constant:
+  accessibility: 0
+  items:
+    - item: 13204
+      minimum: 1
+      maximum: 3
+common:
+  accessibility: 5
+  items:
+    - item: 33125
+      minimum: 1
+      maximum: 25
+    - item: 33126
+      minimum: 1
+      maximum: 25
+    - item: 33129
+      minimum: 1
+      maximum: 25
+    - item: 33130
+      minimum: 1
+      maximum: 25
+    - item: 33133
+      minimum: 1
+      maximum: 25
+    - item: 33134
+      minimum: 1
+      maximum: 25
+    - item: 33137
+      minimum: 1
+      maximum: 25
+    - item: 33138
+      minimum: 1
+      maximum: 25

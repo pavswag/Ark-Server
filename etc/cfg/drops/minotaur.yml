@@ -1,0 +1,50 @@
+---
+npc_id: 12813
+constant:
+  accessibility: 0
+  items:
+    - item: 33429 #10m Nomad
+      minimum: 1
+      maximum: 200
+common:
+  accessibility: 25
+  items:
+    - item: 33428 #250k nomad
+      minimum: 700
+      maximum: 1400
+uncommon:
+  accessibility: 50
+  items:
+    - item: 33428 #250k nomad
+      minimum: 12000
+      maximum: 24000
+rare:
+  accessibility: 750
+  items:
+    - item: 696 #250k nomad
+      minimum: 500000
+      maximum: 1000000
+very_rare:
+  accessibility: 100
+  items:
+    - item: 9602 #Nomad key
+      minimum: 1
+      maximum: 10
+extremely_rare:
+  accessibility: 200
+  items:
+    - item: 33449 #Goblin Cape
+      minimum: 1
+      maximum: 1
+    - item: 33450 #Goblin Boots
+      minimum: 1
+      maximum: 1
+    - item: 33451 #Goblin Gloves
+      minimum: 1
+      maximum: 1
+    - item: 33452 #Goblin ring
+      minimum: 1
+      maximum: 1
+    - item: 33453 #Goblin amulet
+      minimum: 1
+      maximum: 1

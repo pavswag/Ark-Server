@@ -1,0 +1,87 @@
+id: 191
+name: "Gardin's Star Shop"
+items:
+  - id: 25549
+    price: 2500
+  - id: 25551
+    price: 2500
+  - id: 25553
+    price: 2500
+  - id: 25555
+    price: 2500
+  - id: 25592
+    price: 2500
+  - id: 25594
+    price: 2500
+  - id: 25596
+    price: 2500
+  - id: 25598
+    price: 2500
+  - id: 19988
+    price: 2500
+  - id: 27023
+    price: 2500
+  - id: 27025
+    price: 2500
+  - id: 27027
+    price: 2500
+  - id: 27029
+    price: 2500
+  - id: 20708
+    price: 2500
+  - id: 20704
+    price: 2500
+  - id: 20706
+    price: 2500
+  - id: 20710
+    price: 2500
+  - id: 24872
+    price: 2500
+  - id: 24874
+    price: 2500
+  - id: 24876
+    price: 2500
+  - id: 24878
+    price: 2500
+  - id: 13646
+    price: 2500
+  - id: 13642
+    price: 2500
+  - id: 13640
+    price: 2500
+  - id: 13644
+    price: 2500
+  - id: 10941
+    price: 2500
+  - id: 10939
+    price: 2500
+  - id: 10940
+    price: 2500
+  - id: 10933
+    price: 2500
+  - id: 5554
+    price: 2500
+  - id: 5553
+    price: 2500
+  - id: 5555
+    price: 2500
+  - id: 5556
+    price: 2500
+  - id: 5557
+    price: 2500
+  - id: 7409 #magic secuteurs
+    price: 10000
+  - id: 11920 #dragon pickaxe axe
+    price: 10000
+  - id: 6739 #dragon axe
+    price: 10000
+  - id: 21028 #dragon hatchet
+    price: 10000
+  - id: 775 #cooking gauntlets
+    price: 2500
+  - id: 776 #goldsmith gauntlets
+    price: 2500
+  - id: 23760 #snolcano
+    price: 200000
+  - id: 443 #silver ore
+    price: 50

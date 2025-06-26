@@ -1,0 +1,137 @@
+---
+npc_id: 11278
+constant:
+  accessibility: 0
+  items:
+    - name: "big bones"
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 3
+  items:
+    - item: 691
+      minimum: 1
+      maximum: 5
+    - item: 560
+      minimum: 84
+      maximum: 325
+    - item: 565
+      minimum: 85
+      maximum: 170
+    - item: 566
+      minimum: 86
+      maximum: 227
+    - item: 21930
+      minimum: 12
+      maximum: 90
+    - item: 2
+      minimum: 42
+      maximum: 298
+    - item: 574
+      minimum: 6
+      maximum: 20
+    - item: 1620
+      minimum: 3
+      maximum: 26
+    - item: 1618
+      minimum: 3
+      maximum: 17
+    - item: 246
+      minimum: 4
+      maximum: 14
+    - item: 385
+      minimum: 4
+      maximum: 20
+    - item: 2434
+      minimum: 4
+      maximum: 20
+    - item: 6685
+      minimum: 4
+      maximum: 20
+    - item: 3024
+      minimum: 4
+      maximum: 20
+uncommon:
+  accessibility: 200
+  items:
+    - item: 691
+      minimum: 1
+      maximum: 20
+    - item: 556
+      minimum: 123
+      maximum: 1365
+    - item: 554
+      minimum: 210
+      maximum: 1655
+    - item: 555
+      minimum: 193
+      maximum: 1599
+    - item: 9245
+      minimum: 11
+      maximum: 1599
+    - item: 454
+      minimum: 23
+      maximum: 95
+    - item: 452
+      minimum: 2
+      maximum: 28
+    - item: 33237
+      minimum: 8539
+      maximum: 26748
+very_rare:
+  accessibility: 150
+  items:
+    - item: 26233
+      minimum: 1
+      maximum: 1
+    - item: 26374
+      minimum: 1
+      maximum: 1
+    - item: 26386
+      minimum: 1
+      maximum: 1
+    - item: 26384
+      minimum: 1
+      maximum: 1
+    - item: 26382
+      minimum: 1
+      maximum: 1
+    - item: 26714
+      minimum: 1
+      maximum: 1
+    - item: 26715
+      minimum: 1
+      maximum: 1
+    - item: 26716
+      minimum: 1
+      maximum: 1
+    - item: 26718
+      minimum: 1
+      maximum: 1
+    - item: 26719
+      minimum: 1
+      maximum: 1
+    - item: 26720
+      minimum: 1
+      maximum: 1
+    - item: 26221
+      minimum: 1
+      maximum: 1
+    - item: 26229
+      minimum: 1
+      maximum: 1
+    - item: 26227
+      minimum: 1
+      maximum: 1
+    - item: 26223
+      minimum: 1
+      maximum: 1
+    - item: 26225
+      minimum: 1
+      maximum: 1
+    - item: 26235
+      minimum: 1
+      maximum: 1
+    - item: 763
+      minimum: 1
+      maximum: 1

@@ -1,0 +1,8 @@
+server_state: "PUBLIC"
+embedded_password: null
+local_database: null
+store_database: null
+vote_database: null
+hiscores_database: null
+backup_ftp_credentials: null
+mysqldump_path: null

@@ -1,0 +1,145 @@
+---
+npc_id:
+  - 7933
+  - 7934
+  - 7935
+  - 7936
+  - 7937
+constant:
+  accessibility: 0
+  items:
+    - name: "coins"
+      minimum: 4000
+      maximum: 9000
+    - name: "revenant ether"
+      minimum: 15
+      maximum: 30
+common:
+  accessibility: 4
+  items:
+    - name: "bracelet of ethereum uncharged"
+      minimum: 1
+      maximum: 2
+    - name: "dragon platelegs noted"
+      minimum: 1
+      maximum: 1
+    - item: 7947
+      maximum: 15
+      minimum: 5
+    - item: 3145
+      maximum: 15
+      minimum: 5
+    - name: "dragon plateskirt noted"
+      minimum: 1
+      maximum: 2
+    - name: "coins"
+      minimum: 40000
+      maximum: 90000
+    - name: "revenant ether"
+      minimum: 50
+      maximum: 100
+    - name: "dragon platelegs"
+      minimum: 1
+      maximum: 1
+    - name: "dragon plateskirt"
+      minimum: 1
+      maximum: 1
+    - name: "dragon dagger"
+      minimum: 1
+      maximum: 1
+    - name: "dragon longsword"
+      minimum: 1
+      maximum: 1
+    - name: "dragonstone bolt tips"
+      minimum: 50
+      maximum: 100
+    - name: "onyx bolt tips"
+      minimum: 50
+      maximum: 100
+    - item: 2722
+      maximum: 15
+      minimum: 5
+    - item: 21326
+      maximum: 150
+      minimum: 50
+    - item: 11237
+      maximum: 150
+      minimum: 15
+    - item: 53
+      maximum: 150
+      minimum: 15
+    - item: 9341
+      maximum: 15
+      minimum: 5
+    - item: 9185
+      maximum: 1
+      minimum: 1
+    - item: 879
+      maximum: 15
+      minimum: 5
+    - item: 880
+      maximum: 15
+      minimum: 5
+    - item: 556
+      maximum: 150
+      minimum: 50
+    - item: 21905
+      maximum: 50
+      minimum: 10
+uncommon:
+  accessibility: 400
+  items:
+    - item: 6792
+      maximum: 3
+      minimum: 2
+    - item: 4185
+      maximum: 3
+      minimum: 2
+    - item: 2996
+      maximum: 100
+      minimum: 60
+    - item: 21326
+      maximum: 150
+      minimum: 50
+    - item: 11237
+      maximum: 150
+      minimum: 15
+rare:
+  accessibility: 600
+  items:
+    - name: "ancient emblem"
+      minimum: 1
+      maximum: 1
+    - item: 22302
+      minimum: 1
+      maximum: 1
+    - item: 22305
+      minimum: 1
+      maximum: 1
+    - item: 21810
+      minimum: 1
+      maximum: 1
+    - item: 22299
+      minimum: 1
+      maximum: 1
+    - item: 21813
+      minimum: 1
+      maximum: 1
+    - item: 21902
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 1600
+  items:
+    - name: "thammarons sceptre u"
+      minimum: 1
+      maximum: 1
+    - name: "viggoras chainmace u"
+      minimum: 1
+      maximum: 1
+    - name: "craws bow u"
+      minimum: 1
+      maximum: 1
+    - item: 22557
+      minimum: 1
+      maximum: 1

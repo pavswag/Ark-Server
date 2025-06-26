@@ -1,0 +1,106 @@
+---
+npc_id:
+- 1377
+- 8918
+constant:
+  accessibility: 0
+  items:
+    - item: 6792
+      minimum: 1
+      maximum: 2
+    - item: 4586
+      minimum: 50
+      maximum: 100
+common:
+  accessibility: 3
+  items:
+    - item: 6792
+      minimum: 2
+      maximum: 4
+    - item: 4586
+      minimum: 100
+      maximum: 200
+uncommon:
+  accessibility: 400
+  items:
+    - item: 6792
+      minimum: 1
+      maximum: 2
+    - item: 4586
+      minimum: 500
+      maximum: 1000
+rare:
+  accessibility: 600
+  items:
+    - name: "ancient emblem"
+      minimum: 1
+      maximum: 1
+    - item: 22302
+      minimum: 1
+      maximum: 1
+    - item: 22305
+      minimum: 1
+      maximum: 1
+    - item: 21810
+      minimum: 1
+      maximum: 1
+    - item: 22299
+      minimum: 1
+      maximum: 1
+    - item: 21813
+      minimum: 1
+      maximum: 1
+    - item: 23939
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 1700
+  items:
+    - item: 22616
+      minimum: 1
+      maximum: 1
+    - item: 22619
+      minimum: 1
+      maximum: 1
+    - item: 22616
+      minimum: 1
+      maximum: 1
+    - item: 22644
+      minimum: 1
+      maximum: 1
+    - item: 22641
+      minimum: 1
+      maximum: 1
+    - item: 22638
+      minimum: 1
+      maximum: 1
+    - item: 22622
+      minimum: 1
+      maximum: 1
+    - item: 22610
+      minimum: 1
+      maximum: 1
+    - item: 22613
+      minimum: 1
+      maximum: 1
+    - item: 22631
+      minimum: 1
+      maximum: 1
+    - item: 22628
+      minimum: 1
+      maximum: 1
+    - item: 22625
+      minimum: 1
+      maximum: 1
+    - item: 22656
+      minimum: 1
+      maximum: 1
+    - item: 22653
+      minimum: 1
+      maximum: 1
+    - item: 22650
+      minimum: 1
+      maximum: 1
+    - item: 22647
+      minimum: 1
+      maximum: 1

@@ -1,0 +1,476 @@
+common:
+  # Mini Mystery Box
+- amount: 25
+  id: 6679
+
+  # Guthan's armour set
+- amount: 1
+  id: 12873
+
+  # Guthan's armour set
+- amount: 1
+  id: 12873
+
+  # Verac's armour set
+- amount: 1
+  id: 12875
+
+  # Verac's armour set
+- amount: 1
+  id: 12875
+
+  # Dharok's armour set
+- amount: 1
+  id: 12877
+
+  # Dharok's armour set
+- amount: 1
+  id: 12877
+
+  # Ahrim's armour set
+- amount: 1
+  id: 12881
+
+  # Ahrim's armour set
+- amount: 1
+  id: 12881
+
+  # Torag's armour set
+- amount: 1
+  id: 12879
+
+  # Torag's armour set
+- amount: 1
+  id: 12879
+
+  # Karil's armour set
+- amount: 1
+  id: 12883
+
+  # Karil's armour set
+- amount: 1
+  id: 12883
+
+  # Ring of wealth
+- amount: 1
+  id: 2572
+
+  # Ring of wealth
+- amount: 1
+  id: 2572
+
+  # Amulet of fury
+- amount: 1
+  id: 6585
+
+  # Amulet of fury
+- amount: 1
+  id: 6585
+
+  # Abyssal whip
+- amount: 1
+  id: 4151
+
+  # Abyssal whip
+- amount: 1
+  id: 4151
+
+  # Saradomin sword
+- amount: 1
+  id: 11838
+
+  # Saradomin sword
+- amount: 1
+  id: 11838
+
+  # Bandos godsword
+- amount: 1
+  id: 11804
+
+  # Bandos godsword
+- amount: 1
+  id: 11804
+
+  # Saradomin godsword
+- amount: 1
+  id: 11806
+
+  # Saradomin godsword
+- amount: 1
+  id: 11806
+
+  # Zamorak godsword
+- amount: 1
+  id: 11808
+
+  # Zamorak godsword
+- amount: 1
+  id: 11808
+
+  # Armadyl godsword
+- amount: 1
+  id: 11802
+
+  # Armadyl godsword
+- amount: 1
+  id: 11802
+
+  # Seers ring (i)
+- amount: 1
+  id: 11770
+
+  # Seers ring (i)
+- amount: 1
+  id: 11770
+
+  # Archers ring (i)
+- amount: 1
+  id: 11771
+
+  # Archers ring (i)
+- amount: 1
+  id: 11771
+
+  # Warrior ring (i)
+- amount: 1
+  id: 11772
+
+  # Warrior ring (i)
+- amount: 1
+  id: 11772
+
+  # Berserker ring (i)
+- amount: 1
+  id: 11773
+
+  # Berserker ring (i)
+- amount: 1
+  id: 11773
+
+uncommon:
+  # Mini Mystery Box
+- amount: 25
+  id: 6679
+
+  # Guthan's armour set
+- amount: 1
+  id: 12873
+
+  # Guthan's armour set
+- amount: 1
+  id: 12873
+
+  # Verac's armour set
+- amount: 1
+  id: 12875
+
+  # Verac's armour set
+- amount: 1
+  id: 12875
+
+  # Dharok's armour set
+- amount: 1
+  id: 12877
+
+  # Dharok's armour set
+- amount: 1
+  id: 12877
+
+  # Ahrim's armour set
+- amount: 1
+  id: 12881
+
+  # Ahrim's armour set
+- amount: 1
+  id: 12881
+
+  # Torag's armour set
+- amount: 1
+  id: 12879
+
+  # Torag's armour set
+- amount: 1
+  id: 12879
+
+  # Karil's armour set
+- amount: 1
+  id: 12883
+
+  # Karil's armour set
+- amount: 1
+  id: 12883
+
+  # Ring of wealth
+- amount: 1
+  id: 2572
+
+  # Ring of wealth
+- amount: 1
+  id: 2572
+
+  # Amulet of fury
+- amount: 1
+  id: 6585
+
+  # Amulet of fury
+- amount: 1
+  id: 6585
+
+  # Abyssal whip
+- amount: 1
+  id: 4151
+
+  # Abyssal whip
+- amount: 1
+  id: 4151
+
+  # Seers ring (i)
+- amount: 1
+  id: 11770
+
+  # Seers ring (i)
+- amount: 1
+  id: 11770
+
+  # Archers ring (i)
+- amount: 1
+  id: 11771
+
+  # Archers ring (i)
+- amount: 1
+  id: 11771
+
+  # Warrior ring (i)
+- amount: 1
+  id: 11772
+
+  # Warrior ring (i)
+- amount: 1
+  id: 11772
+
+  # Berserker ring (i)
+- amount: 1
+  id: 11773
+
+  # Berserker ring (i)
+- amount: 1
+  id: 11773
+
+  # Saradomin sword
+- amount: 1
+  id: 11838
+
+  # Saradomin sword
+- amount: 1
+  id: 11838
+
+  # Armadyl helmet
+- amount: 1
+  id: 11826
+
+  # Armadyl chestplate
+- amount: 1
+  id: 11828
+
+  # Armadyl chainskirt
+- amount: 1
+  id: 11830
+
+  # Armadyl crossbow
+- amount: 1
+  id: 11785
+
+  # Bandos chestplate
+- amount: 1
+  id: 11832
+
+  # Bandos tassets
+- amount: 1
+  id: 11834
+
+  # Bandos boots
+- amount: 1
+  id: 11836
+
+  # Bandos godsword
+- amount: 1
+  id: 11804
+
+  # Bandos godsword
+- amount: 1
+  id: 11804
+
+  # Saradomin godsword
+- amount: 1
+  id: 11806
+
+  # Saradomin godsword
+- amount: 1
+  id: 11806
+
+  # Zamorak godsword
+- amount: 1
+  id: 11808
+
+  # Zamorak godsword
+- amount: 1
+  id: 11808
+
+  # Armadyl godsword
+- amount: 1
+  id: 11802
+
+  # Armadyl godsword
+- amount: 1
+  id: 11802
+
+rare:
+  # Ultra Mystery Box
+- amount: 1
+  id: 13346
+
+  # 3rd age full helmet
+- amount: 1
+  id: 10350
+
+  # 3rd age platebody
+- amount: 1
+  id: 10348
+
+  # 3rd age platelegs
+- amount: 1
+  id: 10346
+
+  # 3rd age kiteshield
+- amount: 1
+  id: 10352
+
+  # 3rd age longsword
+- amount: 1
+  id: 12426
+
+  # 3rd age range top
+- amount: 1
+  id: 10330
+
+  # 3rd age range legs
+- amount: 1
+  id: 10332
+
+  # 3rd age bow
+- amount: 1
+  id: 12424
+
+  # 3rd age mage hat
+- amount: 1
+  id: 10342
+
+  # 3rd age robe top
+- amount: 1
+  id: 10338
+
+  # 3rd age robe
+- amount: 1
+  id: 10340
+
+  # 3rd age wand
+- amount: 1
+  id: 12422
+
+  # 3rd age cloak
+- amount: 1
+  id: 12437
+
+  # 3rd age pickaxe
+- amount: 1
+  id: 20014
+
+  # Ring of wealth (i)
+- amount: 1
+  id: 12785
+
+  # Primordial boots
+- amount: 1
+  id: 13239
+
+  # Eternal boots
+- amount: 1
+  id: 13235
+
+  # Pegasian boots
+- amount: 1
+  id: 13237
+
+very_rare:
+  # Ultra Mystery Box
+- amount: 1
+  id: 13346
+
+  # 3rd age full helmet
+- amount: 1
+  id: 10350
+
+  # 3rd age platebody
+- amount: 1
+  id: 10348
+
+  # 3rd age platelegs
+- amount: 1
+  id: 10346
+
+  # 3rd age kiteshield
+- amount: 1
+  id: 10352
+
+  # 3rd age longsword
+- amount: 1
+  id: 12426
+
+  # 3rd age range top
+- amount: 1
+  id: 10330
+
+  # 3rd age range legs
+- amount: 1
+  id: 10332
+
+  # 3rd age bow
+- amount: 1
+  id: 12424
+
+  # 3rd age robe top
+- amount: 1
+  id: 10338
+
+  # 3rd age robe
+- amount: 1
+  id: 10340
+
+  # 3rd age wand
+- amount: 1
+  id: 12422
+
+  # 3rd age cloak
+- amount: 1
+  id: 12437
+
+  # 3rd age pickaxe
+- amount: 1
+  id: 20014
+
+  # Ring of wealth (i)
+- amount: 1
+  id: 12785
+
+  # Primordial boots
+- amount: 1
+  id: 13239
+
+  # Eternal boots
+- amount: 1
+  id: 13235
+
+  # Pegasian boots
+- amount: 1
+  id: 13237
+

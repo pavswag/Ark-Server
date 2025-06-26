@@ -1,0 +1,245 @@
+rates:
+  common: 9000
+  uncommon: 600
+  rare: 300
+  very_rare: 167
+
+common:
+  - id: 6679 #Mini Mystery
+    amount: 2
+  - id: 6199 #Mystery
+    amount: 2
+  - id: 6677 #Mini SMB
+    amount: 2
+  - id: 6828 #SMB
+    amount: 2
+  - id: 6678 #Mini UMB
+    amount: 2
+  - id: 13346 #UMB
+    amount: 2
+  - id: 12585 #Mini Chambers
+    amount: 2
+  - id: 12582 #Chambers
+    amount: 2
+  - id: 19895 #Mini TOB
+    amount: 2
+  - id: 19891 #TOB
+    amount: 2
+  - id: 6680 #Mini Arbo
+    amount: 2
+  - id: 12579 #Arbo
+    amount: 2
+  - id: 19887 #Mini Dono
+    amount: 2
+  - id: 12588 #Dono
+    amount: 2
+  - id: 8167 #Nomad
+    amount: 2
+  - id: 6831 #F2P
+    amount: 2
+  - id: 6829 #P2P
+    amount: 2
+  - id: 33360 #Mini S Crusade
+    amount: 2
+  - id: 33361 #S Crusade
+    amount: 2
+  - id: 33353 #Suprise
+    amount: 2
+  - id: 33354 #Wonder
+    amount: 2
+  - id: 33355 #Phantom
+    amount: 2
+  - id: 33356 #Great Phantom
+    amount: 2
+  - id: 33357 #Epic
+    amount: 2
+  - id: 33358 #Chaotic
+    amount: 2
+  - id: 33391 #Freedom
+    amount: 2
+  - id: 33359 #Crusade
+    amount: 2
+  - id: 33362 #Heredit
+    amount: 2
+  - id: 33374 #Damned
+    amount: 2
+
+uncommon:
+  - id: 6679 #Mini Mystery
+    amount: 5
+  - id: 6199 #Mystery
+    amount: 5
+  - id: 6677 #Mini SMB
+    amount: 5
+  - id: 6828 #SMB
+    amount: 5
+  - id: 6678 #Mini UMB
+    amount: 5
+  - id: 13346 #UMB
+    amount: 5
+  - id: 12585 #Mini Chambers
+    amount: 5
+  - id: 12582 #Chambers
+    amount: 5
+  - id: 19895 #Mini TOB
+    amount: 5
+  - id: 19891 #TOB
+    amount: 5
+  - id: 6680 #Mini Arbo
+    amount: 5
+  - id: 12579 #Arbo
+    amount: 5
+  - id: 19887 #Mini Dono
+    amount: 5
+  - id: 12588 #Dono
+    amount: 5
+  - id: 8167 #Nomad
+    amount: 5
+  - id: 6831 #F2P
+    amount: 5
+  - id: 6829 #P2P
+    amount: 5
+  - id: 33360 #Mini S Crusade
+    amount: 5
+  - id: 33361 #S Crusade
+    amount: 5
+  - id: 33353 #Suprise
+    amount: 5
+  - id: 33354 #Wonder
+    amount: 5
+  - id: 33355 #Phantom
+    amount: 5
+  - id: 33356 #Great Phantom
+    amount: 5
+  - id: 33357 #Epic
+    amount: 5
+  - id: 33358 #Chaotic
+    amount: 5
+  - id: 33391 #Freedom
+    amount: 5
+  - id: 33359 #Crusade
+    amount: 5
+  - id: 33362 #Heredit
+    amount: 5
+  - id: 33374 #Damned
+    amount: 5
+
+rare:
+  - id: 6679 #Mini Mystery
+    amount: 7
+  - id: 6199 #Mystery
+    amount: 7
+  - id: 6677 #Mini SMB
+    amount: 7
+  - id: 6828 #SMB
+    amount: 7
+  - id: 6678 #Mini UMB
+    amount: 7
+  - id: 13346 #UMB
+    amount: 7
+  - id: 12585 #Mini Chambers
+    amount: 7
+  - id: 12582 #Chambers
+    amount: 7
+  - id: 19895 #Mini TOB
+    amount: 7
+  - id: 19891 #TOB
+    amount: 7
+  - id: 6680 #Mini Arbo
+    amount: 7
+  - id: 12579 #Arbo
+    amount: 7
+  - id: 19887 #Mini Dono
+    amount: 7
+  - id: 12588 #Dono
+    amount: 7
+  - id: 8167 #Nomad
+    amount: 7
+  - id: 6831 #F2P
+    amount: 7
+  - id: 6829 #P2P
+    amount: 7
+  - id: 33360 #Mini S Crusade
+    amount: 7
+  - id: 33361 #S Crusade
+    amount: 7
+  - id: 33353 #Suprise
+    amount: 7
+  - id: 33354 #Wonder
+    amount: 7
+  - id: 33355 #Phantom
+    amount: 7
+  - id: 33356 #Great Phantom
+    amount: 7
+  - id: 33357 #Epic
+    amount: 7
+  - id: 33358 #Chaotic
+    amount: 7
+  - id: 33391 #Freedom
+    amount: 7
+  - id: 33359 #Crusade
+    amount: 7
+  - id: 33362 #Heredit
+    amount: 7
+  - id: 33374 #Damned
+    amount: 7
+
+very_rare:
+  - id: 6679 #Mini Mystery
+    amount: 10
+  - id: 6199 #Mystery
+    amount: 10
+  - id: 6677 #Mini SMB
+    amount: 10
+  - id: 6828 #SMB
+    amount: 10
+  - id: 6678 #Mini UMB
+    amount: 10
+  - id: 13346 #UMB
+    amount: 10
+  - id: 12585 #Mini Chambers
+    amount: 10
+  - id: 12582 #Chambers
+    amount: 10
+  - id: 19895 #Mini TOB
+    amount: 10
+  - id: 19891 #TOB
+    amount: 10
+  - id: 6680 #Mini Arbo
+    amount: 10
+  - id: 12579 #Arbo
+    amount: 10
+  - id: 19887 #Mini Dono
+    amount: 10
+  - id: 12588 #Dono
+    amount: 10
+  - id: 8167 #Nomad
+    amount: 10
+  - id: 6831 #F2P
+    amount: 10
+  - id: 6829 #P2P
+    amount: 10
+  - id: 33360 #Mini S Crusade
+    amount: 10
+  - id: 33361 #S Crusade
+    amount: 10
+  - id: 33353 #Suprise
+    amount: 10
+  - id: 33354 #Wonder
+    amount: 10
+  - id: 33355 #Phantom
+    amount: 10
+  - id: 33356 #Great Phantom
+    amount: 10
+  - id: 33357 #Epic
+    amount: 10
+  - id: 33358 #Chaotic
+    amount: 10
+  - id: 33391 #Freedom
+    amount: 10
+  - id: 33359 #Crusade
+    amount: 10
+  - id: 33362 #Heredit
+    amount: 10
+  - id: 33374 #Damned
+    amount: 10

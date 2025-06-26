@@ -1,0 +1,52 @@
+ [
+ {
+   "name": "Unicorn",
+   "id": 2837,
+   "x": 1600,
+   "y": 3453,
+   "z": 0,
+   "direction": "W",
+   "walkRange": 2,
+   "world": "ECO"
+ },
+ {
+   "name": "Unicorn",
+   "id": 2837,
+   "x": 1607,
+   "y": 3437,
+   "z": 0,
+   "direction": "W",
+   "walkRange": 2,
+   "world": "ECO"
+ },
+ {
+   "name": "Unicorn",
+   "id": 2837,
+   "x": 1611,
+   "y": 3447,
+   "z": 0,
+   "direction": "W",
+   "walkRange": 2,
+   "world": "ECO"
+ },
+ {
+   "name": "Unicorn",
+   "id": 2837,
+   "x": 1617,
+   "y": 3438,
+   "z": 0,
+   "direction": "W",
+   "walkRange": 2,
+   "world": "ECO"
+ },
+ {
+   "name": "Unicorn",
+   "id": 2837,
+   "x": 1626,
+   "y": 3450,
+   "z": 0,
+   "direction": "W",
+   "walkRange": 2,
+   "world": "ECO"
+ }
+ ]

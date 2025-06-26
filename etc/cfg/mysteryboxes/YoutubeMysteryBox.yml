@@ -1,0 +1,30 @@
+common:
+- id: 21046
+  amount: 5
+- id: 2528
+  amount: 1
+- id: 10835
+  amount: 5
+- id: 23933
+  amount: 5
+rare:
+- id: 11785
+  amount: 1
+- id: 11785
+  amount: 1
+- id: 21015
+  amount: 1
+- id: 21006
+  amount: 1
+- id: 20784
+  amount: 1
+uncommon:
+- id: 21046
+  amount: 5
+- id: 2528
+  amount: 1
+- id: 10835
+  amount: 5
+- id: 23933
+  amount: 5
+

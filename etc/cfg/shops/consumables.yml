@@ -1,0 +1,40 @@
+---
+id: 113
+name: "Consumables"
+items:
+  - id: 2437
+    price: 2000
+  - id: 2441
+    price: 2000
+  - id: 2443
+    price: 2000
+  - id: 3041
+    price: 2000
+  - id: 2445
+    price: 2000
+  - id: 2435
+    price: 5000
+  - id: 3025
+    price: 7500
+  - id: 10926
+    price: 7500
+  - id: 6686
+    price: 15000
+  - id: 3017
+    price: 1000
+  - id: 2453
+    price: 2500
+  - id: 21978
+    price: 5000
+  - id: 2447
+    price: 10000
+  - id: 12905
+    price: 15000
+  - id: 380
+    price: 250
+  - id: 374
+    price: 500
+  - id: 7947
+    price: 1000
+  - id: 386
+    price: 2500

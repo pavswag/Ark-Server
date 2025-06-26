@@ -1,0 +1,95 @@
+---
+npc_id: 6319
+constant:
+  accessibility: 0
+  items:
+    - item: 33237  #1 Nomad
+      minimum: 1
+      maximum: 1
+    - item: 533  #Big bone
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 10
+  items:
+    - item: 7937  #Pure essence
+      minimum: 5
+      maximum: 10
+    - item: 537  #Dragon bones
+      minimum: 5
+      maximum: 10
+    - name: "yew logs noted"
+      minimum: 5
+      maximum: 10
+    - item: 1514  #Magic logs
+      minimum: 5
+      maximum: 10
+    - item: 452  #Runite ore
+      minimum: 5
+      maximum: 10
+    - item: 2364  #Runite bar
+      minimum: 5
+      maximum: 10
+    - item: 23686  #Divine super combat
+      minimum: 5
+      maximum: 10
+    - item: 11944  #Lava dragon bones
+      minimum: 5
+      maximum: 10
+    - item: 6686  #Sara brew
+      minimum: 5
+      maximum: 10
+rare:
+  accessibility: 50
+  items:
+    - item: 7937  #Pure essence
+      minimum: 15
+      maximum: 30
+    - item: 537  #Dragon bones
+      minimum: 15
+      maximum: 30
+    - item: 1514  #Magic logs
+      minimum: 15
+      maximum: 30
+    - name: "yew logs noted"
+      minimum: 15
+      maximum: 30
+    - item: 452  #Runite ore
+      minimum: 15
+      maximum: 30
+    - item: 2364  #Runite bar
+      minimum: 15
+      maximum: 30
+    - item: 23686  #Divine super combat
+      minimum: 15
+      maximum: 30
+    - item: 11944  #Lava dragon bones
+      minimum: 15
+      maximum: 30
+    - item: 6686  #Sara brew
+      minimum: 15
+      maximum: 30
+very_rare:
+  accessibility: 3000
+  items:
+    - name: "bloodier key"
+      minimum: 1
+      maximum: 1
+    - name: "mystery box"
+      minimum: 1
+      maximum: 1
+    - item: 691  #10k Nomad
+      minimum: 1
+      maximum: 1
+    - name: "dragon pickaxe"
+      minimum: 1
+      maximum: 1
+    - name: "dragon axe"
+      minimum: 1
+      maximum: 1
+    - item: 21028  #Dragon Harpoon
+      minimum: 1
+      maximum: 1
+    - item: 26500  #Donor boss scroll
+      minimum: 1
+      maximum: 1

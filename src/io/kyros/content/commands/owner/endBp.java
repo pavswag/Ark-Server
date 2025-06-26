@@ -1,0 +1,13 @@
+package io.kyros.content.commands.owner;
+
+import io.kyros.content.battlepass.Pass;
+import io.kyros.content.commands.Command;
+import io.kyros.model.entity.player.Player;
+
+public class endBp extends Command {
+    @Override
+    public void execute(Player player, String commandName, String input) {
+        Pass.setSeasonEnded(true);
+        Pass.setDaysUntilStart(1L);
+    }
+}

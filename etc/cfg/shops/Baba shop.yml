@@ -1,0 +1,20 @@
+---
+id: 598
+name: "BaBa Shop"
+items:
+  - id: 33324 #Starlight helm
+    price: 1000
+  - id: 33325 #Starlight body
+    price: 1000
+  - id: 33326 #Starlight legs
+    price: 1000
+  - id: 33329 #Starlight sword
+    price: 2500
+  - id: 33308 #Reverie helm
+    price: 1000
+  - id: 33309 #Reverie body
+    price: 1000
+  - id: 33310 #Reverie legs
+    price: 1000
+  - id: 27607 #Ancient Jewel
+    price: 250

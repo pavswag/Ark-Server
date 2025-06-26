@@ -1,0 +1,52 @@
+---
+id: 123
+name: "Flex Shop"
+items:
+  - id: 9096 #lunar
+    price: 50000000
+  - id: 9097 #lunar
+    price: 50000000
+  - id: 9098 #lunar
+    price: 50000000
+  - id: 9099 #lunar
+    price: 50000000
+  - id: 9100 #lunar
+    price: 50000000
+  - id: 9101 #lunar
+    price: 50000000
+  - id: 9084 #lunar
+    price: 50000000
+  - id: 9069 #moonclan
+    price: 50000000
+  - id: 9070 #moonclan
+    price: 50000000
+  - id: 9071 #moonclan
+    price: 50000000
+  - id: 9072 #moonclan
+    price: 50000000
+  - id: 9073 #moonclan
+    price: 50000000
+  - id: 9074 #moonclan
+    price: 50000000
+  - id: 24866 #shoulder monkey
+    price: 50000000
+  - id: 24862 #shoulder monkey
+    price: 50000000
+  - id: 19556 #shoulder monkey
+    price: 50000000
+  - id: 24867 #shoulder monkey
+    price: 50000000
+  - id: 24865 #shoulder monkey
+    price: 50000000
+  - id: 20005 #ring of nature
+    price: 50000000
+  - id: 20017 #ring of coins
+    price: 50000000
+  - id: 2345 #burnt oomlie wrap
+    price: 10000000
+  - id: 553 #skull
+    price: 10000000
+  - id: 3801 #keg of beer
+    price: 10000000
+  - id: 6672 #fishbowl
+    price: 10000000

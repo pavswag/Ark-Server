@@ -1,0 +1,162 @@
+---
+npc_id: 12784
+constant:
+  accessibility: 0
+  items:
+    - item: 33437
+      minimum: 5
+      maximum: 10
+    - item: 33251 #Donation coin
+      minimum: 5
+      maximum: 5
+    - item: 696 #250k nomad
+      minimum: 4
+      maximum: 4
+
+common:
+  accessibility: 15
+  items:
+    - item: 33353 #Suprise box
+      minimum: 3
+      maximum: 3
+    - item: 33354 #Wonder box
+      minimum: 2
+      maximum: 2
+    - item: 33391 #Wonder box
+      minimum: 1
+      maximum: 1
+    - item: 2403 #$10
+      minimum: 1
+      maximum: 1
+    - item: 24366 #60min island scroll
+      minimum: 1
+      maximum: 1
+    - item: 33251 #Donation coin
+      minimum: 5
+      maximum: 15
+    - item: 26500 #donor boss scroll
+      minimum: 3
+      maximum: 3
+    - item: 25112 #Trailblazer pick
+      minimum: 1
+      maximum: 1
+    - item: 25975 #Lightbearer ring
+      minimum: 1
+      maximum: 1
+
+uncommon:
+  accessibility: 30
+  items:
+    - item: 8167 #nomad mystery chest
+      minimum: 1
+      maximum: 1
+    - item: 2399 #Nomad key
+      minimum: 5
+      maximum: 5
+    - item: 27037 #Enhanced kronos
+      minimum: 1
+      maximum: 1
+    - item: 27038 #Enhanced iasor
+      minimum: 1
+      maximum: 1
+    - item: 2396 #$25
+      minimum: 1
+      maximum: 1
+    - item: 33251 #Donation coin
+      minimum: 10
+      maximum: 20
+    - item: 26879 #Wraith essence
+      minimum: 5
+      maximum: 5
+    - item: 21034 #dex scroll
+      minimum: 1
+      maximum: 1
+    - item: 21079 #arcane scroll
+      minimum: 1
+      maximum: 1
+    - item: 11863 #Rainbow phat
+      minimum: 1
+      maximum: 1
+    - item: 27100 #elder maul (or)
+      minimum: 1
+      maximum: 1
+    - item: 25734 #holy ghrazi rapier
+      minimum: 1
+      maximum: 1
+
+rare:
+  accessibility: 70
+  items:
+    - item: 13302 #bank key
+      minimum: 10
+      maximum: 10
+    - item: 28421 #isle of the damned key
+      minimum: 5
+      maximum: 5
+    - item: 22875 #hespori seed
+      minimum: 1
+      maximum: 1
+    - item: 27285 #Eyes of corrupter
+      minimum: 15
+      maximum: 15
+    - item: 10557 #collector icon
+      minimum: 1
+      maximum: 1
+    - item: 10556 #attacker icon
+      minimum: 1
+      maximum: 1
+    - item: 10558 #defender icon
+      minimum: 1
+      maximum: 1
+    - item: 10559 #healer icon
+      minimum: 1
+      maximum: 1
+
+extremely_rare:
+  accessibility: 90
+  items:
+    - item: 26879 #Wraith essence
+      minimum: 50
+      maximum: 50
+    - item: 27235 #masori mask (f)
+      minimum: 1
+      maximum: 1
+    - item: 27238 #masori body (f)
+      minimum: 1
+      maximum: 1
+    - item: 27241 #masori legs (f)
+      minimum: 1
+      maximum: 1
+    - item: 33308 #Reverie
+      minimum: 1
+      maximum: 1
+    - item: 33309 #Reverie
+      minimum: 1
+      maximum: 1
+    - item: 33310 #Reverie
+      minimum: 1
+      maximum: 1
+    - item: 786 #$50
+      minimum: 1
+      maximum: 1
+    - item: 7775 #50 credits
+      minimum: 1
+      maximum: 1
+    - item: 12588 #Donation box
+      minimum: 10
+      maximum: 10
+    - item: 30022 #kratos
+      minimum: 1
+      maximum: 1
+    - item: 1419 #troll scythe
+      minimum: 1
+      maximum: 1
+    - item: 27275 #tumekens
+      minimum: 1
+      maximum: 1
+    - item: 33184 #Blood scythe
+      minimum: 1
+      maximum: 1
+    - item: 33058 #Seren god bow
+      minimum: 1
+      maximum: 1

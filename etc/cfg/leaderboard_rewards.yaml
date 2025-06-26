@@ -1,0 +1,653 @@
+---
+
+#COX TODAY
+- type: COX
+  period: TODAY
+  item:
+    id: 12585
+    amount: 25
+  place: 1
+- type: COX
+  period: TODAY
+  item:
+    id: 12585
+    amount: 20
+  place: 2
+- type: COX
+  period: TODAY
+  item:
+    id: 12585
+    amount: 15
+  place: 3
+- type: COX
+  period: TODAY
+  item:
+    id: 12585
+    amount: 10
+  place: 4
+- type: COX
+  period: TODAY
+  item:
+    id: 12585
+    amount: 5
+  place: 5
+#TOB TODAY
+- type: TOB
+  period: TODAY
+  item:
+    id: 19895
+    amount: 25
+  place: 1
+- type: TOB
+  period: TODAY
+  item:
+    id: 19895
+    amount: 20
+  place: 2
+- type: TOB
+  period: TODAY
+  item:
+    id: 19895
+    amount: 15
+  place: 3
+- type: TOB
+  period: TODAY
+  item:
+    id: 19895
+    amount: 10
+  place: 4
+- type: TOB
+  period: TODAY
+  item:
+    id: 19895
+    amount: 5
+  place: 5
+#ARBO TODAY
+- type: ARBO
+  period: TODAY
+  item:
+    id: 6680
+    amount: 25
+  place: 1
+- type: ARBO
+  period: TODAY
+  item:
+    id: 6680
+    amount: 20
+  place: 2
+- type: ARBO
+  period: TODAY
+  item:
+    id: 6680
+    amount: 15
+  place: 3
+- type: ARBO
+  period: TODAY
+  item:
+    id: 6680
+    amount: 10
+  place: 4
+- type: ARBO
+  period: TODAY
+  item:
+    id: 6680
+    amount: 5
+  place: 5
+#TOA TODAY
+- type: TOA
+  period: TODAY
+  item:
+    id: 995
+    amount: 1
+  place: 1
+- type: TOA
+  period: TODAY
+  item:
+    id: 995
+    amount: 1
+  place: 2
+- type: TOA
+  period: TODAY
+  item:
+    id: 995
+    amount: 1
+  place: 3
+- type: TOA
+  period: TODAY
+  item:
+    id: 995
+    amount: 1
+  place: 4
+- type: TOA
+  period: TODAY
+  item:
+    id: 995
+    amount: 1
+  place: 5
+#MOST_DISSOLVED TODAY
+- type: MOST_DISSOLVED
+  period: TODAY
+  item:
+    id: 696
+    amount: 30
+  place: 1
+- type: MOST_DISSOLVED
+  period: TODAY
+  item:
+    id: 696
+    amount: 20
+  place: 2
+- type: MOST_DISSOLVED
+  period: TODAY
+  item:
+    id: 696
+    amount: 10
+  place: 3
+- type: MOST_DISSOLVED
+  period: TODAY
+  item:
+    id: 696
+    amount: 5
+  place: 4
+- type: MOST_DISSOLVED
+  period: TODAY
+  item:
+    id: 696
+    amount: 2
+  place: 5
+#BOSS_POINTS TODAY
+- type: BOSS_POINTS
+  period: TODAY
+  item:
+    id: 6678
+    amount: 25
+  place: 1
+- type: BOSS_POINTS
+  period: TODAY
+  item:
+    id: 6678
+    amount: 20
+  place: 2
+- type: BOSS_POINTS
+  period: TODAY
+  item:
+    id: 6677
+    amount: 20
+  place: 3
+- type: BOSS_POINTS
+  period: TODAY
+  item:
+    id: 6677
+    amount: 15
+  place: 4
+- type: BOSS_POINTS
+  period: TODAY
+  item:
+    id: 6677
+    amount: 10
+  place: 5
+#UPGRADES TODAY
+- type: UPGRADES
+  period: TODAY
+  item:
+    id: 696
+    amount: 30
+  place: 1
+- type: UPGRADES
+  period: TODAY
+  item:
+    id: 696
+    amount: 20
+  place: 2
+- type: UPGRADES
+  period: TODAY
+  item:
+    id: 696
+    amount: 10
+  place: 3
+- type: UPGRADES
+  period: TODAY
+  item:
+    id: 696
+    amount: 5
+  place: 4
+- type: UPGRADES
+  period: TODAY
+  item:
+    id: 696
+    amount: 2
+  place: 5
+#BOUNTY_HUNTER TODAY
+- type: BOUNTY_HUNTER
+  period: TODAY
+  item:
+    id: 2996
+    amount: 7500
+  place: 1
+- type: BOUNTY_HUNTER
+  period: TODAY
+  item:
+    id: 2996
+    amount: 5000
+  place: 2
+- type: BOUNTY_HUNTER
+  period: TODAY
+  item:
+    id: 2996
+    amount: 2500
+  place: 3
+- type: BOUNTY_HUNTER
+  period: TODAY
+  item:
+    id: 2996
+    amount: 1250
+  place: 4
+- type: BOUNTY_HUNTER
+  period: TODAY
+  item:
+    id: 2996
+    amount: 500
+  place: 5
+#SLAYER TODAY
+- type: SLAYER
+  period: TODAY
+  item:
+    id: 8167
+    amount: 1
+  place: 1
+- type: SLAYER
+  period: TODAY
+  item:
+    id: 13438
+    amount: 4
+  place: 2
+- type: SLAYER
+  period: TODAY
+  item:
+    id: 13438
+    amount: 3
+  place: 3
+- type: SLAYER
+  period: TODAY
+  item:
+    id: 13438
+    amount: 2
+  place: 4
+- type: SLAYER
+  period: TODAY
+  item:
+    id: 13438
+    amount: 1
+  place: 5
+#TASKS TODAY
+- type: TASKS
+  period: TODAY
+  item:
+    id: 8167
+    amount: 2
+  place: 1
+- type: TASKS
+  period: TODAY
+  item:
+    id: 6678
+    amount: 15
+  place: 2
+- type: TASKS
+  period: TODAY
+  item:
+    id: 6678
+    amount: 10
+  place: 3
+- type: TASKS
+  period: TODAY
+  item:
+    id: 6678
+    amount: 5
+  place: 4
+- type: TASKS
+  period: TODAY
+  item:
+    id: 6678
+    amount: 5
+  place: 5
+#MOST_DONATED TODAY
+- type: MOST_DONATED
+  period: TODAY
+  item:
+    id: 19887
+    amount: 100
+  place: 1
+- type: MOST_DONATED
+  period: TODAY
+  item:
+    id: 19887
+    amount: 75
+  place: 2
+- type: MOST_DONATED
+  period: TODAY
+  item:
+    id: 19887
+    amount: 50
+  place: 3
+- type: MOST_DONATED
+  period: TODAY
+  item:
+    id: 19887
+    amount: 25
+  place: 4
+- type: MOST_DONATED
+  period: TODAY
+  item:
+    id: 19887
+    amount: 20
+  place: 5
+#MOST_EARNED TODAY
+- type: MOST_EARNED
+  period: TODAY
+  item:
+    id: 696
+    amount: 30
+  place: 1
+- type: MOST_EARNED
+  period: TODAY
+  item:
+    id: 696
+    amount: 20
+  place: 2
+- type: MOST_EARNED
+  period: TODAY
+  item:
+    id: 696
+    amount: 10
+  place: 3
+- type: MOST_EARNED
+  period: TODAY
+  item:
+    id: 696
+    amount: 5
+  place: 4
+- type: MOST_EARNED
+  period: TODAY
+  item:
+    id: 696
+    amount: 2
+  place: 5
+#MOST_KILLS TODAY
+- type: MOST_KILLS
+  period: TODAY
+  item:
+    id: 2996
+    amount: 7500
+  place: 1
+- type: MOST_KILLS
+  period: TODAY
+  item:
+    id: 2996
+    amount: 5000
+  place: 2
+- type: MOST_KILLS
+  period: TODAY
+  item:
+    id: 2996
+    amount: 2500
+  place: 3
+- type: MOST_KILLS
+  period: TODAY
+  item:
+    id: 2996
+    amount: 1250
+  place: 4
+- type: MOST_KILLS
+  period: TODAY
+  item:
+    id: 2996
+    amount: 500
+  place: 5
+#MINED_STARS TODAY
+- type: MINED_STARS
+  period: TODAY
+  item:
+    id: 25527
+    amount: 7500
+  place: 1
+- type: MINED_STARS
+  period: TODAY
+  item:
+    id: 25527
+    amount: 5000
+  place: 2
+- type: MINED_STARS
+  period: TODAY
+  item:
+    id: 25527
+    amount: 2500
+  place: 3
+- type: MINED_STARS
+  period: TODAY
+  item:
+    id: 25527
+    amount: 1250
+  place: 4
+- type: MINED_STARS
+  period: TODAY
+  item:
+    id: 25527
+    amount: 500
+  place: 5
+#GROOTS_KILLED TODAY
+- type: GROOTS_KILLED
+  period: TODAY
+  item:
+    id: 696
+    amount: 50
+  place: 1
+- type: GROOTS_KILLED
+  period: TODAY
+  item:
+    id: 8167
+    amount: 3
+  place: 2
+- type: GROOTS_KILLED
+  period: TODAY
+  item:
+    id: 6678
+    amount: 15
+  place: 3
+- type: GROOTS_KILLED
+  period: TODAY
+  item:
+    id: 6678
+    amount: 10
+  place: 4
+- type: GROOTS_KILLED
+  period: TODAY
+  item:
+    id: 6678
+    amount: 5
+  place: 5
+#SEEDS_PLANTED TODAY
+- type: SEEDS_PLANTED
+  period: TODAY
+  item:
+    id: 22885
+    amount: 1
+  place: 1
+- type: SEEDS_PLANTED
+  period: TODAY
+  item:
+    id: 22883
+    amount: 1
+  place: 2
+- type: SEEDS_PLANTED
+  period: TODAY
+  item:
+    id: 20903
+    amount: 1
+  place: 3
+- type: SEEDS_PLANTED
+  period: TODAY
+  item:
+    id: 20909
+    amount: 1
+  place: 4
+- type: SEEDS_PLANTED
+  period: TODAY
+  item:
+    id: 4205
+    amount: 1
+  place: 5
+#BOXES_OPENED TODAY
+- type: BOXES_OPENED
+  period: TODAY
+  item:
+    id: 6678
+    amount: 50
+  place: 1
+- type: BOXES_OPENED
+  period: TODAY
+  item:
+    id: 6678
+    amount: 25
+  place: 2
+- type: BOXES_OPENED
+  period: TODAY
+  item:
+    id: 6677
+    amount: 50
+  place: 3
+- type: BOXES_OPENED
+  period: TODAY
+  item:
+    id: 6677
+    amount: 25
+  place: 4
+- type: BOXES_OPENED
+  period: TODAY
+  item:
+    id: 6679
+    amount: 50
+  place: 5
+#NIGHTMARE TODAY
+- type: NIGHTMARE
+  period: TODAY
+  item:
+    id: 19895
+    amount: 25
+  place: 1
+- type: NIGHTMARE
+  period: TODAY
+  item:
+    id: 12585
+    amount: 25
+  place: 2
+- type: NIGHTMARE
+  period: TODAY
+  item:
+    id: 6678
+    amount: 25
+  place: 3
+- type: NIGHTMARE
+  period: TODAY
+  item:
+    id: 6677
+    amount: 25
+  place: 4
+- type: NIGHTMARE
+  period: TODAY
+  item:
+    id: 6679
+    amount: 25
+  place: 5
+#HESPORI TODAY
+- type: HESPORI
+  period: TODAY
+  item:
+    id: 22374
+    amount: 5
+  place: 1
+- type: HESPORI
+  period: TODAY
+  item:
+    id: 22374
+    amount: 4
+  place: 2
+- type: HESPORI
+  period: TODAY
+  item:
+    id: 22374
+    amount: 3
+  place: 3
+- type: HESPORI
+  period: TODAY
+  item:
+    id: 22374
+    amount: 2
+  place: 4
+- type: HESPORI
+  period: TODAY
+  item:
+    id: 22374
+    amount: 1
+  place: 5
+#WILDY_EVENTS TODAY
+- type: WILDY_EVENTS
+  period: TODAY
+  item:
+    id: 13302
+    amount: 5
+  place: 1
+- type: WILDY_EVENTS
+  period: TODAY
+  item:
+    id: 13302
+    amount: 4
+  place: 2
+- type: WILDY_EVENTS
+  period: TODAY
+  item:
+    id: 13302
+    amount: 3
+  place: 3
+- type: WILDY_EVENTS
+  period: TODAY
+  item:
+    id: 13302
+    amount: 2
+  place: 4
+- type: WILDY_EVENTS
+  period: TODAY
+  item:
+    id: 13302
+    amount: 1
+  place: 5
+#PET_LEVELS TODAY
+- type: PET_LEVELS
+  period: TODAY
+  item:
+    id: 13302
+    amount: 5
+  place: 1
+- type: PET_LEVELS
+  period: TODAY
+  item:
+    id: 13302
+    amount: 4
+  place: 2
+- type: PET_LEVELS
+  period: TODAY
+  item:
+    id: 13302
+    amount: 3
+  place: 3
+- type: PET_LEVELS
+  period: TODAY
+  item:
+    id: 13302
+    amount: 2
+  place: 4
+- type: PET_LEVELS
+  period: TODAY
+  item:
+    id: 13302
+    amount: 1
+  place: 5

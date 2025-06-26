@@ -1,0 +1,32 @@
+miniGameName: Madness Maze
+boundary:
+  minX: 1709
+  minY: 3648
+  highX: 1738
+  highY: 3668
+startPosition:
+  x: 1710
+  y: 3650
+  z: 0
+objectList:
+  - id: 5
+    position:
+      x: 50
+      y: 60
+  - id: 6
+    position:
+      x: 55
+      y: 65
+items:
+  - id: 1001
+    amount: 5
+    rarity: COMMON
+  - id: 1002
+    amount: 5
+    rarity: UNCOMMON
+  - id: 1003
+    amount: 5
+    rarity: RARE
+  - id: 1004
+    amount: 10
+    rarity: VERY_RARE

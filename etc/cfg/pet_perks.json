@@ -1,0 +1,660 @@
+{
+  "perks": [
+    {
+      "maxLevel": 40,
+      "perkKey": "common_dmg_boost",
+      "baseValue": 2.5,
+      "levelModifier": 0.75,
+      "description": "Your pet gives you a ${value}% boost to all damage.",
+      "level": 1
+    },
+    {
+      "maxLevel": 10,
+      "perkKey": "common_one_shot",
+      "baseValue": 0.25,
+      "levelModifier": 0.25,
+      "description": "Your pet gives you a ${value}% chance to insta kill most NPC's.",
+      "level": 1
+    },
+    {
+      "maxLevel": 80,
+      "perkKey": "common_adrenaline",
+      "baseValue": 2.25,
+      "levelModifier": 0.515,
+      "description": "Gives you a ${value}% chance to hit again when using melee.",
+      "level": 1
+    },
+    {
+      "maxLevel": 80,
+      "perkKey": "common_drop_rate",
+      "baseValue": 2.5,
+      "levelModifier": 0.25,
+      "description": "Your pet is blessing you with ${value}% drop rate.",
+      "level": 1
+    },
+    {
+      "perkKey": "common_weakling",
+      "description": "Take ${value}% extra damage",
+      "maxLevel": 5,
+      "baseValue": 2.0,
+      "levelModifier": 2.0,
+      "level": 1
+    },
+    {
+      "perkKey": "common_unholy",
+      "description": "20% Increased prayer drain",
+      "maxLevel": 1,
+      "baseValue": 20.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "common_death_wish",
+      "description": "Permanant skull",
+      "maxLevel": 1,
+      "baseValue": 1.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "common_poison_food",
+      "description": "reduces heals from food by 20%",
+      "maxLevel": 1,
+      "baseValue": 20.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "common_plagued",
+      "description": "Permenant poison effect",
+      "maxLevel": 1,
+      "baseValue": 1.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "common_chefs_kiss",
+      "description": "+10% burnt food reduction, level 5 increased cooking speed.",
+      "maxLevel": 5,
+      "baseValue": 10.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "common_Mixology",
+      "description": "${value}% chance to save all materials during herblore activity.",
+      "maxLevel": 5,
+      "baseValue": 10.0,
+      "levelModifier": 10.0,
+      "level": 1
+    },
+    {
+      "perkKey": "common_gnawer",
+      "description": "Hidden 5 level boost to woodcutting",
+      "maxLevel": 1,
+      "baseValue": 5.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "common_fish_fued",
+      "description": "Hidden 5 level boost to fishing",
+      "maxLevel": 1,
+      "baseValue": 5.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "common_rock_hard",
+      "description": "Hidden 5 level boost to mining",
+      "maxLevel": 1,
+      "baseValue": 5.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "common_philos_stone",
+      "description": "Access to ::alchinvy, higher levels increase gp yield.",
+      "maxLevel": 10,
+      "baseValue": 2.5,
+      "levelModifier": 0.5,
+      "level": 1
+    },
+    {
+      "perkKey": "common_bonemeal",
+      "description": "Chance at double bone xp, at lvl 10 you have a chance of triple xp.",
+      "maxLevel": 10,
+      "baseValue": 1.0,
+      "levelModifier": 1.0,
+      "level": 1
+    },
+    {
+      "maxLevel": 80,
+      "perkKey": "uncommon_bandit",
+      "baseValue": 6.5,
+      "levelModifier": 0.5,
+      "description": "Increases thieving chance by ${value}% + x2 loots.",
+      "level": 1
+    },
+    {
+      "maxLevel": 80,
+      "perkKey": "uncommon_iron_gut",
+      "baseValue": 8.85,
+      "levelModifier": 0.375,
+      "description": "Allows you to eat burnt food with a ${value}% chance for x2 heal.",
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_kings_word",
+      "description": "'For the King' will reduce enemies magic defence at rate 1/25.",
+      "maxLevel": 1,
+      "baseValue": 4.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_the_slayer",
+      "description": "${value}% increased damage to demons/dragons",
+      "maxLevel": 5,
+      "baseValue": 5.0,
+      "levelModifier": 5.0,
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_fast_hands",
+      "description": "Increased coins + pickpocket speed. Lvl 5 chance to double loot.",
+      "maxLevel": 5,
+      "baseValue": 0.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_resourceful",
+      "description": "${value}% Chance to receive Resource Box (large) when there is an XP drop.",
+      "maxLevel": 10,
+      "baseValue": 2.0,
+      "levelModifier": 2.0,
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_line_em_up",
+      "description": "Tinderbox Firemaking gives 5% xp per level.",
+      "maxLevel": 7,
+      "baseValue": 2.5,
+      "levelModifier": 2.5,
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_seedy",
+      "description": "${value}% chance of saving a seed when planting seeds.",
+      "maxLevel": 5,
+      "baseValue": 5.0,
+      "levelModifier": 5.0,
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_sticky_fingers",
+      "description": "Thieves ${value} times automatically..",
+      "maxLevel": 5,
+      "baseValue": 0.0,
+      "levelModifier": 2.0,
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_transmute",
+      "description": "${value}% chance to upgrade a resource tier.",
+      "maxLevel": 5,
+      "baseValue": 5.0,
+      "levelModifier": 5.0,
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_harvester",
+      "description": "${value}% Chance to bank gathered resources",
+      "maxLevel": 5,
+      "baseValue": 5.0,
+      "levelModifier": 5.0,
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_skill_burner",
+      "description": "${value}% chance to burn gathered resource for x2 xp",
+      "maxLevel": 5,
+      "baseValue": 5.0,
+      "levelModifier": 5.0,
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_relic_hunter",
+      "description": "While skilling, the chance to receive Enriched Bones is increased.",
+      "maxLevel": 10,
+      "baseValue": 2.0,
+      "levelModifier": 2.0,
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_pyrofreak",
+      "description": "${value}% chance to incinerate logs within inventory.",
+      "maxLevel": 10,
+      "baseValue": 2.5,
+      "levelModifier": 2.25,
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_midas_touch",
+      "description": "Coin drops are increased by ${value}%",
+      "maxLevel": 5,
+      "baseValue": 20.0,
+      "levelModifier": 20.0,
+      "level": 1
+    },
+    {
+      "perkKey": "uncommon_from_ashes",
+      "description": "No residual damage taken from wintertodt",
+      "maxLevel": 1,
+      "baseValue": 0.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "maxLevel": 15,
+      "perkKey": "rare_swift_archer",
+      "baseValue": 10.0,
+      "levelModifier": 0.5,
+      "description": "Increases accuracy by ${value}% for rapid ranged attacks.",
+      "level": 1
+    },
+    {
+      "maxLevel": 30,
+      "perkKey": "rare_the_ark",
+      "baseValue": 12.5,
+      "levelModifier": 0.875,
+      "description": "Deal an extra ${value}% damage with blood/water magic..",
+      "level": 1
+    },
+    {
+      "perkKey": "rare_healthy",
+      "description": "Increases max hitpoints by ${value}",
+      "maxLevel": 5,
+      "baseValue": 3.0,
+      "levelModifier": 3.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_reprisal",
+      "description": "${value}% chance to reflect 5 damage when your hit.",
+      "maxLevel": 5,
+      "baseValue": 20.0,
+      "levelModifier": 20.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_berserker",
+      "description": "Increases damage by hammer, axe and maul based weaponry by ${value}%",
+      "maxLevel": 10,
+      "baseValue": 2.0,
+      "levelModifier": 2.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_kree's_wrath",
+      "description": "${value}% additional damage with ranged attacks against slayer task.",
+      "maxLevel": 10,
+      "baseValue": 3.0,
+      "levelModifier": 3.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_boss_slayer",
+      "description": "25% increased damage to bosses on slayer task",
+      "maxLevel": 1,
+      "baseValue": 25.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_blood_drain",
+      "description": "Increases blood spell damage by ${value}%",
+      "maxLevel": 10,
+      "baseValue": 5.0,
+      "levelModifier": 1.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_crystallized",
+      "description": "Enhanced Crystal Weapons buff with Corrupt Crystal armour",
+      "maxLevel": 1,
+      "baseValue": 25.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_vacancy",
+      "description": "While skilling or pvming your pet has a ${value}% chane to find additional loot",
+      "maxLevel": 5,
+      "baseValue": 2.0,
+      "levelModifier": 0.5,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_good_clues",
+      "description": "${value}% chance of finding clue scrolls",
+      "maxLevel": 10,
+      "baseValue": 2.0,
+      "levelModifier": 2.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_lucky_spin",
+      "description": "${value}% chance to save your fortune spin upon use",
+      "maxLevel": 3,
+      "baseValue": 5.0,
+      "levelModifier": 2.5,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_game_guru",
+      "description": "${value}% chance to receive boxes when completing minigames.",
+      "maxLevel": 10,
+      "baseValue": 1.0,
+      "levelModifier": 1.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_olms_enemy",
+      "description": "Increased damage and accuracy in COX raids by ${value}%.",
+      "maxLevel": 5,
+      "baseValue": 5.0,
+      "levelModifier": 5.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_dethrone",
+      "description": "2x special attack damage on Verzik",
+      "maxLevel": 1,
+      "baseValue": 0.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_afk_mastery",
+      "description": "${value}% at AFK tokens per minute. Higher levels increase tokens.",
+      "maxLevel": 10,
+      "baseValue": 5.0,
+      "levelModifier": 1.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_clue_upgrader",
+      "description": "${value}% chance of gathered clue scrolls to be upgraded to master.",
+      "maxLevel": 5,
+      "baseValue": 5.0,
+      "levelModifier": 2.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_afker",
+      "description": "Randomly gain skill xp 1/100 actions - Max level 1/25 actions.",
+      "maxLevel": 10,
+      "baseValue": 1.0,
+      "levelModifier": 0.3,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_divine_god",
+      "description": "${value}% GWD damage boost for wearing respective god books/blessing.",
+      "maxLevel": 10,
+      "baseValue": 5.0,
+      "levelModifier": 2.0,
+      "level": 1
+    },
+    {
+      "perkKey": "rare_kyros_addict",
+      "description": "${value}% Chance to gain an extra two vote points on claim",
+      "maxLevel": 8,
+      "baseValue": 2.5,
+      "levelModifier": 2.5,
+      "level": 1
+    },
+    {
+      "maxLevel": 10,
+      "perkKey": "legendary_gold_whore",
+      "baseValue": 10.0,
+      "levelModifier": 2.5,
+      "description": "::alchinvy will alch entire inventory and give ${value}% more gold.",
+      "level": 1
+    },
+    {
+      "maxLevel": 80,
+      "perkKey": "legendary_dodge",
+      "baseValue": 4.65,
+      "levelModifier": 0.755,
+      "description": "Gives you a ${value}% chance to take 0 damage and reflect x1.5 damage.",
+      "level": 1
+    },
+    {
+      "perkKey": "legendary_chancer",
+      "description": "increase accuracy by ${value}% for rapid modes with all bows.",
+      "maxLevel": 25,
+      "baseValue": 15.0,
+      "levelModifier": 1.0,
+      "level": 1
+    },
+    {
+      "perkKey": "legendary_double_tap",
+      "description": "${value}% chance to deal 20% base damage extra.",
+      "maxLevel": 5,
+      "baseValue": 2.0,
+      "levelModifier": 2.0,
+      "level": 1
+    },
+    {
+      "perkKey": "legendary_crit_chance",
+      "description": "${value}% chance to increase max hit for a critical strike",
+      "maxLevel": 5,
+      "baseValue": 5.0,
+      "levelModifier": 5.0,
+      "level": 1
+    },
+    {
+      "perkKey": "legendary_strong_arm",
+      "description": "have a ${value}% chance to double hit",
+      "maxLevel": 5,
+      "baseValue": 2.0,
+      "levelModifier": 2.0,
+      "level": 1
+    },
+    {
+      "perkKey": "legendary_immune",
+      "description": "${value}% increased damage output while poisoned",
+      "maxLevel": 10,
+      "baseValue": 2.0,
+      "levelModifier": 2.0,
+      "level": 1
+    },
+    {
+      "perkKey": "legendary_bank_robber",
+      "description": "Obtain nomad tickets during all actions.",
+      "maxLevel": 1,
+      "baseValue": 0.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "legendary_raiders_roar",
+      "description": "${value}% increase to damage dealt in raids",
+      "maxLevel": 10,
+      "baseValue": 1.0,
+      "levelModifier": 1.0,
+      "level": 1
+    },
+    {
+      "perkKey": "legendary_purple_chest",
+      "description": "10% Chance to earn an extra roll for whole party at TOB",
+      "maxLevel": 1,
+      "baseValue": 10.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "maxLevel": 80,
+      "perkKey": "mythical_god_slayer",
+      "baseValue": 13.5,
+      "levelModifier": 0.65,
+      "description": "Grants a ${value}% chance to double all god war loots.",
+      "level": 1
+    },
+    {
+      "maxLevel": 30,
+      "perkKey": "mythical_double_drop",
+      "baseValue": 5.0,
+      "levelModifier": 1.083333333333333,
+      "description": "Gives ${value}% chance to double your drop or roll another drop.",
+      "level": 1
+    },
+    {
+      "perkKey": "mythical_the_blessed",
+      "description": "${value}% Chance to 1-shot an NPC",
+      "maxLevel": 10,
+      "baseValue": 1.0,
+      "levelModifier": 1.0,
+      "level": 1
+    },
+    {
+      "perkKey": "mythical_parry",
+      "description": "${value}% chance to negate incoming damage",
+      "maxLevel": 10,
+      "baseValue": 0.5,
+      "levelModifier": 0.5,
+      "level": 1
+    },
+    {
+      "perkKey": "mythical_life_steal",
+      "description": "${value}% chance of restoring some hp after killing an enemy",
+      "maxLevel": 10,
+      "baseValue": 2.5,
+      "levelModifier": 2.5,
+      "level": 1
+    },
+    {
+      "perkKey": "mythical_hawkeye",
+      "description": "Increases Crossbow damage by ${value}%",
+      "maxLevel": 5,
+      "baseValue": 5.0,
+      "levelModifier": 5.0,
+      "level": 1
+    },
+    {
+      "perkKey": "mythical_50/50",
+      "description": "${value}% chance to hit 2x or 3x targets with ranged.",
+      "maxLevel": 3,
+      "baseValue": 10.0,
+      "levelModifier": 10.0,
+      "level": 1
+    },
+    {
+      "perkKey": "mythical_great_gatz",
+      "description": "${value}% chance of doubling melted nomad",
+      "maxLevel": 5,
+      "baseValue": 5.0,
+      "levelModifier": 5.0,
+      "level": 1
+    },
+    {
+      "perkKey": "mythical_the_doubler",
+      "description": "${value}% chance to double drops",
+      "maxLevel": 10,
+      "baseValue": 5.0,
+      "levelModifier": 5.0,
+      "level": 1
+    },
+    {
+      "perkKey": "mythical_hodor",
+      "description": "${value}% damage reduction per level while in raids",
+      "maxLevel": 10,
+      "baseValue": 1.0,
+      "levelModifier": 1.0,
+      "level": 1
+    },
+    {
+      "maxLevel": 80,
+      "perkKey": "p2w_chosen_one",
+      "baseValue": 15.0,
+      "levelModifier": 0.775,
+      "description": "Grants a ${value}% to increase and deal your max hit in raids.",
+      "level": 1
+    },
+    {
+      "perkKey": "p2w_boosted",
+      "description": "Restore combat stats or +1 them randomly in combat up to +20",
+      "maxLevel": 10,
+      "baseValue": 5.0,
+      "levelModifier": 1.5,
+      "level": 1
+    },
+    {
+      "perkKey": "p2w_juggernaut",
+      "description": "When below 20% health, you gain a ${value}% increase in Damage.",
+      "maxLevel": 10,
+      "baseValue": 5.0,
+      "levelModifier": 1.5,
+      "level": 1
+    },
+    {
+      "perkKey": "p2w_bullseye",
+      "description": "all damage from darts is increased by 25% when wearing a blowpipe",
+      "maxLevel": 1,
+      "baseValue": 25.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "p2w_raiders_ruse",
+      "description": "10% more points in all raids",
+      "maxLevel": 1,
+      "baseValue": 10.0,
+      "levelModifier": 0.0,
+      "level": 1
+    },
+    {
+      "perkKey": "p2w_rogue_beast",
+      "description": "Your pet will attack your target, dealing ${value}% of your max hit.",
+      "maxLevel": 30,
+      "baseValue": 0.5,
+      "levelModifier": 0.5,
+      "level": 1
+    },
+    {
+      "perkKey": "p2w_pvm_master",
+      "description": "Gives a ${value}% chance for a nomad key upon killing a boss.",
+      "maxLevel": 25,
+      "baseValue": 0.15,
+      "levelModifier": 0.15,
+      "level": 1
+    },
+    {
+      "perkKey": "p2w_skiller",
+      "description": "Gives a ${value}% chance for a donator box when skilling.",
+      "maxLevel": 45,
+      "baseValue": 0.025,
+      "levelModifier": 0.075,
+      "level": 1
+    },
+    {
+      "perkKey": "p2w_raider",
+      "description": "${value}% chance for a mini-raid box when completing a raid.",
+      "maxLevel": 20,
+      "baseValue": 0.425,
+      "levelModifier": 0.375,
+      "level": 1
+    },
+    {
+      "perkKey": "p2w_loyalist",
+      "description": "${value}% chance for a durial ticket when claiming a vote.",
+      "maxLevel": 25,
+      "baseValue": 0.545,
+      "levelModifier": 0.265,
+      "level": 1
+    }
+  ]
+}

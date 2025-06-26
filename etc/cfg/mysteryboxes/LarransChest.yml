@@ -1,0 +1,67 @@
+common:
+  - id: 995
+    amount: 5000000
+  - id: 21046
+    amount: 5
+  - id: 2354
+    amount: 1000
+  - id: 1514
+    amount: 400
+  - id: 13440
+    amount: 300
+  - id: 441
+    amount: 1000
+  - id: 454
+    amount: 1000
+  - id: 7937
+    amount: 15000
+  - id: 565
+    amount: 1500
+  - id: 560
+    amount: 1500
+  - id: 270
+    amount: 75
+  - id: 3050
+    amount: 75
+  - id: 3052
+    amount: 75
+  - id: 6792
+    amount: 1
+  - id: 4185
+    amount: 1
+  - id: 11731
+    amount: 5
+  - id: 8901
+    amount: 1
+
+rare:
+  - id: 22610
+    amount: 1
+  - id: 22613
+    amount: 1
+  - id: 22616
+    amount: 1
+  - id: 22619
+    amount: 1
+  - id: 22622
+    amount: 1
+  - id: 22625
+    amount: 1
+  - id: 22628
+    amount: 1
+  - id: 22631
+    amount: 1
+  - id: 22650
+    amount: 1
+  - id: 22656
+    amount: 1
+  - id: 22653
+    amount: 1
+  - id: 22647
+    amount: 1
+  - id: 22638
+    amount: 1
+  - id: 22641
+    amount: 1
+  - id: 22644
+    amount: 1

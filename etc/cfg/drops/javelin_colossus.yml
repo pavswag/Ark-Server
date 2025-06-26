@@ -1,0 +1,98 @@
+---
+npc_id: 12817
+constant:
+  accessibility: 0
+  items:
+    - item: 537 #Noted Dragon bone
+      minimum: 1
+      maximum: 1
+    - item: 691 #1 Nomad
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 1
+  items:
+    - item: 691 #10k nomad
+      minimum: 1
+      maximum: 10
+    - item: 6679 #Mini mystery
+      minimum: 1
+      maximum: 25
+    - item: 681 #Ancient talisman
+      minimum: 1
+      maximum: 10
+    - item: 11180 #Ancient coin
+      minimum: 1
+      maximum: 10
+    - item: 21551 #100k Bone
+      minimum: 1
+      maximum: 5
+uncommon:
+  accessibility: 1
+  items:
+    - item: 692 #25k nomad
+      minimum: 1
+      maximum: 10
+    - item: 6677 #Mini smb
+      minimum: 1
+      maximum: 25
+    - item: 6828 #Smb
+      minimum: 1
+      maximum: 25
+    - item: 989 #C Key
+      minimum: 10
+      maximum: 25
+    - item: 21553 #250k Bone
+      minimum: 1
+      maximum: 5
+rare:
+  accessibility: 544
+  items:
+    - item: 693 #50k nomad
+      minimum: 1
+      maximum: 10
+    - item: 6678 #Mini umb
+      minimum: 1
+      maximum: 25
+    - item: 12774 #Frozen whip
+      minimum: 1
+      maximum: 1
+    - item: 21012 #Dhcb
+      minimum: 1
+      maximum: 1
+    - item: 12899 #Trident of the swamp
+      minimum: 1
+      maximum: 1
+    - item: 26545 #Hope Perk
+      minimum: 1
+      maximum: 1
+    - item: 27226 #Masori
+      minimum: 1
+      maximum: 1
+    - item: 27229 #Masori
+      minimum: 1
+      maximum: 1
+    - item: 27232 #Masori
+      minimum: 1
+      maximum: 1
+    - item: 26374 #Zaryte c'bow
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 978
+  items:
+    - item: 696 #250k nomad
+      minimum: 1
+      maximum: 10
+    - item: 19887 #mini dono
+      minimum: 1
+      maximum: 25
+    - item: 33311 #Plague
+      minimum: 1
+      maximum: 1
+    - item: 33312 #Plague
+      minimum: 1
+      maximum: 1
+    - item: 33313 #Plague
+      minimum: 1
+      maximum: 1

@@ -1,0 +1,3136 @@
+{
+  "pet-combat": [
+    {
+      "npcId": 6632,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6643,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6633,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6634,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6627,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6630,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6628,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5907,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 4444,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6636,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6640,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5558,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6651,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5559,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5560,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5557,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6639,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5892,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 3099,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 425,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2130,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2131,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2132,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 1625,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8029,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5568,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5570,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5571,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5569,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5561,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 388,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8010,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6637,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6638,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6715,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7439,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7440,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7441,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7442,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7445,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7446,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7447,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7449,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7450,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 12169,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5591,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5592,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5593,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5594,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5595,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5596,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6718,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6719,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6720,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6721,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7351,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7352,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7353,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7354,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7355,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7356,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7357,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7358,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7359,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7360,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7361,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7362,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7363,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7364,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7365,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7366,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7367,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5883,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6296,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7368,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8201,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8202,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8203,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8204,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8200,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7519,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7674,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 11276,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8009,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8492,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8493,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8494,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8495,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 327,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 326,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7025,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7216,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6473,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8731,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8737,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8738,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 9398,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 3291,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5738,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 5240,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 834,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 1873,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2122,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2120,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2121,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6723,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 6716,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8709,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8337,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 10873,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 10870,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 10872,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 10871,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 10874,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 10625,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7890,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7891,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 763,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 762,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7668,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 488,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2143,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 1089,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 1088,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2300,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2301,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2302,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2304,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2307,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2308,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2311,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2312,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2313,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2833,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 3564,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2316,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 3472,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 11401,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 4629,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 4630,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2577,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 4851,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 4852,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 4850,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 373,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2268,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7118,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 1467,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8087,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8081,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8093,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 8083,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 2592,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 12155,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 12156,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 12157,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 12158,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7616,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 12767,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 10562,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 7759,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 11812,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 12768,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 4001,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 12005,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 11653,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 11849,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 11840,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 11842,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 11841,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 12889,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 13681,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 13655,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    },
+    {
+      "npcId": 13682,
+      "startGraphics": [
+        1993
+      ],
+      "startAnimation": 395,
+      "projectileId": 1995,
+      "petInHitGraphics": [
+        2011
+      ],
+      "targetInHitGraphics": [
+        2011
+      ],
+      "hitMask": "BLEED",
+      "targetOnHitGraphics": [
+        2003
+      ]
+    }
+  ]
+}

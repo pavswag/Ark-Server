@@ -1,0 +1,200 @@
+---
+npc_id:
+- 1233
+- 1234
+- 1235
+- 1230
+- 1231
+- 1232
+- 1227
+- 1228
+- 1229
+constant:
+  accessibility: 0
+  items:
+    - item: 536 #dragon bones
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 3
+  items:
+    - item: 995 #gp
+      minimum: 2500
+      maximum: 10000
+uncommon:
+  accessibility: 300
+  items:
+    - item: 30000 #resource box small
+      minimum: 1
+      maximum: 1
+    - item: 30001 #resource box medium
+      minimum: 1
+      maximum: 1
+    - item: 30002 #resource box large
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 600
+  items:
+    - item: 6679 #mystery box
+      minimum: 10
+      maximum: 10
+    - item: 6678 #smb
+      minimum: 5
+      maximum: 5
+    - item: 692 #25k nomad
+      minimum: 1
+      maximum: 1
+    - item: 693 #50k nomad
+      minimum: 1
+      maximum: 1
+    - item: 696 #250k nomad
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 1000
+  items:
+    - item: 33073 #dwarf overload
+      minimum: 1
+      maximum: 1
+    - item: 33074 #pk master
+      minimum: 1
+      maximum: 1
+    - item: 33090 #magic master
+      minimum: 1
+      maximum: 1
+    - item: 33091 #yin yang
+      minimum: 1
+      maximum: 1
+    - item: 33102 #novice zerk
+      minimum: 1
+      maximum: 1
+    - item: 33103 #novice magician
+      minimum: 1
+      maximum: 1
+    - item: 33104 #novice ranger
+      minimum: 1
+      maximum: 1
+    - item: 33105 #pro zerk
+      minimum: 1
+      maximum: 1
+    - item: 33106 #pro magician
+      minimum: 1
+      maximum: 1
+    - item: 33107 #pro ranger
+      minimum: 1
+      maximum: 1
+    - item: 33108 #sweedish swindle
+      minimum: 1
+      maximum: 1
+    - item: 33117 #monks heals
+      minimum: 1
+      maximum: 1
+    - item: 33118 #dragon fire
+      minimum: 1
+      maximum: 1
+    - item: 33119 #overload protection
+      minimum: 1
+      maximum: 1
+    - item: 33121 #canon extender
+      minimum: 1
+      maximum: 1
+    - item: 33079 #runecrafter
+      minimum: 1
+      maximum: 1
+    - item: 33080 #pro fletcher
+      minimum: 1
+      maximum: 1
+    - item: 33087 #skilled thief
+      minimum: 1
+      maximum: 1
+    - item: 33088 #crafting guru
+      minimum: 1
+      maximum: 1
+    - item: 33089 #hot hands
+      minimum: 1
+      maximum: 1
+    - item: 33093 #demon slayer
+      minimum: 1
+      maximum: 1
+    - item: 33094 #slayer master
+      minimum: 1
+      maximum: 1
+    - item: 33095 #pyromaniac
+      minimum: 1
+      maximum: 1
+    - item: 33096 #skilled hunter
+      minimum: 1
+      maximum: 1
+    - item: 33097 #molten miner
+      minimum: 1
+      maximum: 1
+    - item: 33098 #woodchipper
+      minimum: 1
+      maximum: 1
+    - item: 33099 #bare hands
+      minimum: 1
+      maximum: 1
+    - item: 33100 #bare hands x3
+      minimum: 1
+      maximum: 1
+    - item: 33101 #praying respects
+      minimum: 1
+      maximum: 1
+    - item: 33122 #pure skills
+      minimum: 1
+      maximum: 1
+    - item: 33077 #iron giant
+      minimum: 1
+      maximum: 1
+    - item: 33078 #slayer overide
+      minimum: 1
+      maximum: 1
+    - item: 33072 #the fusionist
+      minimum: 1
+      maximum: 1
+    - item: 33075 #wildy slayer
+      minimum: 1
+      maximum: 1
+    - item: 33076 #sneaky sneaky
+      minimum: 1
+      maximum: 1
+    - item: 33081 #chisel master
+      minimum: 1
+      maximum: 1
+    - item: 33082 #ava's accomplice
+      minimum: 1
+      maximum: 1
+    - item: 33083 #deeper pockets
+      minimum: 1
+      maximum: 1
+    - item: 33084 #recharger
+      minimum: 1
+      maximum: 1
+    - item: 33085 #magic paper chanced
+      minimum: 1
+      maximum: 1
+    - item: 33086 #dragon bait
+      minimum: 1
+      maximum: 1
+    - item: 33092 #nomad master
+      minimum: 1
+      maximum: 1
+    - item: 33114 #casket master
+      minimum: 1
+      maximum: 1
+    - item: 33115 #voting king
+      minimum: 1
+      maximum: 1
+    - item: 33116 #pet locator
+      minimum: 1
+      maximum: 1
+    - item: 33120 #lucy coin
+      minimum: 1
+      maximum: 1
+    - item: 33123 #pc pro
+      minimum: 1
+      maximum: 1
+    - item: 33124 #slayer guru
+      minimum: 1
+      maximum: 1

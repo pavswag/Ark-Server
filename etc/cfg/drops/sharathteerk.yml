@@ -1,0 +1,121 @@
+---
+npc_id: 12617
+constant:
+  accessibility: 0
+  items:
+    - item: 693 #50k Nomad
+      minimum: 25
+      maximum: 50
+    - item: 26879 #Wraith Essence
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 167
+  items:
+    - item: 696 #250k nomad
+      minimum: 7
+      maximum: 14
+    - item: 6678 #Mini umb
+      minimum: 5
+      maximum: 10
+    - item: 13346 #Umb
+      minimum: 4
+      maximum: 8
+    - item: 19887 #Mini dono
+      minimum: 3
+      maximum: 6
+    - item: 26545 #Hope perk
+      minimum: 1
+      maximum: 1
+    - item: 10558 #Defender icon
+      minimum: 1
+      maximum: 1
+    - item: 10557 #Collector icon
+      minimum: 1
+      maximum: 1
+    - item: 10556 #Attacker icon
+      minimum: 1
+      maximum: 1
+    - item: 10559 #Healer icon
+      minimum: 1
+      maximum: 1
+    - item: 26879 #Wraith Essence
+      minimum: 1
+      maximum: 3
+uncommon:
+  accessibility: 375
+  items:
+    - item: 696 #250k nomad
+      minimum: 12
+      maximum: 24
+    - item: 13346 #Umb
+      minimum: 6
+      maximum: 14
+    - item: 19887 #Mini dono box
+      minimum: 5
+      maximum: 15
+    - item: 27100 #Elder Maul (or)
+      minimum: 1
+      maximum: 1
+    - item: 26545 #Hope Perk
+      minimum: 1
+      maximum: 1
+    - item: 20787 #ROW (i4)
+      minimum: 1
+      maximum: 1
+    - item: 26879 #Wraith Essence
+      minimum: 3
+      maximum: 5
+rare:
+  accessibility: 765
+  items:
+    - item: 2399 #Nomad key
+      minimum: 1
+      maximum: 1
+    - item: 19887 #Mini Dono box
+      minimum: 10
+      maximum: 25
+    - item: 33206 #Ascension c'bow
+      minimum: 1
+      maximum: 1
+    - item: 25739 #Sang scythe
+      minimum: 1
+      maximum: 1
+    - item: 25731 #Holy sang
+      minimum: 1
+      maximum: 1
+    - item: 33141 #Virtus
+      minimum: 1
+      maximum: 1
+    - item: 33142 #Virtus
+      minimum: 1
+      maximum: 1
+    - item: 33143 #Virtus
+      minimum: 1
+      maximum: 1
+    - item: 9608 #Sharathteerk instance token
+      minimum: 1
+      maximum: 1
+
+very_rare:
+  accessibility: 984
+  items:
+    - item: 696 #250k nomad
+      minimum: 500
+      maximum: 1000
+    - item: 12588 #Dono Box
+      minimum: 15
+      maximum: 30
+    - item: 33354 #Wonder box
+      minimum: 1
+      maximum: 3
+    - item: 26879 #Wraith Essence
+      minimum: 5
+      maximum: 10
+
+extremely_rare:
+  accessibility: 2000
+  items:
+    - item: 33430 #Wraith Sword
+      minimum: 1
+      maximum: 1

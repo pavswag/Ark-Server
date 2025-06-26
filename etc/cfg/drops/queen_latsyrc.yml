@@ -1,0 +1,236 @@
+---
+npc_id: 8781
+constant:
+  accessibility: 0
+  items:
+    - item: 20608
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 3
+  items:
+    - item: 995
+      minimum: 3000000
+      maximum: 8000000
+    - item: 21880
+      minimum: 2000
+      maximum: 2500
+    - item: 7937
+      minimum: 10000
+      maximum: 25000
+    - item: 537
+      minimum: 200
+      maximum: 500
+    - item: 1514
+      minimum: 200
+      maximum: 500
+    - item: 452
+      minimum: 400
+      maximum: 800
+    - item: 2364
+      minimum: 300
+      maximum: 600
+    - item: 23686
+      minimum: 200
+      maximum: 300
+    - item: 11944
+      minimum: 100
+      maximum: 300
+    - item: 6686
+      minimum: 100
+      maximum: 300
+    - item: 21820
+      minimum: 5000
+      maximum: 15000
+    - item: 384
+      minimum: 1000
+      maximum: 2000
+    - item: 386
+      minimum: 1000
+      maximum: 2000
+uncommon:
+  accessibility: 200
+  items:
+    - item: 21028
+      minimum: 1
+      maximum: 1
+    - item: 11920
+      minimum: 1
+      maximum: 1
+    - item: 12954
+      minimum: 1
+      maximum: 1
+    - item: 12873
+      minimum: 1
+      maximum: 1
+    - item: 12875
+      minimum: 1
+      maximum: 1
+    - item: 12877
+      minimum: 1
+      maximum: 1
+    - item: 12879
+      minimum: 1
+      maximum: 1
+    - item: 12881
+      minimum: 1
+      maximum: 1
+    - item: 12883
+      minimum: 1
+      maximum: 1
+    - item: 12877
+      minimum: 1
+      maximum: 1
+    - item: 4151
+      minimum: 1
+      maximum: 5
+    - item: 26500
+      minimum: 1
+      maximum: 3
+    - item: 4207
+      minimum: 1
+      maximum: 1
+    - item: 2996
+      minimum: 1000
+      maximum: 2000
+    - item: 11739
+      minimum: 1
+      maximum: 5
+    - item: 6199
+      minimum: 1
+      maximum: 3
+    - item: 6828
+      minimum: 1
+      maximum: 1
+    - item: 12004
+      minimum: 1
+      maximum: 1
+    - item: 13438
+      minimum: 1
+      maximum: 3
+rare:
+  accessibility: 210
+  items:
+    - item: 12773
+      minimum: 1
+      maximum: 1
+    - item: 12774
+      minimum: 1
+      maximum: 1
+    - item: 20903
+      minimum: 1
+      maximum: 1
+    - item: 20906
+      minimum: 1
+      maximum: 1
+    - item: 20909
+      minimum: 1
+      maximum: 1
+    - item: 22869
+      minimum: 1
+      maximum: 1
+    - item: 22881
+      minimum: 1
+      maximum: 1
+    - item: 22883
+      minimum: 1
+      maximum: 1
+    - item: 22885
+      minimum: 1
+      maximum: 1
+    - item: 22547
+      minimum: 1
+      maximum: 1
+    - item: 22552
+      minimum: 1
+      maximum: 1
+    - item: 22542
+      minimum: 1
+      maximum: 1
+    - item: 13346
+      minimum: 1
+      maximum: 1
+    - item: 8167
+      minimum: 1
+      maximum: 1
+    - item: 6769
+      minimum: 1
+      maximum: 1
+    - item: 2403
+      minimum: 1
+      maximum: 1
+    - item: 26718
+      minimum: 1
+      maximum: 1
+    - item: 26719
+      minimum: 1
+      maximum: 1
+    - item: 26720
+      minimum: 1
+      maximum: 1
+    - item: 26714
+      minimum: 1
+      maximum: 1
+    - item: 26715
+      minimum: 1
+      maximum: 1
+    - item: 26716
+      minimum: 1
+      maximum: 1
+    - item: 11824
+      minimum: 1
+      maximum: 1
+    - item: 995
+      minimum: 10000000
+      maximum: 300000000
+    - item: 21003
+      minimum: 1
+      maximum: 1
+    - item: 12006
+      minimum: 1
+      maximum: 3
+    - item: 11666
+      minimum: 1
+      maximum: 1
+    - item: 21012
+      minimum: 1
+      maximum: 1
+    - item: 22978
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 620
+  items:
+    - item: 2396
+      minimum: 1
+      maximum: 1
+    - item: 21295
+      minimum: 1
+      maximum: 1
+    - item: 10559
+      minimum: 1
+      maximum: 1
+    - item: 10558
+      minimum: 1
+      maximum: 1
+    - item: 10557
+      minimum: 1
+      maximum: 1
+    - item: 10556
+      minimum: 1
+      maximum: 1
+    - item: 20788
+      minimum: 1
+      maximum: 1
+    - item: 20997
+      minimum: 1
+      maximum: 1
+    - item: 786
+      minimum: 1
+      maximum: 1
+    - item: 22325
+      minimum: 1
+      maximum: 1
+    - item: 696
+      minimum: 20
+      maximum: 80

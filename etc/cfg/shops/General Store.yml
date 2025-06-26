@@ -1,0 +1,50 @@
+---
+id: 2
+name: "General Store"
+items:
+- name: "teleport to house"
+  price: 500
+- name: "tinderbox"
+  price: 50
+- name: "hammer"
+  price: 50
+- name: "spade"
+  price: 50
+- name: "knife"
+  price: 50
+- name: "chisel"
+  price: 50
+- name: "bucket"
+  price: 50
+- name: "lockpick"
+  price: 100
+- name: "feather"
+  price: 50
+- name: "rune essence noted"
+  price: 250
+- name: "eye of newt noted"
+  price: 100
+- name: "bones noted"
+  price: 50
+- name: "anti dragon shield"
+  price: 2500
+- name: "bronze pickaxe"
+  price: 1250
+- name: "iron pickaxe"
+  price: 1250
+- name: "steel pickaxe"
+  price: 2500
+- name: "bronze axe"
+  price: 1250
+- name: "iron axe"
+  price: 1250
+- name: "steel axe"
+  price: 2500
+- name: "mith grapple"
+  price: 2500
+- name: "ecumenical key"
+  price: 5000000
+- name: "strip of cloth"
+  price: 1000000
+- id: 5525 #Tiara
+  price: 25000

@@ -1,0 +1,137 @@
+---
+npc_id: 655
+constant:
+  accessibility: 0
+  items:
+    - item: 7478 #afk token
+      minimum: 2500
+      maximum: 2500
+common:
+  accessibility: 50
+  items:
+    - item: 6679 #mini mystery
+      minimum: 1
+      maximum: 1
+    - item: 989 #crystal key
+      minimum: 10
+      maximum: 20
+    - item: 2572 #row
+      minimum: 1
+      maximum: 1
+    - item: 2528 #exp lamp
+      minimum: 5
+      maximum: 5
+    - item: 995 #gp
+      minimum: 50000
+      maximum: 100000
+    - item: 2577 #ranger boots
+      minimum: 1
+      maximum: 1
+    - item: 11840 #dragon boots
+      minimum: 1
+      maximum: 1
+    - item: 6920 #infinity boots
+      minimum: 1
+      maximum: 1
+uncommon:
+  accessibility: 100
+  items:
+    - item: 692 #25k nomad
+      minimum: 1
+      maximum: 1
+    - item: 7478 #afk token
+      minimum: 5000
+      maximum: 5000
+    - item: 6677 #mini smb
+      minimum: 1
+      maximum: 1
+    - item: 2528 #exp lamp
+      minimum: 10
+      maximum: 10
+    - item: 12785 #row (i1)
+      minimum: 1
+      maximum: 1
+    - item: 995 #gp
+      minimum: 100000
+      maximum: 150000
+    - item: 6585 #fury
+      minimum: 1
+      maximum: 1
+    - item: 12002
+      minimum: 1
+      maximum: 1
+    - item: 19547
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 100
+  items:
+    - item: 6678 #mini umb
+      minimum: 1
+      maximum: 1
+    - item: 956 #$1
+      minimum: 1
+      maximum: 1
+    - item: 11920 #dragon pick
+      minimum: 1
+      maximum: 1
+    - item: 6739 #dragon axe
+      minimum: 1
+      maximum: 1
+    - item: 21028 #dragon harpoon
+      minimum: 1
+      maximum: 1
+    - item: 2528 #exp lamp
+      minimum: 15
+      maximum: 15
+    - item: 20790 #row(i1)
+      minimum: 1
+      maximum: 1
+    - item: 28736 #trailblaxe t3 headband
+      minimum: 1
+      maximum: 1
+    - item: 28739 #trailblaxe t3 body
+      minimum: 1
+      maximum: 1
+    - item: 28742 #trailblaxe t3 legs
+      minimum: 1
+      maximum: 1
+    - item: 28745 #trailblaxe t3 boots
+      minimum: 1
+      maximum: 1
+    - item: 28748 #trailblaxe t3 torch
+      minimum: 1
+      maximum: 1
+extremely_rare:
+  accessibility: 175
+  items:
+    - item: 7478 #afk token
+      minimum: 10000
+      maximum: 10000
+    - item: 26858 #afk hat
+      minimum: 1
+      maximum: 1
+    - item: 26860 #afk body
+      minimum: 1
+      maximum: 1
+    - item: 26862 #afk legs
+      minimum: 1
+      maximum: 1
+    - item: 33065 #beaver pet
+      minimum: 1
+      maximum: 1
+    - item: 22840 #golden tench
+      minimum: 1
+      maximum: 1
+    - item: 22838 #sack of fish
+      minimum: 1
+      maximum: 1
+    - item: 6769 #$5
+      minimum: 1
+      maximum: 1
+    - item: 696 #2.5m nomad
+      minimum: 10
+      maximum: 10
+    - item: 20789 #row(i2)
+      minimum: 1
+      maximum: 1

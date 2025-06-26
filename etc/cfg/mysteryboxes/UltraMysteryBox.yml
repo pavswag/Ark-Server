@@ -1,0 +1,292 @@
+common:
+  # Amulet of torture
+- amount: 1
+  id: 19553
+
+  # Necklace of anguish
+- amount: 1
+  id: 19547
+
+  # Ring of suffering
+- amount: 1
+  id: 19550
+
+  # Tormented bracelet
+- amount: 1
+  id: 19544
+
+  # Abyssal dagger (p++)
+- amount: 1
+  id: 13271
+
+  # Dragon warhammer
+- amount: 1
+  id: 13576
+
+  # Toxic blowpipe (empty)
+- amount: 1
+  id: 12924
+
+  # Heavy ballista
+- amount: 1
+  id: 19481
+
+  # Ancient Wyvern shield
+- amount: 1
+  id: 21633
+
+  # Twisted buckler
+- amount: 1
+  id: 21000
+
+  # Primordial boots
+- amount: 1
+  id: 13239
+
+  # Eternal boots
+- amount: 1
+  id: 13235
+
+  # Pegasian boots
+- amount: 1
+  id: 13237
+
+uncommon:
+  # Amulet of torture
+- amount: 1
+  id: 19553
+
+  # Necklace of anguish
+- amount: 1
+  id: 19547
+
+  # Ring of suffering
+- amount: 1
+  id: 19550
+
+  # Tormented bracelet
+- amount: 1
+  id: 19544
+
+  # Abyssal dagger (p++)
+- amount: 1
+  id: 13271
+
+  # Dragon warhammer
+- amount: 1
+  id: 13576
+
+  # Toxic blowpipe (empty)
+- amount: 1
+  id: 12924
+
+  # Heavy ballista
+- amount: 1
+  id: 19481
+
+  # Ancient Wyvern shield
+- amount: 1
+  id: 21633
+
+  # Twisted buckler
+- amount: 1
+  id: 21000
+
+  # Infernal cape
+- amount: 1
+  id: 21295
+
+  # Primordial boots
+- amount: 1
+  id: 13239
+
+  # Eternal boots
+- amount: 1
+  id: 13235
+
+  # Pegasian boots
+- amount: 1
+  id: 13237
+
+rare:
+  # Justiciar faceguard
+- amount: 1
+  id: 22326
+
+  # Justiciar faceguard
+- amount: 1
+  id: 22326
+
+  # Justiciar faceguard
+- amount: 1
+  id: 22326
+
+  # Justiciar chestguard
+- amount: 1
+  id: 22327
+
+  # Justiciar chestguard
+- amount: 1
+  id: 22327
+
+  # Justiciar chestguard
+- amount: 1
+  id: 22327
+
+  # Justiciar legguards
+- amount: 1
+  id: 22328
+
+  # Justiciar legguards
+- amount: 1
+  id: 22328
+
+  # Justiciar legguards
+- amount: 1
+  id: 22328
+
+  # Ancestral hat
+- amount: 1
+  id: 21018
+
+  # Ancestral hat
+- amount: 1
+  id: 21018
+
+  # Ancestral hat
+- amount: 1
+  id: 21018
+
+  # Ancestral robe top
+- amount: 1
+  id: 21021
+
+  # Ancestral robe top
+- amount: 1
+  id: 21021
+
+  # Ancestral robe top
+- amount: 1
+  id: 21021
+
+  # Ancestral robe bottom
+- amount: 1
+  id: 21024
+
+  # Ancestral robe bottom
+- amount: 1
+  id: 21024
+
+  # Ancestral robe bottom
+- amount: 1
+  id: 21024
+
+  # Ghrazi rapier
+- amount: 1
+  id: 22324
+
+  # Ghrazi rapier
+- amount: 1
+  id: 22324
+
+  # Ghrazi rapier
+- amount: 1
+  id: 22324
+
+  # Dragon claws
+- amount: 1
+  id: 20784
+
+  # Dragon claws
+- amount: 1
+  id: 20784
+
+  # Dragon claws
+- amount: 1
+  id: 20784
+
+  # Kodai wand
+- amount: 1
+  id: 21006
+
+  # Elder maul
+- amount: 1
+  id: 21003
+
+  # Dragon hunter crossbow
+- amount: 1
+  id: 21012
+
+  # Dinh's bulwark
+- amount: 1
+  id: 21015
+
+  # Elysian spirit shield
+- amount: 1
+  id: 12817
+
+  # Elysian spirit shield
+- amount: 1
+  id: 12817
+
+  # Elysian spirit shield
+- amount: 1
+  id: 12817
+
+  # Arcane spirit shield
+- amount: 1
+  id: 12825
+
+  # Arcane spirit shield
+- amount: 1
+  id: 12825
+
+  # Arcane spirit shield
+- amount: 1
+  id: 12825
+
+  # Spectral spirit shield
+- amount: 1
+  id: 12821
+
+  # Spectral spirit shield
+- amount: 1
+  id: 12821
+
+  # Spectral spirit shield
+- amount: 1
+  id: 12821
+
+  # Dexterous Prayer Scroll
+- amount: 1
+  id: 21034
+
+  # Arcane Prayer Scroll
+- amount: 1
+  id: 21079
+
+very_rare:
+  # Scythe of vitur
+- amount: 1
+  id: 22325
+
+  # Twisted bow
+- amount: 1
+  id: 20997
+
+  # Healer Icon
+- amount: 1
+  id: 10559
+
+  # Defender Icon
+- amount: 1
+  id: 10558
+
+  # Attacker Icon
+- amount: 1
+  id: 10556
+
+  # Collector Icon
+- amount: 1
+  id: 10557
+

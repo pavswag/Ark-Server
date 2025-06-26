@@ -1,0 +1,46 @@
+---
+id: 599
+name: "Premium Shop"
+items:
+  - id: 27119 #Elder Chaos Hood
+    price: 10
+  - id: 27115 #Elder Chaos Top
+    price: 10
+  - id: 27117 #Elder Chaos Legs
+    price: 10
+  - id: 33292 #Ice Helm
+    price: 10
+  - id: 33293 #Ice Body
+    price: 10
+  - id: 33294 #Ice Legs
+    price: 10
+  - id: 33329 #Starlight sword
+    price: 15
+  - id: 33203 #Demon x
+    price: 5
+  - id: 33204 #Demon x
+    price: 5
+  - id: 29594 #Purging Staff
+    price: 15
+  - id: 29599 #Corrupted Dark Bow
+    price: 15
+  - id: 26269 #Demon x
+    price: 5
+  - id: 30022 #Kratos
+    price: 5
+  - id: 23859 #Bloodbark cape
+    price: 10
+  - id: 29489 #Pride cape
+    price: 10
+  - id: 23309 #Ddr ammy
+    price: 5
+  - id: 27552 #hilt 6
+    price: 5
+  - id: 24731 #Hallowed ring
+    price: 7
+  - id: 24725 #Hallowed amulet
+    price: 7
+  - id: 33402 #Hallowed gloves
+    price: 7
+  - id: 33403 #Hallowed boots
+    price: 7

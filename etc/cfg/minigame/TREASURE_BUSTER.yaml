@@ -1,0 +1,170 @@
+miniGameName: Treasure Buster
+boundary:
+  minX: 3712
+  minY: 4352
+  highX: 3775
+  highY: 4415
+startPosition:
+  x: 3742
+  y: 4387
+  z: 0
+objectList:
+  - id: 21266
+    position:
+      x: 3737
+      y: 4384
+  - id: 21266
+    position:
+      x: 3742
+      y: 4384
+  - id: 21266
+    position:
+      x: 3747
+      y: 4383
+  - id: 21266
+    position:
+      x: 3740
+      y: 4387
+  - id: 21266
+    position:
+      x: 3746
+      y: 4386
+  - id: 21266
+    position:
+      x: 3746
+      y: 4390
+  - id: 21266
+    position:
+      x: 3742
+      y: 4391
+  - id: 21266
+    position:
+      x: 3737
+      y: 4391
+  - id: 21266
+    position:
+      x: 3740
+      y: 4395
+  - id: 21266
+    position:
+      x: 3745
+      y: 4395
+  - id: 21266
+    position:
+      x: 3737
+      y: 4399
+  - id: 21266
+    position:
+      x: 3742
+      y: 4399
+  - id: 21266
+    position:
+      x: 3746
+      y: 4400
+  - id: 21266
+    position:
+      x: 3740
+      y: 4402
+items:
+  - id: 25537
+    amount: 10
+    rarity: COMMON
+  - id: 33386
+    amount: 10
+    rarity: COMMON
+  - id: 33357
+    amount: 2
+    rarity: COMMON
+  - id: 33391
+    amount: 2
+    rarity: COMMON
+  - id: 33358
+    amount: 1
+    rarity: COMMON
+  - id: 33359
+    amount: 1
+    rarity: COMMON
+  - id: 9600
+    amount: 1
+    rarity: COMMON
+  - id: 9616
+    amount: 1
+    rarity: COMMON
+  - id: 33357
+    amount: 5
+    rarity: UNCOMMON
+  - id: 33391
+    amount: 5
+    rarity: UNCOMMON
+  - id: 33358
+    amount: 5
+    rarity: UNCOMMON
+  - id: 33359
+    amount: 5
+    rarity: UNCOMMON
+  - id: 9600
+    amount: 2
+    rarity: UNCOMMON
+  - id: 9616
+    amount: 2
+    rarity: UNCOMMON
+  - id: 33357
+    amount: 10
+    rarity: RARE
+  - id: 33391
+    amount: 10
+    rarity: RARE
+  - id: 33358
+    amount: 10
+    rarity: RARE
+  - id: 33396
+    amount: 1
+    rarity: RARE
+  - id: 33359
+    amount: 1
+    rarity: RARE
+  - id: 9600
+    amount: 3
+    rarity: RARE
+  - id: 9616
+    amount: 3
+    rarity: RARE
+  - id: 33358
+    amount: 20
+    rarity: VERY_RARE
+  - id: 33395
+    amount: 5
+    rarity: VERY_RARE
+  - id: 33396
+    amount: 20
+    rarity: VERY_RARE
+  - id: 33359
+    amount: 20
+    rarity: VERY_RARE
+  - id: 33292
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33293
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33294
+    amount: 1
+    rarity: VERY_RARE
+  - id: 27119
+    amount: 1
+    rarity: VERY_RARE
+  - id: 27115
+    amount: 1
+    rarity: VERY_RARE
+  - id: 27117
+    amount: 1
+    rarity: VERY_RARE
+  - id: 29599
+    amount: 1
+    rarity: VERY_RARE
+  - id: 29594
+    amount: 1
+    rarity: VERY_RARE
+specialitem:
+  - id: 1965
+    amount: 1

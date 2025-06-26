@@ -1,0 +1,34 @@
+---
+id: 597
+name: "Kasonde's Crusader Shop"
+items:
+  - id: 28416 #Shadow Crusade key
+    price: 2999
+  - id: 33360 #Mini Shadow Crusade Raid Box
+    price: 20000
+  - id: 33361 #Shadow Crusade Raid Box
+    price: 50000
+  - id: 27119 #elder chaos (or) mask
+    price: 350000
+  - id: 27115 #elder chaos (or) body
+    price: 350000
+  - id: 27117 #elder chaos (or) legs
+    price: 350000
+  - id: 29594 #Purging Staff
+    price: 500000
+  - id: 33292 #ice helm
+    price: 350000
+  - id: 33293 #ice body
+    price: 350000
+  - id: 33294 #ice legs
+    price: 350000
+  - id: 29599 #Corrupted Dark Bow
+    price: 500000
+  - id: 9600 #Baba Instance Token
+    price: 15000
+  - id: 9616 #Chaotic Instance Token
+    price: 15000
+  - id: 26941 #Elemental guardian stone
+    price: 2000
+  - id: 25975 #Lightbearer ring
+    price: 200000

@@ -1,0 +1,352 @@
+common:
+  # Shadow Crusade Key
+- amount: 1
+  id: 28416
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # Mini Shadow Crusade Raid Box
+- amount: 2
+  id: 33360
+
+  # Runite ore
+- amount: 500
+  id: 452
+
+  # Runite bar
+- amount: 500
+  id: 2364
+
+  # Uncut dragonstone
+- amount: 1000
+  id: 1632
+
+  # Black dragonhide
+- amount: 1000
+  id: 1748
+
+  # Abyssal whip
+- amount: 1
+  id: 4152
+
+  # Shadow Crusade Key
+- amount: 1
+  id: 28416
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # Mini Shadow Crusade Raid Box
+- amount: 2
+  id: 33360
+
+  # Runite ore
+- amount: 500
+  id: 452
+
+  # Runite bar
+- amount: 500
+  id: 2364
+
+  # Uncut dragonstone
+- amount: 1000
+  id: 1632
+
+  # Black dragonhide
+- amount: 1000
+  id: 1748
+
+  # Abyssal whip
+- amount: 1
+  id: 4152
+
+  # Shadow Crusade Key
+- amount: 1
+  id: 28416
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # Mini Shadow Crusade Raid Box
+- amount: 2
+  id: 33360
+
+  # Runite ore
+- amount: 500
+  id: 452
+
+  # Runite bar
+- amount: 500
+  id: 2364
+
+  # Uncut dragonstone
+- amount: 1000
+  id: 1632
+
+  # Black dragonhide
+- amount: 1000
+  id: 1748
+
+  # Abyssal whip
+- amount: 1
+  id: 4152
+
+  # Shadow Crusade Key
+- amount: 1
+  id: 28416
+
+  # 250,000 Nomad Point Certificate
+- amount: 20
+  id: 696
+
+  # Mini Shadow Crusade Raid Box
+- amount: 2
+  id: 33360
+
+  # Runite ore
+- amount: 500
+  id: 452
+
+  # Runite bar
+- amount: 500
+  id: 2364
+
+  # Uncut dragonstone
+- amount: 1000
+  id: 1632
+
+  # Black dragonhide
+- amount: 1000
+  id: 1748
+
+  # Abyssal whip
+- amount: 1
+  id: 4152
+
+uncommon:
+  # Shadow Crusade Raid Box
+- amount: 1
+  id: 33361
+
+  # Morrigans Coif
+- amount: 1
+  id: 22638
+
+  # Morrigans body
+- amount: 1
+  id: 22641
+
+  # Morrigans chaps
+- amount: 1
+  id: 22644
+
+  # Zuriel Hood
+- amount: 1
+  id: 22650
+
+  # Zuriel Robe Top
+- amount: 1
+  id: 22653
+
+  # Zuriel Robe Bottoms
+- amount: 1
+  id: 22656
+
+  # Zuriel staff
+- amount: 1
+  id: 22647
+
+  # Morrigans Coif
+- amount: 1
+  id: 22638
+
+  # Morrigans body
+- amount: 1
+  id: 22641
+
+  # Morrigans chaps
+- amount: 1
+  id: 22644
+
+  # Zuriel Hood
+- amount: 1
+  id: 22650
+
+  # Zuriel Robe Top
+- amount: 1
+  id: 22653
+
+  # Zuriel Robe Bottoms
+- amount: 1
+  id: 22656
+
+  # Zuriel staff
+- amount: 1
+  id: 22647
+
+  # Morrigans Coif
+- amount: 1
+  id: 22638
+
+  # Morrigans body
+- amount: 1
+  id: 22641
+
+  # Morrigans chaps
+- amount: 1
+  id: 22644
+
+  # Zuriel Hood
+- amount: 1
+  id: 22650
+
+  # Zuriel Robe Top
+- amount: 1
+  id: 22653
+
+  # Zuriel Robe Bottoms
+- amount: 1
+  id: 22656
+
+  # Zuriel staff
+- amount: 1
+  id: 22647
+
+  # Morrigans Coif
+- amount: 1
+  id: 22638
+
+  # Morrigans body
+- amount: 1
+  id: 22641
+
+  # Morrigans chaps
+- amount: 1
+  id: 22644
+
+  # Zuriel Hood
+- amount: 1
+  id: 22650
+
+  # Zuriel Robe Top
+- amount: 1
+  id: 22653
+
+  # Zuriel Robe Bottoms
+- amount: 1
+  id: 22656
+
+  # Zuriel staff
+- amount: 1
+  id: 22647
+
+rare:
+  # Shadow Crusade Key
+- amount: 1
+  id: 28416
+
+  # 250,000 Nomad Point Certificate
+- amount: 40
+  id: 696
+
+  # Mini Shadow Crusade Raid Box
+- amount: 25
+  id: 33360
+
+  # Shadow Crusade Raid Box
+- amount: 3
+  id: 33361
+
+  # Uncut onyx
+- amount: 5
+  id: 6571
+
+  # Virtus mask
+- amount: 1
+  id: 33141
+
+  # Virtus robe top
+- amount: 1
+  id: 33142
+
+  # Virtus robe legs
+- amount: 1
+  id: 33143
+
+  # Cruciferous codex
+- amount: 1
+  id: 13681
+
+  # Masori mask (f)
+- amount: 1
+  id: 27235
+
+  # Masori body (f)
+- amount: 1
+  id: 27238
+
+  # Masori chaps (f)
+- amount: 1
+  id: 27241
+
+  # Twisted bow
+- amount: 1
+  id: 20997
+
+  # Shadow Crusade Key
+- amount: 1
+  id: 28416
+
+  # 250,000 Nomad Point Certificate
+- amount: 40
+  id: 696
+
+  # Mini Shadow Crusade Raid Box
+- amount: 25
+  id: 33360
+
+  # Uncut onyx
+- amount: 5
+  id: 6571
+
+  # Virtus mask
+- amount: 1
+  id: 33141
+
+  # Virtus robe top
+- amount: 1
+  id: 33142
+
+  # Virtus robe legs
+- amount: 1
+  id: 33143
+
+  # Cruciferous codex
+- amount: 1
+  id: 13681
+
+  # Masori mask (f)
+- amount: 1
+  id: 27235
+
+  # Masori body (f)
+- amount: 1
+  id: 27238
+
+  # Masori chaps (f)
+- amount: 1
+  id: 27241
+
+  # Twisted bow
+- amount: 1
+  id: 20997
+
+very_rare:
+  # Shadow Crusade Key
+- amount: 2
+  id: 28416
+

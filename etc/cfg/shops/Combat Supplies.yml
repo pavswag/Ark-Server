@@ -1,0 +1,150 @@
+---
+id: 8
+name: "Combat Supplies"
+items:
+- name: "bronze full helm"
+  price: 250
+- name: "iron full helm"
+  price: 250
+- name: "steel full helm"
+  price: 500
+- name: "black full helm"
+  price: 1000
+- name: "mithril full helm"
+  price: 2500
+- name: "adamant full helm"
+  price: 5000
+- name: "rune full helm"
+  price: 10000
+- name: "proselyte sallet"
+  price: 25000
+- name: "berserker helm"
+  price: 15000
+- name: "helm of neitiznot"
+  price: 50000
+- name: "bronze platebody"
+  price: 250
+- name: "iron platebody"
+  price: 250
+- name: "steel platebody"
+  price: 500
+- name: "black platebody"
+  price: 1000
+- name: "mithril platebody"
+  price: 2500
+- name: "adamant platebody"
+  price: 5000
+- name: "rune platebody"
+  price: 10000
+- name: "proselyte hauberk"
+  price: 25000
+- name: "granite body"
+  price: 15000
+- name: "monks robe top"
+  price: 5000
+- name: "bronze platelegs"
+  price: 250
+- name: "iron platelegs"
+  price: 250
+- name: "steel platelegs"
+  price: 500
+- name: "black platelegs"
+  price: 1000
+- name: "mithril platelegs"
+  price: 2500
+- name: "adamant platelegs"
+  price: 5000
+- name: "rune platelegs"
+  price: 10000
+- name: "proselyte cuisse"
+  price: 25000
+- name: "granite legs"
+  price: 15000
+- name: "monks robe"
+  price: 5000
+- name: "bronze kiteshield"
+  price: 250
+- name: "iron kiteshield"
+  price: 250
+- name: "steel kiteshield"
+  price: 500
+- name: "black kiteshield"
+  price: 1000
+- name: "mithril kiteshield"
+  price: 2500
+- name: "adamant kiteshield"
+  price: 5000
+- name: "rune kiteshield"
+  price: 10000
+- name: "amulet of strength"
+  price: 2500
+- name: "amulet of glory4"
+  price: 2500
+- name: "amulet of power"
+  price: 1000
+- name: "climbing boots"
+  price: 25000
+- name: "bronze boots"
+  price: 250
+- name: "iron boots"
+  price: 250
+- name: "steel boots"
+  price: 500
+- name: "black boots"
+  price: 1000
+- name: "mithril boots"
+  price: 2500
+- name: "adamant boots"
+  price: 5000
+- name: "rune boots"
+  price: 10000
+- name: "ring of recoil"
+  price: 50000
+- name: "brine sabre"
+  price: 25000
+- name: "bronze scimitar"
+  price: 250
+- name: "iron scimitar"
+  price: 250
+- name: "steel scimitar"
+  price: 500
+- name: "black scimitar"
+  price: 1000
+- name: "mithril scimitar"
+  price: 2500
+- name: "adamant scimitar"
+  price: 5000
+- name: "rune scimitar"
+  price: 10000
+- name: "bronze 2h sword"
+  price: 250
+- name: "iron 2h sword"
+  price: 250
+- name: "steel 2h sword"
+  price: 500
+- name: "black 2h sword"
+  price: 1000
+- name: "mithril 2h sword"
+  price: 2500
+- name: "adamant 2h sword"
+  price: 5000
+- name: "rune 2h sword"
+  price: 10000
+- name: "dragon dagger"
+  price: 50000
+- name: "dragon scimitar"
+  price: 2500000
+- name: "dragon longsword"
+  price: 75000
+- name: "dragon battleaxe"
+  price: 75000
+- name: "shield right half"
+  price: 100000
+- name: "team 10 cape"
+  price: 2500
+- name: "team 20 cape"
+  price: 2500
+- name: "team 30 cape"
+  price: 2500
+- name: "team 40 cape"
+  price: 2500

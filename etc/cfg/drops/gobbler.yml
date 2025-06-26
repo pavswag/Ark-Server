@@ -1,0 +1,62 @@
+---
+npc_id: 6306
+constant:
+  accessibility: 0
+  items:
+    - item: 10501
+      minimum: 10
+      maximum: 100
+common:
+  accessibility: 50
+  items:
+    - item: 21046
+      minimum: 1
+      maximum: 1
+uncommon:
+  accessibility: 100
+  items:
+    - item: 30002
+      minimum: 1
+      maximum: 1
+    - item: 691
+      minimum: 1
+      maximum: 1
+    - item: 6739
+      minimum: 1
+      maximum: 1
+    - item: 11920
+      minimum: 1
+      maximum: 1
+    - item: 2841
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 250
+  items:
+    - item: 23360
+      minimum: 1
+      maximum: 1
+    - item: 23300
+      minimum: 1
+      maximum: 1
+    - item: 20590
+      minimum: 1
+      maximum: 1
+    - item: 12436
+      minimum: 1
+      maximum: 1
+    - item: 19720
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 750
+  items:
+    - name: "abyssal whip"
+      minimum: 1
+      maximum: 1
+    - item: 693
+      minimum: 1
+      maximum: 3
+    - item: 2403
+      minimum: 1
+      maximum: 1

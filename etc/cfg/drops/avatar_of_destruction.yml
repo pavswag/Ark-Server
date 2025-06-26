@@ -1,0 +1,203 @@
+---
+npc_id: 10532
+constant:
+  accessibility: 0
+  items:
+    - item: 20608
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 3
+  items:
+    - item: 995
+      minimum: 5000000
+      maximum: 10000000
+    - item: 7937
+      minimum: 10000
+      maximum: 40000
+    - item: 537
+      minimum: 200
+      maximum: 5000
+    - item: 11944
+      minimum: 500
+      maximum: 1000
+    - item: 6686
+      minimum: 200
+      maximum: 400
+    - item: 386
+      minimum: 500
+      maximum: 3000
+uncommon:
+  accessibility: 150
+  items:
+    - item: 12873
+      minimum: 1
+      maximum: 2
+    - item: 12875
+      minimum: 1
+      maximum: 2
+    - item: 12877
+      minimum: 1
+      maximum: 2
+    - item: 12879
+      minimum: 1
+      maximum: 2
+    - item: 12881
+      minimum: 1
+      maximum: 2
+    - item: 12883
+      minimum: 1
+      maximum: 2
+    - item: 4151
+      minimum: 1
+      maximum: 2
+    - item: 26500
+      minimum: 1
+      maximum: 2
+    - item: 2996
+      minimum: 1000
+      maximum: 3000
+    - item: 11739
+      minimum: 1
+      maximum: 2
+    - item: 6199
+      minimum: 1
+      maximum: 2
+    - item: 6828
+      minimum: 1
+      maximum: 2
+    - item: 13438
+      minimum: 1
+      maximum: 2
+    - item: 12004
+      minimum: 1
+      maximum: 2
+rare:
+  accessibility: 200
+  items:
+    - item: 8167
+      minimum: 1
+      maximum: 1
+    - item: 6769
+      minimum: 1
+      maximum: 1
+    - item: 2403
+      minimum: 1
+      maximum: 1
+    - item: 26718
+      minimum: 1
+      maximum: 1
+    - item: 26719
+      minimum: 1
+      maximum: 1
+    - item: 26720
+      minimum: 1
+      maximum: 1
+    - item: 26714
+      minimum: 1
+      maximum: 1
+    - item: 26715
+      minimum: 1
+      maximum: 1
+    - item: 26716
+      minimum: 1
+      maximum: 1
+    - item: 20368
+      minimum: 1
+      maximum: 1
+    - item: 20370
+      minimum: 1
+      maximum: 1
+    - item: 20372
+      minimum: 1
+      maximum: 1
+    - item: 20374
+      minimum: 1
+      maximum: 1
+    - item: 26708
+      minimum: 1
+      maximum: 1
+    - item: 26710
+      minimum: 1
+      maximum: 1
+    - item: 26712
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 1000
+  items:
+    - item: 13346
+      minimum: 2
+      maximum: 2
+    - item: 2396
+      minimum: 1
+      maximum: 1
+    - item: 10556
+      minimum: 1
+      maximum: 1
+    - item: 10557
+      minimum: 1
+      maximum: 1
+    - item: 10558
+      minimum: 1
+      maximum: 1
+    - item: 10559
+      minimum: 1
+      maximum: 1
+    - item: 786
+      minimum: 1
+      maximum: 1
+    - item: 20788
+      minimum: 1
+      maximum: 1
+    - item: 20997
+      minimum: 1
+      maximum: 1
+    - item: 22325
+      minimum: 1
+      maximum: 1
+    - item: 696
+      minimum: 20
+      maximum: 40
+    - item: 26382
+      minimum: 1
+      maximum: 1
+    - item: 26384
+      minimum: 1
+      maximum: 1
+    - item: 26386
+      minimum: 1
+      maximum: 1
+    - item: 20786
+      minimum: 1
+      maximum: 1
+    - item: 27226
+      minimum: 1
+      maximum: 1
+    - item: 27229
+      minimum: 1
+      maximum: 1
+    - item: 27232
+      minimum: 1
+      maximum: 1
+    - item: 761
+      minimum: 1
+      maximum: 1
+extremely_rare:
+  accessibility: 2000
+  items:
+    - item: 25734
+      minimum: 1
+      maximum: 1
+    - item: 25731
+      minimum: 1
+      maximum: 1
+    - item: 25736
+      minimum: 1
+      maximum: 1
+    - item: 607
+      minimum: 1
+      maximum: 1
+    - item: 25350
+      minimum: 1
+      maximum: 1

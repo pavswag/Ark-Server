@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": 6769,
+      "name": "$5 Scroll",
+      "price": 5.0
+    },
+    {
+      "id": 2403,
+      "name": "$10 Scroll",
+      "price": 10.0
+    },
+    {
+      "id": 2396,
+      "name": "$25 Scroll",
+      "price": 25.0
+    },
+    {
+      "id": 786,
+      "name": "$50 Scroll",
+      "price": 50.0
+    },
+    {
+      "id": 761,
+      "name": "$100 Scroll",
+      "price": 100.0
+    },
+    {
+      "id": 607,
+      "name": "$250 Scroll",
+      "price": 250.0
+    },
+    {
+      "id": 608,
+      "name": "$500 Scroll",
+      "price": 500.0
+    },
+    {
+      "id": 6828,
+      "name": "Super Mystery Box",
+      "price": 5.0
+    },
+    {
+      "id": 13346,
+      "name": "Ultra Mystery Box",
+      "price": 15.0
+    },
+    {
+      "id": 26914,
+      "name": "Collector's Amulet",
+      "price": 75.0
+    },
+    {
+      "id": 25651,
+      "name": "KickStarter Box",
+      "price": 45.0
+    },
+    {
+      "id": 26886,
+      "name": "Overcharged Cell",
+      "price": 10.0
+    },
+    {
+      "id": 27285,
+      "name": "Eye Of The Corruptor",
+      "price": 15.0
+    },
+    {
+      "id": 6805,
+      "name": "Fortune Spin x5",
+      "price": 15.0
+    },
+    {
+      "id": 11429,
+      "name": "Infinite Aggression Potion",
+      "price": 150.0
+    },
+    {
+      "id": 11740,
+      "name": "Elon Musk Island Scroll",
+      "price": 25.0
+    },
+    {
+      "id": 27,
+      "name": "Division Pass",
+      "price": 15.0
+    }
+  ],
+  "discountCode": {
+    "code": "SALE2023",
+    "percentage": 10,
+    "expiryDate": "2023-12-31"
+  }
+}

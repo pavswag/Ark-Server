@@ -1,0 +1,59 @@
+---
+npc_id: 3653
+constant:
+  accessibility: 0
+  items:
+    - item: 532
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 100
+  items:
+    - item: 30000
+      minimum: 1
+      maximum: 1
+    - item: 1512
+      minimum: 100
+      maximum: 250
+    - item: 1522
+      minimum: 100
+      maximum: 250
+    - item: 1520
+      minimum: 100
+      maximum: 250
+uncommon:
+  accessibility: 175
+  items:
+    - item: 30001
+      minimum: 1
+      maximum: 1
+    - item: 1518
+      minimum: 100
+      maximum: 250
+    - item: 1516
+      minimum: 100
+      maximum: 250
+    - item: 1514
+      minimum: 100
+      maximum: 250
+rare:
+  accessibility: 333
+  items:
+    - item: 30002
+      minimum: 1
+      maximum: 1
+    - item: 6739
+      minimum: 1
+      maximum: 1
+    - item: 28394
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 750
+  items:
+    - item: 25066
+      minimum: 1
+      maximum: 1
+    - item: 28274
+      minimum: 1
+      maximum: 1

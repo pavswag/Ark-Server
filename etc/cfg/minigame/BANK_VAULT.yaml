@@ -1,0 +1,223 @@
+miniGameName: Bank Vault
+boundary:
+  minX: 1728
+  minY: 4672
+  highX: 1791
+  highY: 4735
+startPosition:
+  x: 1765
+  y: 4704
+  z: 0
+objectList:
+  - id: 36582
+    position:
+      x: 1765
+      y: 4701
+  - id: 36582
+    position:
+      x: 1757
+      y: 4707
+  - id: 36582
+    position:
+      x: 1752
+      y: 4710
+  - id: 36582
+    position:
+      x: 1752
+      y: 4706
+  - id: 36582
+    position:
+      x: 1752
+      y: 4702
+  - id: 36582
+    position:
+      x: 1752
+      y: 4698
+  - id: 36582
+    position:
+      x: 1757
+      y: 4697
+  - id: 36582
+    position:
+      x: 1758
+      y: 4699
+  - id: 36582
+    position:
+      x: 1757
+      y: 4701
+  - id: 36582
+    position:
+      x: 1759
+      y: 4695
+  - id: 36582
+    position:
+      x: 1761
+      y: 4695
+  - id: 36582
+    position:
+      x: 1763
+      y: 4695
+  - id: 36582
+    position:
+      x: 1765
+      y: 4697
+  - id: 36582
+    position:
+      x: 1765
+      y: 4707
+  - id: 36582
+    position:
+      x: 1759
+      y: 4714
+  - id: 36582
+    position:
+      x: 1758
+      y: 4714
+  - id: 36582
+    position:
+      x: 1756
+      y: 4714
+  - id: 36582
+    position:
+      x: 1755
+      y: 4714
+  - id: 36582
+    position:
+      x: 1757
+      y: 4711
+items:
+  - id: 33357
+    amount: 5
+    rarity: COMMON
+  - id: 33391
+    amount: 5
+    rarity: COMMON
+  - id: 33358
+    amount: 5
+    rarity: COMMON
+  - id: 33359
+    amount: 5
+    rarity: COMMON
+  - id: 9600
+    amount: 2
+    rarity: COMMON
+  - id: 9616
+    amount: 2
+    rarity: COMMON
+  - id: 33357
+    amount: 10
+    rarity: UNCOMMON
+  - id: 33391
+    amount: 10
+    rarity: UNCOMMON
+  - id: 33358
+    amount: 10
+    rarity: UNCOMMON
+  - id: 33396
+    amount: 1
+    rarity: UNCOMMON
+  - id: 33359
+    amount: 1
+    rarity: UNCOMMON
+  - id: 9600
+    amount: 3
+    rarity: UNCOMMON
+  - id: 9616
+    amount: 3
+    rarity: UNCOMMON
+  - id: 33358
+    amount: 20
+    rarity: RARE
+  - id: 33395
+    amount: 5
+    rarity: RARE
+  - id: 33396
+    amount: 20
+    rarity: RARE
+  - id: 33359
+    amount: 20
+    rarity: RARE
+  - id: 33292
+    amount: 1
+    rarity: RARE
+  - id: 33293
+    amount: 1
+    rarity: RARE
+  - id: 33294
+    amount: 1
+    rarity: RARE
+  - id: 27119
+    amount: 1
+    rarity: RARE
+  - id: 27115
+    amount: 1
+    rarity: RARE
+  - id: 27117
+    amount: 1
+    rarity: RARE
+  - id: 29599
+    amount: 1
+    rarity: RARE
+  - id: 29594
+    amount: 1
+    rarity: RARE
+  - id: 33296
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33297
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33298
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33299
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33300
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33301
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33430
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33431
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33432
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33433
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33434
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33435
+    amount: 1
+    rarity: VERY_RARE
+  - id: 26879
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33406
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33407
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33408
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33409
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33410
+    amount: 1
+    rarity: VERY_RARE
+  - id: 33411
+    amount: 1
+    rarity: VERY_RARE
+specialitem:
+  - id: 1965
+    amount: 1

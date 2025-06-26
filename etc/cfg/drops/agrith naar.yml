@@ -1,0 +1,182 @@
+---
+npc_id: 911
+constant:
+  accessibility: 0
+  items:
+    - item: 33251 #dono coin
+      minimum: 5
+      maximum: 5
+    - item: 33428 #1m nomad
+      minimum: 10
+      maximum: 10
+common:
+  accessibility: 20
+  items:
+    - item: 20238 #TASK RESET
+      minimum: 1
+      maximum: 1
+    - item: 26500 #donorboss scroll
+      minimum: 3
+      maximum: 6
+    - item: 2400 #silverlight key
+      minimum: 8
+      maximum: 16
+    - item: 28416 #Shadow crusade key
+      minimum: 8
+      maximum: 16
+    - item: 28421 #Isle of damned key
+      minimum: 8
+      maximum: 16
+    - item: 25063 #infernal pick
+      minimum: 1
+      maximum: 1
+    - item: 25066 #infernal axe
+      minimum: 1
+      maximum: 1
+    - item: 25059 #infernal harpoon
+      minimum: 1
+      maximum: 1
+    - item: 26545 #HOPE RANDOM perk
+      minimum: 1
+      maximum: 2
+    - item: 33108 #swedish swindle
+      minimum: 1
+      maximum: 1
+    - item: 33073 #dwarf overload
+      minimum: 1
+      maximum: 1
+    - item: 25918 #dhcb (b)
+      minimum: 1
+      maximum: 1
+    - item: 24664 #twisted ancestral
+      minimum: 1
+      maximum: 1
+    - item: 24666 #twisted ancestral
+      minimum: 1
+      maximum: 1
+    - item: 24668 #twisted ancestral
+      minimum: 1
+      maximum: 1
+uncommon:
+  accessibility: 217
+  items:
+    - item: 696 #250k nomad
+      minimum: 8
+      maximum: 100
+    - item: 19887 #mini dono
+      minimum: 25
+      maximum: 75
+    - item: 8167 #nomad chest
+      minimum: 1
+      maximum: 2
+    - item: 22885 #kronos seed
+      minimum: 1
+      maximum: 5
+    - item: 22883 #iasor seed
+      minimum: 1
+      maximum: 5
+    - item: 26374 #ZARYTE C'BOW
+      minimum: 1
+      maximum: 1
+    - item: 20997 #t bow
+      minimum: 1
+      maximum: 1
+    - item: 22324 #ghrazi rapier
+      minimum: 1
+      maximum: 1
+    - item: 22325 #scythe
+      minimum: 1
+      maximum: 1
+    - item: 22323 #sanguinesti staff
+      minimum: 1
+      maximum: 1
+    - item: 10559 #healer
+      minimum: 1
+      maximum: 1
+    - item: 10556 #attacker
+      minimum: 1
+      maximum: 1
+    - item: 10558 #defender
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 643
+  items:
+    - item: 7774 #10 credits
+      minimum: 1
+      maximum: 2
+    - item: 2403 #$10
+      minimum: 1
+      maximum: 1
+    - item: 33354 #Wonder box
+      minimum: 2
+      maximum: 5
+    - item: 33122 #pure skills
+      minimum: 1
+      maximum: 1
+    - item: 33117 #monk heals
+      minimum: 1
+      maximum: 1
+    - item: 30021 #Roc pet
+      minimum: 1
+      maximum: 1
+    - item: 33141 #virtus mask
+      minimum: 1
+      maximum: 1
+    - item: 33142 #virtus body
+      minimum: 1
+      maximum: 1
+    - item: 33143 #virtus legs
+      minimum: 1
+      maximum: 1
+    - item: 27246 #osmumtens fang (or)
+      minimum: 1
+      maximum: 1
+    - item: 25731 #holy sang
+      minimum: 1
+      maximum: 1
+    - item: 25734 #holy ghrazi
+      minimum: 1
+      maximum: 1
+    - item: 25736 #holy scythe
+      minimum: 1
+      maximum: 1
+    - item: 25975 #lightbearer
+      minimum: 1
+      maximum: 1
+extremely_rare:
+  accessibility: 867
+  items:
+    - item: 10557
+      minimum: 1
+      maximum: 1
+    - item: 10556
+      minimum: 1
+      maximum: 1
+    - item: 10558
+      minimum: 1
+      maximum: 1
+    - item: 10559
+      minimum: 1
+      maximum: 1
+    - item: 2396 #$25
+      minimum: 1
+      maximum: 1
+    - item: 13346
+      minimum: 3
+      maximum: 3
+    - item: 30022 #kratos
+      minimum: 1
+      maximum: 1
+    - item: 33058 #sgb
+      minimum: 1
+      maximum: 1
+    - item: 27275 #tumekens shadow
+      minimum: 1
+      maximum: 1
+    - item: 33184 #blood scythe
+      minimum: 1
+      maximum: 1
+    - item: 33206 #ascension c'bow
+      minimum: 1
+      maximum: 1

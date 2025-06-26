@@ -1,0 +1,48 @@
+common:
+  - id: 5554
+    amount: 1
+  - id: 5553
+    amount: 1
+  - id: 5555
+    amount: 1
+  - id: 5556
+    amount: 1
+  - id: 5557
+    amount: 1
+  - id: 9032
+    amount: 1
+  - id: 9032
+    amount: 1
+  - id: 9030
+    amount: 1
+  - id: 9030
+    amount: 1
+  - id: 9028
+    amount: 1
+  - id: 9028
+    amount: 1
+  - id: 9042
+    amount: 1
+  - id: 9042
+    amount: 1
+  - id: 9040
+    amount: 1
+  - id: 9040
+    amount: 1
+rare:
+  - id: 27369
+    amount: 1
+uncommon:
+  - id: 696
+    amount: 4
+  - id: 693
+    amount: 10
+  - id: 696
+    amount: 4
+  - id: 693
+    amount: 10
+  - id: 696
+    amount: 4
+  - id: 693
+    amount: 10
+

@@ -1,0 +1,51 @@
+id: 193
+name: "Kruk's Raid Shop"
+items:
+  - id: 2400 #silverlight key
+    price: 2999
+  - id: 27285 #eyes
+    price: 24999
+  - id: 33186 #malar mask
+    price: 100001
+  - id: 33187 #malar body
+    price: 100001
+  - id: 33188 #malar legs
+    price: 100001
+  - id: 33183 #malar cape
+    price: 100001
+  - id: 33189 #dragonguard helm
+    price: 250000
+  - id: 33190 #dragonguard body
+    price: 250000
+  - id: 33191 #dragonguard legs
+    price: 250000
+  - id: 33184 #blood scythe
+    price: 175000
+  - id: 27275 #tumekens
+    price: 175000
+  - id: 33058 #seren god bow
+    price: 175000
+  - id:  27287 #kerris partisan
+    price: 175000
+  - id: 27246 #osmumtens fang
+    price: 125000
+  - id: 10558 #defender icon
+    price: 75000
+  - id: 6679 #mini mystery
+    price: 500
+  - id: 6677 #mini smb
+    price: 1500
+  - id: 6678 #mini umb
+    price: 3000
+  - id: 6680 #mini arbo
+    price: 5000
+  - id: 12579 #arbo box
+    price: 25000
+  - id: 8167 #nomad box
+    price: 9999
+  - id: 20788 #row(i3)
+    price: 9999
+  - id: 763 #Broken Shield
+    price: 125000
+  - id: 765 #Broken Shield
+    price: 125000

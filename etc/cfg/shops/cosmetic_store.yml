@@ -1,0 +1,164 @@
+---
+id: 199
+name: "Kyros's Cosmetic Store"
+items:
+  - id: 11863 #afk token
+    price: 1000
+  - id: 11862 #$5
+    price: 1000
+  - id: 11847 #afk token
+    price: 1000
+  - id: 21859 #$5
+    price: 1000
+  - id: 13343 #afk token
+    price: 1000
+  - id: 13344 #$5
+    price: 1000
+  - id: 12399 #afk token
+    price: 1000
+  - id: 1050 #$5
+    price: 750
+  - id: 1048 #afk token
+    price: 750
+  - id: 1038 #$5
+    price: 750
+  - id: 1042 #afk token
+    price: 750
+  - id: 1044 #$5
+    price: 750
+  - id: 1046 #afk token
+    price: 750
+  - id: 1040 #$5
+    price: 750
+  - id: 1057 #afk token
+    price: 750
+  - id: 1053 #$5
+    price: 750
+  - id: 1055 #afk token
+    price: 750
+  - id: 7671 #$5
+    price: 750
+  - id: 7673 #afk token
+    price: 750
+  - id: 11705 #$5
+    price: 750
+  - id: 11706 #afk token
+    price: 750
+  - id: 22947 #$5
+    price: 750
+  - id: 23448 #afk token
+    price: 750
+  - id: 27871 #$5
+    price: 500
+  - id: 4086 #afk token
+    price: 500
+  - id: 4565 #$5
+    price: 500
+  - id: 23108 #afk token
+    price: 500
+  - id: 21209 #$5
+    price: 500
+  - id: 24792 #afk token
+    price: 500
+  - id: 21354 #$5
+    price: 500
+  - id: 26260 #afk token
+    price: 500
+  - id: 22684 #$5
+    price: 500
+  - id: 24539 #afk token
+    price: 500
+  - id: 20779 #$5
+    price: 500
+  - id: 12359 #afk token
+    price: 500
+  - id: 22719 #$5
+    price: 500
+  - id: 10487 #afk token
+    price: 500
+  - id: 4566 #$5
+    price: 500
+  - id: 27802 #afk token
+    price: 500
+  - id: 19556 #$5
+    price: 500
+  - id: 24867 #afk token
+    price: 500
+  - id: 27564 #$5
+    price: 500
+  - id: 23360 #afk token
+    price: 500
+  - id: 24865 #$5
+    price: 500
+  - id: 27558 #afk token
+    price: 500
+  - id: 27810 #$5
+    price: 500
+  - id: 24862 #afk token
+    price: 500
+  - id: 20836 #$5
+    price: 500
+  - id: 27414 #afk token
+    price: 500
+  - id: 24327 #$5
+    price: 500
+  - id: 20243 #afk token
+    price: 500
+  - id: 20164 #$5
+    price: 500
+  - id: 23282 #afk token
+    price: 500
+  - id: 25604 #$5
+    price: 500
+  - id: 20249 #afk token
+    price: 500
+  - id: 25500 #$5
+    price: 500
+  - id: 25314 #afk token
+    price: 500
+  - id: 21695 #$5
+    price: 500
+  - id: 10877 #afk token
+    price: 500
+  - id: 28128 #$5
+    price: 500
+  - id: 23357 #afk token
+    price: 500
+  - id: 12727 #$5
+    price: 500
+  - id: 27820 #afk token
+    price: 500
+  - id: 24325 #$5
+    price: 500
+  - id: 27812 #afk token
+    price: 500
+  - id: 4084 #$5
+    price: 500
+  - id: 27645 #afk token
+    price: 500
+  - id: 23446 #$5
+    price: 500
+  - id: 19903 #afk token
+    price: 400
+  - id: 19911 #afk token
+    price: 400
+  - id: 20280 #afk token
+    price: 400
+  - id: 20281 #afk token
+    price: 400
+  - id: 20282 #afk token
+    price: 400
+  - id: 6583 #afk token
+    price: 300
+  - id: 26939 #$5
+    price: 300
+  - id: 7927 #afk token
+    price: 300
+  - id: 5609 #$5
+    price: 300
+  - id: 27818 #afk token
+    price: 300
+  - id: 27816 #$5
+    price: 300
+  - id: 27814 #afk token
+    price: 300

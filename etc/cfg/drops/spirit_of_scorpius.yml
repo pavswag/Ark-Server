@@ -1,0 +1,134 @@
+---
+npc_id: 5371
+common:
+  accessibility: 5
+  items:
+    - item: 995
+      minimum: 10000
+      maximum: 100000
+    - item: 13204
+      minimum: 5
+      maximum: 100
+    - item: 691
+      minimum: 1
+      maximum: 10
+    - item: 33125
+      minimum: 1
+      maximum: 10
+    - item: 33126
+      minimum: 1
+      maximum: 10
+    - item: 33129
+      minimum: 1
+      maximum: 10
+    - item: 33130
+      minimum: 1
+      maximum: 10
+    - item: 33133
+      minimum: 1
+      maximum: 10
+    - item: 33134
+      minimum: 1
+      maximum: 10
+    - item: 33137
+      minimum: 1
+      maximum: 10
+    - item: 33138
+      minimum: 1
+      maximum: 10
+uncommon:
+  accessibility: 100
+  items:
+    - item: 995
+      minimum: 100000
+      maximum: 1000000
+    - item: 13204
+      minimum: 50
+      maximum: 1000
+    - item: 692
+      minimum: 1
+      maximum: 10
+    - item: 33125
+      minimum: 1
+      maximum: 1000
+    - item: 33126
+      minimum: 1
+      maximum: 500
+    - item: 33127
+      minimum: 1
+      maximum: 100
+    - item: 33128
+      minimum: 1
+      maximum: 10
+    - item: 33129
+      minimum: 1
+      maximum: 1000
+    - item: 33130
+      minimum: 1
+      maximum: 500
+    - item: 33131
+      minimum: 1
+      maximum: 100
+    - item: 33132
+      minimum: 1
+      maximum: 10
+    - item: 33133
+      minimum: 1
+      maximum: 1000
+    - item: 33134
+      minimum: 1
+      maximum: 500
+    - item: 33135
+      minimum: 1
+      maximum: 100
+    - item: 33136
+      minimum: 1
+      maximum: 10
+    - item: 33137
+      minimum: 1
+      maximum: 1000
+    - item: 33138
+      minimum: 1
+      maximum: 500
+    - item: 33139
+      minimum: 1
+      maximum: 100
+    - item: 33140
+      minimum: 1
+      maximum: 10
+rare:
+  accessibility: 4500
+  items:
+    - item: 6199
+      minimum: 1
+      maximum: 1
+    - item: 6828
+      minimum: 1
+      maximum: 1
+    - item: 1053
+      minimum: 1
+      maximum: 1
+    - item: 1055
+      minimum: 1
+      maximum: 1
+    - item: 1057
+      minimum: 1
+      maximum: 1
+    - item: 33059
+      minimum: 1
+      maximum: 1
+    - item: 33060
+      minimum: 1
+      maximum: 1
+    - item: 33061
+      minimum: 1
+      maximum: 1
+    - item: 33062
+      minimum: 1
+      maximum: 1
+    - item: 33063
+      minimum: 1
+      maximum: 1
+    - item: 33064
+      minimum: 1
+      maximum: 1

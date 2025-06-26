@@ -1,0 +1,122 @@
+[
+	{
+		"name": "Rogue Guard",
+		"id": "3191",
+		"x": "3017",
+		"y": "5060",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rogue Guard",
+		"id": "3190",
+		"x": "3018",
+		"y": "5072",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spin Blades",
+		"id": "3195",
+		"x": "3044",
+		"y": "5105",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Spin Blades",
+		"id": "3196",
+		"x": "3059",
+		"y": "5090",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Emerald Benedict",
+		"id": "3194",
+		"x": "3042",
+		"y": "4972",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Martin Thwait",
+		"id": "3193",
+		"x": "3048",
+		"y": "4975",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Brian O'Richard",
+		"id": "3189",
+		"x": "3049",
+		"y": "4977",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Grace",
+		"id": "5919",
+		"x": "3050",
+		"y": "4962",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Mark",
+		"id": "5920",
+		"x": "3051",
+		"y": "4963",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rogue Guard",
+		"id": "3191",
+		"x": "2956",
+		"y": "5008",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rogue Guard",
+		"id": "3190",
+		"x": "2958",
+		"y": "5003",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	},
+	{
+		"name": "Rogue Guard",
+		"id": "3192",
+		"x": "2962",
+		"y": "5008",
+		"z": "1",
+		"direction": "W",
+		"walkRange": "1",
+		"world": "ECO"
+	}
+]

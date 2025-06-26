@@ -1,0 +1,87 @@
+miniGameName: Trail of Treasure
+boundary:
+  minX: 1536
+  minY: 4864
+  highX: 1599
+  highY: 4927
+startPosition:
+  x: 1547
+  y: 4872
+  z: 0
+objectList:
+  - id: 36582
+    position:
+      x: 1545
+      y: 4878
+  - id: 36582
+    position:
+      x: 1550
+      y: 4878
+  - id: 36582
+    position:
+      x: 1549
+      y: 4867
+  - id: 36582
+    position:
+      x: 1557
+      y: 4873
+  - id: 36582
+    position:
+      x: 1567
+      y: 4870
+  - id: 36582
+    position:
+      x: 1563
+      y: 4885
+  - id: 36582
+    position:
+      x: 1547
+      y: 4885
+  - id: 36582
+    position:
+      x: 1539
+      y: 4888
+  - id: 36582
+    position:
+      x: 1555
+      y: 4896
+  - id: 36582
+    position:
+      x: 1570
+      y: 4885
+  - id: 36582
+    position:
+      x: 1573
+      y: 4868
+  - id: 36582
+    position:
+      x: 1594
+      y: 4881
+  - id: 36582
+    position:
+      x: 1590
+      y: 4867
+  - id: 36582
+    position:
+      x: 1580
+      y: 4876
+  - id: 36087
+    position:
+      x: 1587
+      y: 4887
+items:
+  - id: 995
+    amount: 5
+    rarity: COMMON
+  - id: 557
+    amount: 5
+    rarity: UNCOMMON
+  - id: 558
+    amount: 5
+    rarity: RARE
+  - id: 696
+    amount: 10
+    rarity: VERY_RARE
+specialitem:
+  - id: 773
+    amount: 1

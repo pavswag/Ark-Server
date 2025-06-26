@@ -1,0 +1,35 @@
+miniGameName: Kings Bedroom
+boundary:
+  minX: 1709
+  minY: 3648
+  highX: 1738
+  highY: 3668
+startPosition:
+  x: 1710
+  y: 3650
+  z: 0
+objectList:
+  - id: 3
+    position:
+      x: 30
+      y: 40
+  - id: 4
+    position:
+      x: 35
+      y: 45
+items:
+  - id: 1001
+    amount: 5
+    rarity: COMMON
+  - id: 1002
+    amount: 5
+    rarity: UNCOMMON
+  - id: 1003
+    amount: 5
+    rarity: RARE
+  - id: 1004
+    amount: 10
+    rarity: VERY_RARE
+specialitem:
+  - id: 773
+    amount: 1

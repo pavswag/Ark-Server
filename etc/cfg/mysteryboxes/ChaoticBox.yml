@@ -1,0 +1,85 @@
+common:
+  - id: 696 #25m nomad
+    amount: 100
+  - id: 2403 #$10
+    amount: 1
+  - id: 6805 #fortune spin
+    amount: 10
+  - id: 12582 #chambers box
+    amount: 100
+  - id: 19891 #tob box
+    amount: 100
+  - id: 12579 #arbo box
+    amount: 100
+
+uncommon:
+  - id: 696 #50m Nomad
+    amount: 200
+  - id: 2396 #$25
+    amount: 1
+  - id: 10943 #vault tickets
+    amount: 2
+  - id: 33259 #coin flip
+    amount: 1
+  - id: 2399 #nomad keys
+    amount: 2
+  - id: 28094 #bounty crates
+    amount: 5
+  - id: 12588 #dono box
+    amount: 150
+  - id: 33353 #Suprise box
+    amount: 1
+  - id: 26382 #Torva helm
+    amount: 1
+  - id: 26384 #Torva body
+    amount: 1
+  - id: 26386 #Torva legs
+    amount: 1
+  - id: 26219 #Osmumtens fang
+    amount: 1
+  - id: 33141 #Ancient helm
+    amount: 1
+  - id: 33142 #Ancient body
+    amount: 1
+  - id: 33143 #Ancient legs
+    amount: 1
+  - id: 27624 #Ancient sceptre
+    amount: 1
+
+rare:
+  - id: 696 #100m Nomad
+    amount: 400
+  - id: 786 #$50
+    amount: 1
+  - id: 7775 #50 credits
+    amount: 1
+  - id: 10943 #vault tickets
+    amount: 1
+  - id: 2399 #nomad key
+    amount: 1
+  - id: 33259 #coin flip
+    amount: 1
+  - id: 25537 #Gear goodie bag
+    amount: 1
+  - id: 33386 #Pride goodie bag
+    amount: 1
+  - id: 33388 #Bis goodiebag
+    amount: 1
+  - id: 33354 #wonder box
+    amount: 1
+  - id: 33311 #Plague helm
+    amount: 1
+  - id: 33312 #Plague body
+    amount: 1
+  - id: 33313 #Plague legs
+    amount: 1
+  - id: 20128 #Darkness helm
+    amount: 1
+  - id: 20131 #Darkness body
+    amount: 1
+  - id: 20137 #Darkness legs
+    amount: 1
+
+very_rare:
+  - id: 33395 #Chaotic Goodiebag
+    amount: 1

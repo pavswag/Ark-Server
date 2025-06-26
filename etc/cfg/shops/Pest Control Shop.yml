@@ -1,0 +1,26 @@
+---
+id: 75
+name: "Pest Control Shop"
+items:
+  - id: 8841
+    price: 160
+  - id: 8840
+    price: 175
+  - id: 11663
+    price: 150
+  - id: 11665
+    price: 150
+  - id: 8839
+    price: 175
+  - id: 8842
+    price: 110
+  - id: 11664
+    price: 150
+  - id: 30002
+    price: 15
+  - id: 11738
+    price: 30
+  - id: 22993
+    price: 5
+  - id: 2528
+    price: 400

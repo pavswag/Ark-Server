@@ -1,0 +1,111 @@
+---
+npc_id:
+  - 8164
+constant:
+  accessibility: 0
+  items:
+    - item: 692 #25k nomad
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 3
+  items:
+    - item: 693 #50k nomad
+      minimum: 1
+      maximum: 5
+    - item: 21880 #wrath runes
+      minimum: 125
+      maximum: 250
+    - item: 7937 #pure essence
+      minimum: 500
+      maximum: 1250
+    - item: 11944 #lava d bones
+      minimum: 5
+      maximum: 10
+    - item: 1514 #magic logs
+      minimum: 5
+      maximum: 10
+    - item: 452 #rune ore
+      minimum: 5
+      maximum: 10
+    - item: 2364 #rune bars
+      minimum: 5
+      maximum: 10
+    - item: 23686 #divine combat
+      minimum: 5
+      maximum: 10
+    - item: 6686 #sara brew
+      minimum: 5
+      maximum: 10
+uncommon:
+  accessibility: 75
+  items:
+    - item: 696 #250k nomad
+      minimum: 1
+      maximum: 4
+    - item: 21880 #wrath runes
+      minimum: 250
+      maximum: 500
+    - item: 7937 #pure essence
+      minimum: 1000
+      maximum: 2500
+    - item: 11944 #lava d bones
+      minimum: 25
+      maximum: 50
+    - item: 1514 #magic logs
+      minimum: 25
+      maximum: 50
+    - item: 452 #rune ore
+      minimum: 25
+      maximum: 50
+    - item: 2364 #rune bars
+      minimum: 25
+      maximum: 50
+    - item: 23686 #divine combat
+      minimum: 25
+      maximum: 50
+    - item: 6686 #sara brew
+      minimum: 25
+      maximum: 50
+rare:
+  accessibility: 300
+  items:
+    - item: 696 #250k nomad
+      minimum: 1
+      maximum: 10
+    - item: 23351 #cape of skulls
+      minimum: 1
+      maximum: 1
+    - item: 20903 #nox seed
+      minimum: 1
+      maximum: 1
+    - item: 20906 #golpar seed
+      minimum: 1
+      maximum: 1
+    - item: 20909 #buchu seed
+      minimum: 1
+      maximum: 1
+    - item: 22869 #celastrus seed
+      minimum: 1
+      maximum: 1
+    - item: 22881 #attas seed
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 2000
+  items:
+    - item: 22875 #achievement seed
+      minimum: 1
+      maximum: 1
+    - item: 13302 #bank key
+      minimum: 1
+      maximum: 5
+    - item: 6805 #fortune spin
+      minimum: 1
+      maximum: 3
+    - item: 33175 #axe of araphel
+      minimum: 1
+      maximum: 1
+    - item: 10533 #guardian pet
+      minimum: 1
+      maximum: 1

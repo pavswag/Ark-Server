@@ -1,0 +1,100 @@
+---
+id: 5
+name: "Mage Shop"
+items:
+  - id: 554
+    price: 250
+  - id: 555
+    price: 250
+  - id: 556
+    price: 250
+  - id: 557
+    price: 250
+  - id: 558
+    price: 250
+  - id: 559
+    price: 250
+  - id: 562
+    price: 500
+  - id: 9075
+    price: 500
+  - id: 561
+    price: 500
+  - id: 564
+    price: 500
+  - id: 563
+    price: 500
+  - id: 566
+    price: 500
+  - id: 560
+    price: 1000
+  - id: 565
+    price: 1000
+  - id: 21880
+    price: 1500
+  - id: 1833  #Desert
+    price: 500
+  - id: 1835  #Desert
+    price: 500
+  - id: 1837  #Desert
+    price: 500
+  - id: 6109  #Ghostly
+    price: 25000
+  - id: 6107  #Ghostly
+    price: 25000
+  - id: 6108  #Ghostly
+    price: 25000
+  - id: 6111  #Ghostly
+    price: 25000
+  - id: 6106  #Ghostly
+    price: 25000
+  - id: 6110  #Ghostly
+    price: 25000
+  - id: 4089  #Blue mystic
+    price: 30000
+  - id: 4091  #Blue mystic
+    price: 30000
+  - id: 4093  #Blue mystic
+    price: 30000
+  - id: 4097  #Blue mystic
+    price: 30000
+  - id: 4095  #Blue mystic
+    price: 30000
+  - id: 4109  #White mystic
+    price: 35000
+  - id: 4111  #White mystic
+    price: 35000
+  - id: 4113  #White mystic
+    price: 35000
+  - id: 4117  #White mystic
+    price: 35000
+  - id: 4115  #White mystic
+    price: 35000
+  - id: 4099  #Dark mystic
+    price: 40000
+  - id: 4101  #Dark mystic
+    price: 40000
+  - id: 4103  #Dark mystic
+    price: 40000
+  - id: 4107  #Dark mystic
+    price: 40000
+  - id: 4105  #Dark mystic
+    price: 40000
+  - id: 1391
+    price: 5000
+  - id: 1381
+    price: 10000
+  - id: 1383
+    price: 10000
+  - id: 1385
+    price: 10000
+  - id: 1387
+    price: 10000
+  - id: 2415
+    price: 25000
+  - id: 2416
+    price: 25000
+  - id: 2417
+    price: 25000
+  - id: 4675
+    price: 100000

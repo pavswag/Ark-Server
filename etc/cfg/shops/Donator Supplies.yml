@@ -1,0 +1,22 @@
+---
+id: 124
+name: "Donator Supplies"
+items:
+  - id: 2435 #noted prayer pot
+    price: 5000
+  - id: 3025 #noted super restore
+    price: 5000
+  - id: 2437 #noted super attack
+    price: 1000
+  - id: 2441 #noted super strength
+    price: 1000
+  - id: 2443 #noted super defence
+    price: 1000
+  - id: 11730 #overload (4)
+    price: 2500000
+  - id: 3145 #cooked karambwan
+    price: 5000
+  - id: 13442 #cooked anglerfish
+    price: 5000
+  - id: 11937 #cooked dark crab
+    price: 5000

@@ -1,0 +1,42 @@
+---
+id: 600
+name: "Kyros's Box Shop"
+items:
+  - id: 6679 #mini mystery
+    price: 100
+  - id: 6199 #mystery
+    price: 200
+  - id: 6677 #mini smb
+    price: 200
+  - id: 6828 #smb
+    price: 400
+  - id: 6678 #mini ultra
+    price: 400
+  - id: 13346 #ultra
+    price: 800
+  - id: 12585 #mini cox
+    price: 800
+  - id: 12582 #cox
+    price: 1600
+  - id: 19895 #mini tob
+    price: 1600
+  - id: 19891 #tob
+    price: 3200
+  - id: 6680 #mini arbo
+    price: 3200
+  - id: 12579 #arbo
+    price: 6400
+  - id: 19887 #mini dono
+    price:  15000
+  - id: 12588 #dono
+    price: 30000
+  - id: 8167 #nomad chest
+    price: 20000
+  - id: 6831 #f2p division
+    price: 15000
+  - id: 6829 #psp division
+    price: 30000
+  - id: 11739 #vote
+    price: 500
+  - id: 19897 #cosmetic
+    price: 2500

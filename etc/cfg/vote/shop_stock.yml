@@ -1,0 +1,25 @@
+stock:
+  - itemId: 23933
+    amount: 1
+    description: "Vote crystal, used to trade or exchange for vote points!"
+    price: 1
+  - itemId: 6199
+    amount: 5
+    description: "5x Mystery box's containg some basic starter gear!"
+    price: 5
+  - itemId: 13346
+    amount: 5
+    description: "5x Ultra Mystery Boxes containing some awesome starter gear!"
+    price: 25
+  - itemId: 12588
+    amount: 5
+    description: "5x Donator Boxes containing some amazing donation only items!"
+    price: 50
+  - itemId: 27957
+    amount: 1
+    description: "+50% bonus experience for 30 minutes! (activates on purchase)"
+    price: 500
+  - itemId: 11154
+    amount: 1
+    description: "+10% bonus droprate for 60 minutes! (activates on purchase)"
+    price: 500

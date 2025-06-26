@@ -1,0 +1,99 @@
+common:
+  - id: 995
+    amount: 500000
+  - id: 560
+    amount: 600
+  - id: 565
+    amount: 600
+  - id: 453
+    amount: 600
+  - id: 444
+    amount: 360
+  - id: 449
+    amount: 150
+  - id: 451
+    amount: 72
+  - id: 215
+    amount: 60
+  - id: 211
+    amount: 48
+  - id: 3049
+    amount: 44
+  - id: 217
+    amount: 43
+  - id: 209
+    amount: 40
+  - id: 207
+    amount: 36
+  - id: 3051
+    amount: 32
+  - id: 2485
+    amount: 31
+  - id: 267
+    amount: 28
+  - id: 269
+    amount: 24
+  - id: 1391
+    amount: 18
+  - id: 1373
+    amount: 4
+  - id: 1127
+    amount: 4
+  - id: 1109
+    amount: 4
+
+rare:
+  - id: 22323
+    amount: 1
+  - id: 22324
+    amount: 1
+  - id: 22325
+    amount: 1
+  - id: 22326
+    amount: 1
+  - id: 22327
+    amount: 1
+  - id: 22328
+    amount: 1
+  - id: 22477
+    amount: 1
+  - id: 22477
+    amount: 1
+  - id: 22477
+    amount: 1
+  - id: 22477
+    amount: 1
+  - id: 22477
+    amount: 1
+  - id: 22477
+    amount: 1
+  - id: 22477
+    amount: 1
+  - id: 22477
+    amount: 1
+  - id: 22477
+    amount: 1
+  - id: 22477
+    amount: 1
+  - id: 22477
+    amount: 1
+  - id: 22477
+    amount: 1
+  - id: 22477
+    amount: 1
+  - id: 25904
+    amount: 1
+  - id: 25904
+    amount: 1
+  - id: 25904
+    amount: 1
+  - id: 25904
+    amount: 1
+  - id: 25904
+    amount: 1
+  - id: 25904
+    amount: 1
+  - id: 25904
+    amount: 1
+  - id: 25904
+    amount: 1

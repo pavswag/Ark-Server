@@ -1,0 +1,104 @@
+---
+npc_id: 3358   #Mage
+constant:
+  accessibility: 0
+  items:
+    - item: 693 #50k Nomad Certs
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 250
+  items:
+    - item: 6679 #mini mystery
+      minimum: 1
+      maximum: 1
+    - item: 989 #crystal key
+      minimum: 2
+      maximum: 5
+    - item: 2572 #row
+      minimum: 1
+      maximum: 1
+    - item: 995 #gp
+      minimum: 50000
+      maximum: 100000
+    - item: 2577 #ranger boots
+      minimum: 1
+      maximum: 1
+    - item: 11840 #dragon boots
+      minimum: 1
+      maximum: 1
+    - item: 6920 #infinity boots
+      minimum: 1
+      maximum: 1
+uncommon:
+  accessibility: 500
+  items:
+    - item: 692 #25k nomad
+      minimum: 1
+      maximum: 1
+    - item: 6677 #mini smb
+      minimum: 1
+      maximum: 1
+    - item: 2528 #exp lamp
+      minimum: 10
+      maximum: 10
+    - item: 12785 #row (i1)
+      minimum: 1
+      maximum: 1
+    - item: 995 #gp
+      minimum: 100000
+      maximum: 150000
+    - item: 6585 #fury
+      minimum: 1
+      maximum: 1
+    - item: 12002
+      minimum: 1
+      maximum: 1
+    - item: 19547
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 1000
+  items:
+    - item: 696  #2.5m Nomad
+      minimum: 1
+      maximum: 10
+    - item: 11666  #Elite void token
+      minimum: 1
+      maximum: 1
+    - item: 26500  #Dono boss scroll
+      minimum: 1
+      maximum: 1
+    - item: 25376  #Dragon pick (or)
+      minimum: 1
+      maximum: 1
+    - item: 25378  #Dragon axe (or)
+      minimum: 1
+      maximum: 1
+    - item: 25373  #Dragon harpoon (or)
+      minimum: 1
+      maximum: 1
+    - item: 27624  #Ancient sceptre
+      minimum: 1
+      maximum: 1
+    - item: 22316  #Kyros sword
+      minimum: 1
+      maximum: 1
+extremely_rare:
+  accessibility: 4150
+  items:
+    - item: 33144 #Pernix Cowl
+      minimum: 1
+      maximum: 1
+    - item: 33145 #Pernix Body
+      minimum: 1
+      maximum: 1
+    - item: 33146 #Pernix Chaps
+      minimum: 1
+      maximum: 1
+    - item: 26269 #Demon x Cross bow
+      minimum: 1
+      maximum: 1
+    - item: 21804 #Ancient Crystal
+      minimum: 1
+      maximum: 1

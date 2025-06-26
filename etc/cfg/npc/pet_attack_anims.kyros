@@ -1,0 +1,522 @@
+#leave comments like this
+# use as syntax: npcId, attackAnimation
+
+#General Graardor Jr.
+6632, 5000
+
+#Kree'arra Jr.
+6643, 5000
+
+#Zilyana Jr.
+6633, 5000
+
+#K'ril Tsutsaroth Jr.
+6634, 5000
+
+#Dagannoth Prime Jr.
+6627, 5000
+
+#Dagannoth Rex Jr.
+6630, 5000
+
+#Dagannoth Supreme Jr.
+6628, 5000
+
+#Chaos Elemental Jr.
+5907, 5000
+
+#Elisabeta
+4444, 5000
+
+#Prince Black Dragon
+6636, 5000
+
+#Kraken
+6640, 5000
+
+#Callisto cub
+5558, 5000
+
+#Baby Mole
+6651, 5000
+
+#Vet'ion Jr.
+5559, 5000
+
+#Vet'ion Jr.
+5560, 5000
+
+#Venenatis spiderling
+5557, 5000
+
+#Smoke Devil
+6639, 5000
+
+#TzRek-Jad
+5892, 5000
+
+#Hellpuppy
+3099, 5000
+
+#Skotos
+425, 5000
+
+#Snakeling
+2130, 5000
+
+#Snakeling
+2131, 5000
+
+#Snakeling
+2132, 5000
+
+#Hellcat
+1625, 5000
+
+#Vorki
+8029, 5000
+
+#Zombie
+5568, 5000
+
+#Most of a Zombie
+5570, 5000
+
+#Zombie
+5571, 5000
+
+#Most of a Zombie
+5569, 5000
+
+#Scorpia's offspring
+5561, 5000
+
+#Dark Core
+388, 5000
+
+#Corporeal Critter
+8010, 5000
+
+#Kalphite Princess
+6637, 5000
+
+#Kalphite Princess
+6638, 5000
+
+#Heron
+6715, 5000
+
+#Rock Golem
+7439, 5000
+
+#Rock Golem
+7440, 5000
+
+#Rock Golem
+7441, 5000
+
+#Rock Golem
+7442, 5000
+
+#Rock Golem
+7445, 5000
+
+#Rock Golem
+7446, 5000
+
+#Rock Golem
+7447, 5000
+
+#Rock Golem
+7449, 5000
+
+#Rock Golem
+7450, 5000
+
+#Beaver
+12169, 5000
+
+#Kitten
+5591, 5000
+
+#Kitten
+5592, 5000
+
+#Kitten
+5593, 5000
+
+#Kitten
+5594, 5000
+
+#Kitten
+5595, 5000
+
+#Kitten
+5596, 5000
+
+#Baby Chinchompa
+6718, 5000
+
+#Baby Chinchompa
+6719, 5000
+
+#Baby Chinchompa
+6720, 5000
+
+#Baby Chinchompa
+6721, 5000
+
+#Giant Squirrel
+7351, 5000
+
+#Tangleroot
+7352, 5000
+
+#Rocky
+7353, 5000
+
+#Rift guardian
+7354, 5000
+
+#Rift guardian
+7355, 5000
+
+#Rift guardian
+7356, 5000
+
+#Rift guardian
+7357, 5000
+
+#Rift guardian
+7358, 5000
+
+#Rift guardian
+7359, 5000
+
+#Rift guardian
+7360, 5000
+
+#Rift guardian
+7361, 5000
+
+#Rift guardian
+7362, 5000
+
+#Rift guardian
+7363, 5000
+
+#Rift guardian
+7364, 5000
+
+#Rift guardian
+7365, 5000
+
+#Rift guardian
+7366, 5000
+
+#Rift guardian
+7367, 5000
+
+#Abyssal orphan
+5883, 5000
+
+#Bloodhound
+6296, 5000
+
+#Phoenix
+7368, 5000
+
+#Puppadile
+8201, 5000
+
+#Tektiny
+8202, 5000
+
+#Vanguard
+8203, 5000
+
+#Vasa Minirio
+8204, 5000
+
+#Vespina
+8200, 5000
+
+#Olmlet
+7519, 5000
+
+#Jal-Nib-Rek
+7674, 5000
+
+#Nexling
+11276, 5000
+
+#TzRek-Zuk
+8009, 5000
+
+#Ikkle Hydra
+8492, 5000
+
+#Ikkle Hydra
+8493, 5000
+
+#Ikkle Hydra
+8494, 5000
+
+#Ikkle Hydra
+8495, 5000
+
+#Vote Pet
+327, 5000
+
+#Vote Pet
+326, 5000
+
+#Reanimated dog
+7025, 5000
+
+#Maniacal monkey
+7216, 5000
+
+#Terror dog
+6473, 5000
+
+#Smolcano
+8731, 5000
+
+#Youngllef
+8737, 5000
+
+#Corrupted Youngllef
+8738, 5000
+
+#Little Nightmare
+9398, 5000
+
+#Postie Pete
+3291, 5000
+
+#Imp defender
+5738, 5000
+
+#Bird
+5240, 5000
+
+#King penguin
+834, 5000
+
+#K'klik
+1873, 5000
+
+#Shadow Warrior
+2122, 5000
+
+#Shadow Ranger
+2120, 5000
+
+#Shadow Wizard
+2121, 5000
+
+#Chaotic death spawn
+6723, 5000
+
+#Chaotic death spawn
+6716, 5000
+
+#Corrupt Beast
+8709, 5000
+
+#Lil' Zik
+8337, 5000
+
+#Lil' Sot
+10873, 5000
+
+#Lil' Maiden
+10870, 5000
+
+#Lil' Nylo
+10872, 5000
+
+#Lil' Bloat
+10871, 5000
+
+#Lil' Xarp
+10874, 5000
+
+#JalRek-Jad
+10625, 5000
+
+#Midnight
+7890, 5000
+
+#Noon
+7891, 5000
+
+#Giant Roc
+763, 5000
+
+#Baby Roc
+762, 5000
+
+#Kratos
+7668, 5000
+
+#<col=00ffff>Storm Cloud</col>
+488, 5000
+
+#Sraracha
+2143, 5000
+
+#Lil mimic
+1089, 5000
+
+#Seren
+1088, 5000
+
+#Skeleton
+2300, 5000
+
+#Beaver
+2301, 5000
+
+#Rock
+2302, 5000
+
+#mystery box
+2304, 5000
+
+#Fish
+2307, 5000
+
+#Magic Pet
+2308, 5000
+
+#Mask
+2311, 5000
+
+#@gre@$$@blu@CashMoney@gre@$$
+2312, 5000
+
+#Charlie
+2313, 5000
+
+#Lil' Creator
+2833, 5000
+
+#Lil' Destructor
+3564, 5000
+
+#Guardian Angel
+2316, 5000
+
+#Lil' Groot
+3472, 5000
+
+#Greatish guardian
+11401, 5000
+
+#Flying Pumpkin pet
+4629, 5000
+
+#Jack-O-Kraken pet
+4630, 5000
+
+#lil' Nyx
+2577, 5000
+
+#lil' Gingie
+4851, 5000
+
+#lil' Elf
+4852, 5000
+
+#lil' Evil Snowman
+4850, 5000
+
+#Pheasant
+373, 5000
+
+#13th Pet Goblin
+2268, 5000
+
+#Maniacal Monkey
+7118, 5000
+
+#Zombie Monkey
+1467, 5000
+
+#Baby Red dragon
+8087, 5000
+
+#Baby Green dragon
+8081, 5000
+
+#Baby Black dragon
+8093, 5000
+
+#Baby Blue dragon
+8083, 5000
+
+#Realm Nyx
+2592, 5000
+
+#Baron
+12155, 5000
+
+#Lil'viathan
+12156, 5000
+
+#Wisp
+12157, 5000
+
+#Butch
+12158, 5000
+
+#Scurry
+7616, 5000
+
+#Tiny Tempor
+10562, 5000
+
+#Herbi
+7759, 5000
+
+#Tumeken's Guardian
+11812, 5000
+
+#Quetzin
+12768, 5000
+
+#Chompy chick
+4001, 5000
+
+#Muphin
+12005, 5000
+
+#Elidinis' Guardian
+11653, 5000
+
+#Zebo
+11849, 5000
+
+#Babi
+11841, 5000
+
+#Primio
+12889, 5000
+
+#Mini-Me
+12780, 5000
+
+#Shadow Pet
+12781, 5000
+
+#Smol Heredit
+12767, 5000
+
+#Nid
+13681, 5000
+
+#Rax
+13682, 5000
+

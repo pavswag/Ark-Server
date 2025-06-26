@@ -1,0 +1,88 @@
+---
+npc_id:
+- 13489
+- 13490
+- 13491
+- 13492
+- 13493
+constant:
+  accessibility: 0
+  items:
+    - item: 526  #bones
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 10
+  items:
+    - item: 691  #10k nomad
+      minimum: 1
+      maximum: 1
+    - item: 2  #cannon ball
+      minimum: 20
+      maximum: 60
+    - item: 445  #gold ore
+      minimum: 5
+      maximum: 15
+    - item: 1391  #battlestaff
+      minimum: 1
+      maximum: 1
+    - item: 1123  #addy body
+      minimum: 1
+      maximum: 1
+    - item: 558  #mind
+      minimum: 30
+      maximum: 90
+uncommon:
+  accessibility: 30
+  items:
+    - item: 562  #chaos
+      minimum: 30
+      maximum: 90
+    - item: 560  #death
+      minimum: 30
+      maximum: 90
+    - item: 565  #blood
+      minimum: 30
+      maximum: 60
+    - item: 1147  #rune med
+      minimum: 1
+      maximum: 1
+    - item: 1347  #rune warhammer
+      minimum: 1
+      maximum: 1
+    - item: 1289  #rune sword
+      minimum: 1
+      maximum: 1
+    - item: 1303  #rune long
+      minimum: 1
+      maximum: 1
+    - item: 1432  #rune mace
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 60
+  items:
+    - item: 1215  #d dagger
+      minimum: 1
+      maximum: 1
+    - item: 1305  #d long
+      minimum: 1
+      maximum: 1
+    - item: 4587  #d scim
+      minimum: 1
+      maximum: 1
+    - item: 21257  #slayer enchantment
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 100
+  items:
+    - item: 29449  #zombie pirate key
+      minimum: 1
+      maximum: 1
+    - item: 23490  #larrens key
+      minimum: 1
+      maximum: 1
+    - item: 29455  #anchoring scroll
+      minimum: 1
+      maximum: 1

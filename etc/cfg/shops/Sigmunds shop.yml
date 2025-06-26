@@ -1,0 +1,28 @@
+---
+id: 26
+name: "Sigmunds shop"
+items:
+- name: "two thirds cake"
+  price: 8050
+- name: "two thirds cake noted"
+  price: 8050
+- name: "cup of tea"
+  price: 14760
+- name: "silver sickle"
+  price: 16110
+- name: "silver sickle noted"
+  price: 16110
+- id: 6814
+  price: 21480
+- name: "red topaz"
+  price: 26850
+- name: "red topaz noted"
+  price: 26850
+- name: "jug of wine"
+  price: 34900
+- name: "jug of wine noted"
+  price: 34900
+- name: "gold leaf"
+  price: 42960
+- name: "bag full of gems"
+  price: 45640

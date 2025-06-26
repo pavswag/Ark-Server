@@ -1,0 +1,138 @@
+---
+npc_id: 12223
+constant:
+  accessibility: 0
+  items:
+    - item: 696 #250k Nomad
+      minimum: 25
+      maximum: 50
+
+common:
+  accessibility: 344
+  items:
+    - item: 696 #250k Nomad
+      minimum: 250
+      maximum: 250
+    - item: 25736 #holy scythe
+      minimum: 1
+      maximum: 1
+    - item: 21129 #Troll i(5)
+      minimum: 1
+      maximum: 1
+    - item: 30020 #Corrupt beast
+      minimum: 1
+      maximum: 1
+    - item: 30021 #Roc pet
+      minimum: 1
+      maximum: 1
+    - item: 33301 #artorias wings
+      minimum: 1
+      maximum: 1
+    - item: 33300 #artorias gloves
+      minimum: 1
+      maximum: 1
+    - item: 33299 #artorias boots
+      minimum: 1
+      maximum: 1
+    - item: 20997 #T-bow
+      minimum: 1
+      maximum: 1
+    - item: 22323 #Sang staff
+      minimum: 1
+      maximum: 1
+    - item: 27235 #masori (f)
+      minimum: 1
+      maximum: 1
+    - item: 27238 #masori (f)
+      minimum: 1
+      maximum: 1
+    - item: 27241 #masori (f)
+      minimum: 1
+      maximum: 1
+
+uncommon:
+  accessibility: 768
+  items:
+    - item: 696 #250k Nomad
+      minimum: 500
+      maximum: 500
+    - item: 28254 #Sanguine
+      minimum: 1
+      maximum: 1
+    - item: 28256 #Sanguine
+      minimum: 1
+      maximum: 1
+    - item: 28258 #Sanguine
+      minimum: 1
+      maximum: 1
+    - item: 20128 #robe of darkness
+      minimum: 1
+      maximum: 1
+    - item: 20131 #robe of darkness
+      minimum: 1
+      maximum: 1
+    - item: 20137 #robe of darkness
+      minimum: 1
+      maximum: 1
+    - item: 33144 #pernix
+      minimum: 1
+      maximum: 1
+    - item: 33145 #pernix
+      minimum: 1
+      maximum: 1
+    - item: 33146 #pernix
+      minimum: 1
+      maximum: 1
+
+rare:
+  accessibility: 2231
+  items:
+    - item: 696 #250k Nomad
+      minimum: 1000
+      maximum: 1000
+    - item: 33311 #Plague
+      minimum: 1
+      maximum: 1
+    - item: 33312 #PLague
+      minimum: 1
+      maximum: 1
+    - item: 33313 #Plague
+      minimum: 1
+      maximum: 1
+    - item: 33308 #reverie
+      minimum: 1
+      maximum: 1
+    - item: 33309 #reverie
+      minimum: 1
+      maximum: 1
+    - item: 33310 #reverie
+      minimum: 1
+      maximum: 1
+    - item: 33343 #ember
+      minimum: 1
+      maximum: 1
+    - item: 33344 #ember
+      minimum: 1
+      maximum: 1
+    - item: 33345 #ember
+      minimum: 1
+      maximum: 1
+
+very_rare:
+  accessibility: 3432
+  items:
+    - item: 33428 #1m nomad
+      minimum: 500
+      maximum: 500
+    - item: 6758 #Pet scroll
+      minimum: 1
+      maximum: 1
+    - item: 33410 #Heredit Cape
+      minimum: 1
+      maximum: 1
+    - item: 33411 #Heredit Quiver
+      minimum: 1
+      maximum: 1
+    - item: 28248 #Butch
+      minimum: 1
+      maximum: 1

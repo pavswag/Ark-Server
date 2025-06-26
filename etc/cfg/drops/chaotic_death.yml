@@ -1,0 +1,101 @@
+---
+npc_id: 7649
+constant:
+  accessibility: 0
+  items:
+    - item: 537 #Noted Dragon bone
+      minimum: 1
+      maximum: 100
+    - item: 691 #10k Nomad
+      minimum: 1
+      maximum: 25
+common:
+  accessibility: 100
+  items:
+    - item: 692 #25k nomad
+      minimum: 1
+      maximum: 25
+    - item: 6677 #Mini msmb
+      minimum: 1
+      maximum: 25
+    - item: 681 #Ancient talisman
+      minimum: 1
+      maximum: 10
+    - item: 11180 #Ancient coin
+      minimum: 1
+      maximum: 10
+    - item: 21551 #100k Bone
+      minimum: 1
+      maximum: 5
+uncommon:
+  accessibility: 275
+  items:
+    - item: 693 #50k nomad
+      minimum: 1
+      maximum: 25
+    - item: 6678 #Mini umb
+      minimum: 1
+      maximum: 25
+    - item: 19887 #Mini dono box
+      minimum: 1
+      maximum: 25
+    - item: 989 #C Key
+      minimum: 10
+      maximum: 25
+    - item: 21553 #250k Bone
+      minimum: 1
+      maximum: 5
+rare:
+  accessibility: 1500
+  items:
+    - item: 12588 #Dono box
+      minimum: 1
+      maximum: 10
+    - item: 12774 #Frozen whip
+      minimum: 1
+      maximum: 1
+    - item: 25918 #Dhcb (b)
+      minimum: 1
+      maximum: 1
+    - item: 25731 #Holy sang
+      minimum: 1
+      maximum: 1
+    - item: 26545 #Hope Perk
+      minimum: 1
+      maximum: 1
+    - item: 33141 #Virtus
+      minimum: 1
+      maximum: 1
+    - item: 33142 #Virtus
+      minimum: 1
+      maximum: 1
+    - item: 33143 #Virtus
+      minimum: 1
+      maximum: 1
+    - item: 25739 #Sang scythe
+      minimum: 1
+      maximum: 1
+    - item: 9616 #Chaotic death instance token
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 2750
+  items:
+    - item: 696 #250k nomad
+      minimum: 25
+      maximum: 100
+    - item: 19887 #mini dono
+      minimum: 1
+      maximum: 25
+    - item: 24725 #hallowed
+      minimum: 1
+      maximum: 1
+    - item: 24731 #hallowed
+      minimum: 1
+      maximum: 1
+    - item: 33402 #hallowed
+      minimum: 1
+      maximum: 1
+    - item: 33403 #hallowed
+      minimum: 1
+      maximum: 1

@@ -1,0 +1,138 @@
+---
+id: 119
+name: "Blood money Shop"
+items:
+  - id: 25527 #stardust
+    price: 60
+  - id: 12934 #zulrah scales
+    price: 2
+  - id: 23867 #crystal dust
+    price: 50000
+  - id: 374 #swordish
+    price: 2
+  - id: 386 #shark
+    price: 10
+  - id: 13442 #angler fish
+    price: 20
+  - id: 12696 #combat pot
+    price: 250
+  - id: 882 #bronze arrow
+    price: 1
+  - id: 888 #mithril arrow
+    price: 3
+  - id: 892 #rune arrow
+    price: 5
+  - id: 11212 #dragon arrow
+    price: 10
+  - id: 19484 #dragon javelin
+    price: 10
+  - id: 5698 #dragon dagger
+    price: 1250
+  - id: 877 #bronze bolts
+    price: 1
+  - id: 9143 #adamant bolts
+    price: 3
+  - id: 9144 #rune bolts
+    price: 5
+  - id: 9242 #ruby bolts e
+    price: 10
+  - id: 11826 #arma helm
+    price: 50000
+  - id: 11828 #arma body
+    price: 50000
+  - id: 11830 #arma legs
+    price: 50000
+  - id: 9185 #rune c'bow
+    price: 5000
+  - id: 861 #magic shortbow
+    price: 1000
+  - id: 11832 #bandos chest
+    price: 50000
+  - id: 11834 #bandos tassets
+    price: 50000
+  - id: 11836 #bandos boots
+    price: 50000
+  - id: 4151 #whip
+    price: 10000
+  - id: 4587 #dragon scim
+    price: 2500
+  - id: 13239 #prims
+    price: 50000
+  - id: 13237 #pegs
+    price: 50000
+  - id: 13235 #eternal
+    price: 50000
+  - id: 11926 #odium ward
+    price: 50000
+  - id: 11924 #malediction ward
+    price: 50000
+  - id: 7462 #barrows gloves
+    price: 10000
+  - id: 27112 #barrows gloves wrapped
+    price: 25000
+  - id: 10498 #ava's attractor
+    price: 5000
+  - id: 10499 #ava's accumulator
+    price: 25000
+  - id: 22109 #ava's assembler
+    price: 50000
+  - id: 4153 #g maul
+    price: 10000
+  - id: 12849 #granite clamp
+    price: 10000
+  - id: 24229 #ornate maul handle
+    price: 10000
+  - id: 12004 #kraken tentacle
+    price: 15000
+  - id: 19478 #light ballista
+    price: 25000
+  - id: 19481 #heavy ballista
+    price: 50000
+  - id: 12954 #dragon defender
+    price: 10000
+  - id: 21295 #infernal cape
+    price: 50000
+  - id: 21791 #sara cape
+    price: 50000
+  - id: 21793 #guthix cape
+    price: 50000
+  - id: 21795 #zammy cape
+    price: 50000
+  - id: 21183 #slaughter bracelet
+    price: 50000
+  - id: 23824 #slaughter charge
+    price: 200
+  - id: 20366 #torture(or)
+    price: 50000
+  - id: 22249 #anguish (or)
+    price: 50000
+  - id: 19720 #occult (or)
+    price: 50000
+  - id: 23240 #berserker (or)
+    price: 50000
+  - id: 19544 #tormented bracelet
+    price: 50000
+  - id: 6739 #dragon axe
+    price: 50000
+  - id: 11920 #dragon pick
+    price: 50000
+  - id: 21028 #dragon harpoon
+    price: 50000
+  - id: 12846 #teleport scroll
+    price: 5000
+  - id: 12786 #magic shortbow scroll
+    price: 5000
+  - name: "cannon base"
+    price: 5000
+  - name: "cannon stand"
+    price: 5000
+  - name: "cannon barrels"
+    price: 5000
+  - name: "cannon furnace"
+    price: 5000
+  - name: "cannonball"
+    price: 2
+  - id: 21034
+    price: 250000
+  - id: 21079
+    price: 250000

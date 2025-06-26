@@ -1,0 +1,90 @@
+common:
+  - id: 6769 #$5
+    amount: 1
+  - id: 696 #1m nomad
+    amount: 4
+  - id: 19887 #mini dono
+    amount: 10
+  - id: 19887 #mini dono
+    amount: 10
+  - id: 21046 #chest rate bonus
+    amount: 500
+  - id: 24423 #harmonised staff
+    amount: 1
+  - id: 24425 #eldritch staff
+    amount: 1
+  - id: 24424 #volatile staff
+    amount: 1
+  - id: 12817 #ely
+    amount: 1
+  - id: 10557 #collector icon
+    amount: 1
+  - id: 10556 #attack icon
+    amount: 1
+  - id: 10558 #defender icon
+    amount: 1
+  - id: 10559 #healer icon
+    amount: 1
+uncommon:
+  - id: 2403 #$10
+    amount: 1
+  - id: 19887 #mini dono
+    amount: 10
+  - id: 19887 #mini dono
+    amount: 10
+  - id: 27226 #masori mask
+    amount: 1
+  - id: 27229 #masori body
+    amount: 1
+  - id: 27232 #masori legs
+    amount: 1
+  - id: 26235 #zaryte vembs
+    amount: 1
+rare:
+  - id: 2396 #$25
+    amount: 1
+  - id: 19887 #mini dono
+    amount: 10
+  - id: 19887 #mini dono
+    amount: 10
+  - id: 33353 #suprise box
+    amount: 1
+  - id: 33259 #golden coin flip
+    amount: 1
+  - id: 26225 #ancient mask
+    amount: 1
+  - id: 26221 #ancient top
+    amount: 1
+  - id: 26223 #ancient legs
+    amount: 1
+  - id: 25731 #holy sang
+    amount: 1
+  - id: 13681 #codex
+    amount: 1
+  - id: 22325 #scythe of vitur
+    amount: 1
+  - id: 20786 #row (i5)
+    amount: 1
+very_rare:
+  - id: 23309 #ddr ammy
+    amount: 1
+  - id: 786 #$50
+    amount: 1
+  - id: 33354 #wonder box
+    amount: 1
+  - id: 26382 #torva helm
+    amount: 1
+  - id: 26384 #torva body
+    amount: 1
+  - id: 26386 #torva legs
+    amount: 1
+  - id: 25736 #holy scythe
+    amount: 1
+  - id: 27235 #masori (f) mask
+    amount: 1
+  - id: 27238 #masori (f) body
+    amount: 1
+  - id: 27241 #masori (f) legs
+    amount: 1
+  - id: 26374 #zaryte c'bow
+    amount: 1

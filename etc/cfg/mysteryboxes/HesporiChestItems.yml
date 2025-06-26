@@ -1,0 +1,97 @@
+common:
+  - id: 21046
+    amount: 2
+  - id: 20718
+    amount: 15
+  - id: 11731
+    amount: 2
+  - id: 11230
+    amount: 75
+  - id: 11212
+    amount: 50
+  - id: 11232
+    amount: 25
+  - id: 53
+    amount: 50
+  - id: 11237
+    amount: 25
+  - id: 1519
+    amount: 200
+  - id: 1517
+    amount: 150
+  - id: 1515
+    amount: 100
+  - id: 1513
+    amount: 50
+  - id: 6049
+    amount: 50
+  - id: 6051
+    amount: 50
+  - id: 6693
+    amount: 50
+  - id: 245
+    amount: 50
+  - id: 231
+    amount: 50
+  - id: 9185
+    amount: 50
+  - id: 21905
+    amount: 25
+  - id: 377
+    amount: 10
+  - id: 383
+    amount: 25
+  - id: 2353
+    amount: 250
+  - id: 2361
+    amount: 200
+  - id: 2363
+    amount: 100
+  - id: 2364
+    amount: 25
+  - id: 1623
+    amount: 50
+  - id: 1617
+    amount: 25
+  - id: 5937
+    amount: 50
+  - id: 5936
+    amount: 25
+  - id: 5935
+    amount: 25
+  - id: 5295
+    amount: 50
+  - id: 5296
+    amount: 50
+  - id: 5297
+    amount: 25
+  - id: 5298
+    amount: 25
+  - id: 5299
+    amount: 25
+  - id: 5300
+    amount: 15
+
+rare:
+  - id: 6739
+    amount: 1
+  - id: 22881
+    amount: 1
+  - id: 20906
+    amount: 1
+  - id: 20903
+    amount: 1
+  - id: 20909
+    amount: 1
+  - id: 22869
+    amount: 1
+  - id: 4205
+    amount: 1
+
+very_rare:
+  - id: 20716
+    amount: 1
+  - id: 22883
+    amount: 1
+  - id: 22885
+    amount: 1

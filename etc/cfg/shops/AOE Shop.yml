@@ -1,0 +1,26 @@
+---
+id: 192
+name: "AOE Instance Shop"
+items:
+  - id: 4278
+    price: 2
+  - id: 33164
+    price: 31500
+  - id: 33165
+    price: 63000
+  - id: 33166
+    price: 126000
+  - id: 33167
+    price: 252000
+  - id: 33168
+    price: 504000
+  - id: 33170
+    price: 31500
+  - id: 33171
+    price: 63000
+  - id: 33172
+    price: 126000
+  - id: 33174
+    price: 252000
+  - id: 33173
+    price: 504000

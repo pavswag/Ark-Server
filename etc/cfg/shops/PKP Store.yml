@@ -1,0 +1,142 @@
+---
+id: 80
+name: "PKP Store"
+items:
+  - id: 2996 #pkp ticket
+    price: 1
+  - id: 11730 #overload
+    price: 10
+  - id: 12791 #rune pouch
+    price: 750
+  - id: 11941 #loot bag
+    price: 750
+  - id: 12846 #target tele
+    price: 10000
+  - id: 12786 #magic shortbow scroll
+    price: 500
+  - id: 4185 #porazdir key
+    price: 750
+  - id: 6792 #serens key
+    price: 750
+  - id: 22547 #craws bow
+    price: 7500
+  - id: 22552 #thammarons sceptre
+    price: 7500
+  - id: 22542 #viggoras chainmace
+    price: 7500
+  - id: 22616 #vestas body
+    price: 7500
+  - id: 22619 #vestas legs
+    price: 7500
+  - id: 22610 #vestas spear
+    price: 7500
+  - id: 22613 #vestas sword
+    price: 7500
+  - id: 22625 #statius helm
+    price: 7500
+  - id: 22628 #statius body
+    price: 7500
+  - id: 22631 #statius legs
+    price: 7500
+  - id: 22622 #statius warhammer
+    price: 7500
+  - id: 22650 #zuriels helm
+    price: 7500
+  - id: 22653 #zuriels body
+    price: 7500
+  - id: 22656 #zuriels legs
+    price: 7500
+  - id: 22647 #zuriels staff
+    price: 7500
+  - id: 22638 #morrigans hood
+    price: 7500
+  - id: 22641 #morrigans body
+    price: 7500
+  - id: 22644 #morrigans legs
+    price: 7500
+  - id: 22634 #morrigans axe
+    price: 250
+  - id: 22636 #morrigans javelin
+    price: 250
+  - id: 13652 #dragon claws
+    price: 7500
+  - id: 11802 #arma godsword
+    price: 3000
+  - id: 11804 #bandos godsword
+    price: 3000
+  - id: 11806 #sara godsword
+    price: 3000
+  - id: 11808 #zammy godsword
+    price: 3000
+  - id: 11924 #malediction ward
+    price: 1250
+  - id: 11926 #odium ward
+    price: 1250
+  - id: 7462 #barrows gloves
+    price: 2500
+  - id: 27112 #barrows gloves wrapped
+    price: 10000
+  - id: 6570 #fire cape
+    price: 2500
+  - id: 21295 #infernal cape
+    price: 5000
+  - id: 12436 #fury (or)
+    price: 500
+  - id: 12785 #row (i)
+    price: 1250
+  - id: 12605 #treasonous ring
+    price: 2000
+  - id: 12603 #tyrannical ring
+    price: 2000
+  - id: 12601 #ring of the gods
+    price: 2000
+  - id: 12877 #dharoks armour
+    price: 750
+  - id: 12881 #ahrims armour
+    price: 750
+  - id: 12875 #veracs armour
+    price: 750
+  - id: 12873 #guthans armour
+    price: 750
+  - id: 12883 #karrils armour
+    price: 750
+  - id: 12851 #amulet of the damned
+    price: 500
+  - id: 19478 #light ballista
+    price: 2500
+  - id: 19481 #heavy ballista
+    price: 5000
+  - id: 26520 #cannon
+    price: 10000
+  - id: 26522 #cannon
+    price: 10000
+  - id: 26524 #cannon
+    price: 10000
+  - id: 26526 #cannon
+    price: 10000
+  - id: 12798 #steam staff upgrade
+    price: 1250
+  - id: 21202 #lava staff upgrade
+    price: 1250
+  - id: 12849 #granite clamp
+    price: 1250
+  - id: 24229 #ornate maul handle
+    price: 1250
+  - id: 24217 #guthixian icon
+    price: 1250
+  - id: 12804 #sara tear
+    price: 1250
+  - id: 24192 #arma halo
+    price: 5000
+  - id: 24195 #bandos halo
+    price: 5000
+  - id: 24198 #seren halo
+    price: 5000
+  - id: 24201 #ancient halo
+    price: 5000
+  - id: 24204 #cabbage halo?
+    price: 5000
+  - id: 12855 #hunters honour
+    price: 500
+  - id: 12856 #rogues revenge
+    price: 500

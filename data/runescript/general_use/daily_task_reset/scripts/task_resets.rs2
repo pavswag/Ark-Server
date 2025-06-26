@@ -1,0 +1,13 @@
+[opheld1,tasks_system_reset]
+~delete_item
+~statement(Resetting your hourly & daily tasks.);
+@reset_daily_tasks_scroll()
+
+[label,reset_daily_tasks_scroll]()
+p_delay(1);
+~statement(Resetting your hourly & daily tasks..);
+p_delay(2);
+~statement(Resetting your hourly & daily tasks...);
+p_delay(2);
+-reset_daily_task(true)
+~close_widgets

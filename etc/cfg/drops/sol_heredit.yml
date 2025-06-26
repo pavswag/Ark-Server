@@ -1,0 +1,128 @@
+---
+npc_id: 12821
+constant:
+  accessibility: 0
+  items:
+    - item: 693 #50k nomad
+      minimum: 20
+      maximum: 20
+    - item: 13346 #Umb
+      minimum: 4
+      maximum: 4
+common:
+  accessibility: 250
+  items:
+    - item: 696 #250k nomad
+      minimum: 8
+      maximum: 16
+    - item: 6678 #Mini umb
+      minimum: 20
+      maximum: 40
+    - item: 3025 #Super restores
+      minimum: 25
+      maximum: 50
+    - item: 6686 #Sara brew
+      minimum: 25
+      maximum: 50
+    - item: 13576 #Dragon warhammer
+      minimum: 1
+      maximum: 1
+    - item: 23336 #3rd age
+      minimum: 1
+      maximum: 1
+    - item: 23339 #3rd age
+      minimum: 1
+      maximum: 1
+    - item: 23345 #3rd age
+      minimum: 1
+      maximum: 1
+uncommon:
+  accessibility: 500
+  items:
+    - item: 696 #250k nomad
+      minimum: 16
+      maximum: 32
+    - item: 6678 #Mini umb
+      minimum: 35
+      maximum: 70
+    - item: 19887 #Mini dono box
+      minimum: 7
+      maximum: 14
+    - item: 20787 #Row (i4)
+      minimum: 1
+      maximum: 1
+    - item: 22978 #Dragon hunter lance
+      minimum: 1
+      maximum: 1
+    - item: 10557 #Collector Icon
+      minimum: 1
+      maximum: 1
+    - item: 10556 #Attacker icon
+      minimum: 1
+      maximum: 1
+    - item: 10558 #Defencder Icon
+      minimum: 1
+      maximum: 1
+    - item: 10559 #Healer icon
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 750
+  items:
+    - item: 7774 #10 credits
+      minimum: 1
+      maximum: 1
+    - item: 19887 #mini Dono box
+      minimum: 15
+      maximum: 30
+    - item: 26484 #Tent whip (or)
+      minimum: 1
+      maximum: 1
+    - item: 25918 #Dhcb (b)
+      minimum: 1
+      maximum: 1
+    - item: 27624 #Ancient Sceptre
+      minimum: 1
+      maximum: 1
+    - item: 26545 #Hope Perk
+      minimum: 1
+      maximum: 1
+    - item: 27226 #Masori
+      minimum: 1
+      maximum: 1
+    - item: 27229 #Masori
+      minimum: 1
+      maximum: 1
+    - item: 27232 #Masori
+      minimum: 1
+      maximum: 1
+    - item: 696 #250k nomad
+      minimum: 100
+      maximum: 250
+    - item: 12588 #dono
+      minimum: 5
+      maximum: 15
+    - item: 9604 #Sol heredit instance token
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 1000
+  items:
+    - item: 33406 #Heredit
+      minimum: 1
+      maximum: 1
+    - item: 33407 #Heredit
+      minimum: 1
+      maximum: 1
+    - item: 33408 #Heredit
+      minimum: 1
+      maximum: 1
+    - item: 33409 #Heredit
+      minimum: 1
+      maximum: 1
+    - item: 33410 #Heredit
+      minimum: 1
+      maximum: 1
+    - item: 33411 #Heredit
+      minimum: 1
+      maximum: 1

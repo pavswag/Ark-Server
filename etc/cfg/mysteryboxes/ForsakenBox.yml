@@ -1,0 +1,141 @@
+rates:
+  common: 9000
+  uncommon: 600
+  rare: 300
+  very_rare: 245
+
+common:
+  - id: 696 #500m nomad
+    amount: 2000
+  - id: 761 #$100
+    amount: 1
+  - id: 25537 #Gear goodie bag
+    amount: 3
+  - id: 33386 #Pride goodie bag
+    amount: 3
+  - id: 33388 #Bis goodiebag
+    amount: 3
+  - id: 33354 #wonder box
+    amount: 3
+  - id: 33353 #suprise box
+    amount: 3
+  - id: 33357 #Epic box
+    amount: 3
+  - id: 33259 #coin flip
+    amount: 3
+  - id: 33258 #Coinflip (Blue)
+    amount: 3
+  - id: 33391 #Freedom Box
+    amount: 3
+  - id: 33358 #Chaotic Box
+    amount: 3
+  - id: 33359 #Crusade Box
+    amount: 3
+  - id: 33362 #Heredit Box
+    amount: 3
+  - id: 33374 #Damned Box
+    amount: 3
+
+uncommon:
+  - id: 696 #750m nomad
+    amount: 3000
+  - id: 761 #$100
+    amount: 1
+  - id: 25537 #Gear goodie bag
+    amount: 4
+  - id: 33386 #Pride goodie bag
+    amount: 4
+  - id: 33388 #Bis goodiebag
+    amount: 4
+  - id: 33354 #wonder box
+    amount: 4
+  - id: 33353 #suprise box
+    amount: 4
+  - id: 33357 #Epic box
+    amount: 4
+  - id: 33259 #coin flip
+    amount: 4
+  - id: 33258 #Coinflip (Blue)
+    amount: 4
+  - id: 33391 #Freedom Box
+    amount: 4
+  - id: 33358 #Chaotic Box
+    amount: 4
+  - id: 33359 #Crusade Box
+    amount: 4
+  - id: 33362 #Heredit Box
+    amount: 4
+  - id: 33374 #Damned Box
+    amount: 4
+  - id: 25537 #Gear goodie bag
+    amount: 5
+  - id: 33386 #Pride goodie bag
+    amount: 5
+  - id: 33388 #Bis goodiebag
+    amount: 5
+  - id: 33354 #wonder box
+    amount: 5
+  - id: 33353 #suprise box
+    amount: 5
+  - id: 33357 #Epic box
+    amount: 5
+  - id: 33259 #coin flip
+    amount: 5
+  - id: 33258 #Coinflip (Blue)
+    amount: 5
+  - id: 33391 #Freedom Box
+    amount: 5
+  - id: 33358 #Chaotic Box
+    amount: 5
+  - id: 33359 #Crusade Box
+    amount: 5
+  - id: 33362 #Heredit Box
+    amount: 5
+  - id: 33374 #Damned Box
+    amount: 5
+
+rare:
+  - id: 696 #1000m nomad
+    amount: 4000
+  - id: 761 #$100
+    amount: 2
+  - id: 33296 #Artorias helm
+    amount: 1
+  - id: 33297 #Artorias body
+    amount: 1
+  - id: 33298 #Artorias legs
+    amount: 1
+  - id: 33299 #Artorias boots
+    amount: 1
+  - id: 33300 #Artorias gloves
+    amount: 1
+  - id: 33301 #Artorias wings
+    amount: 1
+  - id: 33406 #Heredit ring
+    amount: 1
+  - id: 33407 #Heredit amulet
+    amount: 1
+  - id: 33408 #Heredit boots
+    amount: 1
+  - id: 33409 #Heredit gloves
+    amount: 1
+  - id: 33410 #Heredit cape
+    amount: 1
+  - id: 33411 #Heredit quiver
+    amount: 1
+
+very_rare:
+  - id: 696 #1500m nomad
+    amount: 6000
+  - id: 761 #$100
+    amount: 3
+  - id: 33431 #Wraith scythe
+    amount: 1
+  - id: 33432 #Wraith Spear
+    amount: 1
+  - id: 33433 #Wraith staff
+    amount: 1
+  - id: 33434 #Wraith Bow
+    amount: 1
+  - id: 33435 #Wraith CrossBow
+    amount: 1

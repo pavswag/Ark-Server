@@ -1,0 +1,292 @@
+common:
+  # Scrap paper
+  - amount: 5
+    id: 11681
+
+uncommon:
+  # Crystal key
+- amount: 1
+  id: 990
+
+  # Crystal key
+- amount: 1
+  id: 990
+
+  # Clean dwarf weed
+- amount: 1
+  id: 268
+
+  # Clean dwarf weed
+- amount: 1
+  id: 268
+
+  # Clean torstol
+- amount: 1
+  id: 270
+
+  # Clean torstol
+- amount: 1
+  id: 270
+
+  # Clean snapdragon
+- amount: 1
+  id: 3001
+
+  # Clean snapdragon
+- amount: 1
+  id: 3001
+
+  # Yew logs
+- amount: 1
+  id: 1516
+
+  # Yew logs
+- amount: 1
+  id: 1516
+
+  # Yew logs
+- amount: 1
+  id: 1516
+
+  # Super combat potion(4)
+- amount: 1
+  id: 12696
+
+  # Super combat potion(4)
+- amount: 1
+  id: 12696
+
+  # Super restore(4)
+- amount: 1
+  id: 3025
+
+  # Super restore(4)
+- amount: 1
+  id: 3025
+
+  # Cooked karambwan
+- amount: 1
+  id: 3145
+
+  # Cooked karambwan
+- amount: 1
+  id: 3145
+
+  # Adamantite ore
+- amount: 1
+  id: 450
+
+  # Adamantite ore
+- amount: 1
+  id: 450
+
+  # Adamantite bar
+- amount: 1
+  id: 2362
+
+  # Adamantite bar
+- amount: 1
+  id: 2362
+
+  # Yew logs
+- amount: 1
+  id: 1516
+
+  # Uncut sapphire
+- amount: 1
+  id: 1624
+
+  # Uncut emerald
+- amount: 1
+  id: 1622
+
+  # Babydragon bones
+- amount: 1
+  id: 535
+
+  # Babydragon bones
+- amount: 1
+  id: 535
+
+rare:
+  # Mini Mystery Box
+- amount: 1
+  id: 6679
+
+  # Occult necklace
+- amount: 1
+  id: 12002
+
+  # Amulet of fury
+- amount: 1
+  id: 6585
+
+  # Amulet of glory(4)
+- amount: 1
+  id: 1712
+
+  # Dragon boots
+- amount: 1
+  id: 11840
+
+very_rare:
+  # Mini Mystery Box
+- amount: 1
+  id: 6679
+
+  # Guthan's armour set
+- amount: 1
+  id: 12873
+
+  # Guthan's armour set
+- amount: 1
+  id: 12873
+
+  # Guthan's armour set
+- amount: 1
+  id: 12873
+
+  # Verac's armour set
+- amount: 1
+  id: 12875
+
+  # Verac's armour set
+- amount: 1
+  id: 12875
+
+  # Verac's armour set
+- amount: 1
+  id: 12875
+
+  # Dharok's armour set
+- amount: 1
+  id: 12877
+
+  # Dharok's armour set
+- amount: 1
+  id: 12877
+
+  # Dharok's armour set
+- amount: 1
+  id: 12877
+
+  # Torag's armour set
+- amount: 1
+  id: 12879
+
+  # Torag's armour set
+- amount: 1
+  id: 12879
+
+  # Torag's armour set
+- amount: 1
+  id: 12879
+
+  # Ahrim's armour set
+- amount: 1
+  id: 12881
+
+  # Ahrim's armour set
+- amount: 1
+  id: 12881
+
+  # Ahrim's armour set
+- amount: 1
+  id: 12881
+
+  # Karil's armour set
+- amount: 1
+  id: 12883
+
+  # Karil's armour set
+- amount: 1
+  id: 12883
+
+  # Karil's armour set
+- amount: 1
+  id: 12883
+
+  # Dragon scimitar
+- amount: 1
+  id: 4587
+
+  # Dragon dagger(p++)
+- amount: 1
+  id: 5698
+
+  # Dark bow
+- amount: 1
+  id: 11235
+
+  # Dark bow
+- amount: 1
+  id: 11235
+
+  # Dark bow
+- amount: 1
+  id: 11235
+
+  # Abyssal whip
+- amount: 1
+  id: 4151
+
+  # Abyssal whip
+- amount: 1
+  id: 4151
+
+  # Abyssal whip
+- amount: 1
+  id: 4151
+
+  # Warrior ring
+- amount: 1
+  id: 6735
+
+  # Warrior ring
+- amount: 1
+  id: 6735
+
+  # Archers ring
+- amount: 1
+  id: 6733
+
+  # Seer's ring
+- amount: 1
+  id: 6731
+
+  # Bandos godsword
+- amount: 1
+  id: 11804
+
+  # Saradomin godsword
+- amount: 1
+  id: 11806
+
+  # Zamorak godsword
+- amount: 1
+  id: 11808
+
+  # Armadyl godsword
+- amount: 1
+  id: 11802
+
+  # Bandos chestplate
+- amount: 1
+  id: 11832
+
+  # Bandos tassets
+- amount: 1
+  id: 11834
+
+  # Armadyl helmet
+- amount: 1
+  id: 11826
+
+  # Armadyl chestplate
+- amount: 1
+  id: 11828
+
+  # Armadyl chainskirt
+- amount: 1
+  id: 11830
+

@@ -1,0 +1,128 @@
+---
+npc_id: 6297
+constant:
+  accessibility: 0
+  items:
+    - item: 696 #250k nomad
+      minimum: 4
+      maximum: 4
+    - item: 20608 #bloody key
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 50
+  items:
+    - item: 691 #10k nomad
+      minimum: 1
+      maximum: 200
+    - item: 692 #25k nomad
+      minimum: 1
+      maximum: 80
+    - item: 693 #50k nomad
+      minimum: 1
+      maximum: 40
+    - item: 696 #250k nomad
+      minimum: 1
+      maximum: 8
+    - item: 22883 #iasor
+      minimum: 1
+      maximum: 1
+    - item: 22885 #kronos
+      minimum: 1
+      maximum: 1
+    - item: 2400 #arbo key
+      minimum: 1
+      maximum: 3
+uncommon:
+  accessibility: 100
+  items:
+    - item: 6677 #mini smb
+      minimum: 25
+      maximum: 50
+    - item: 6678 #mini umb
+      minimum: 20
+      maximum: 40
+    - item: 12585 #mini cox
+      minimum: 10
+      maximum: 20
+    - item: 19895 #mini tob
+      minimum: 7
+      maximum: 15
+    - item: 22875 #hespori seed
+      minimum: 1
+      maximum: 1
+    - item: 6805 #fortune spin
+      minimum: 1
+      maximum: 5
+    - item: 26500 #dono scroll
+      minimum: 1
+      maximum: 5
+    - item: 33251 #dono coin
+      minimum: 1
+      maximum: 5
+    - item: 25959 #infernal crystal
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 200
+  items:
+    - item: 6680 #mini arbo
+      minimum: 1
+      maximum: 10
+    - item: 19887 #mini dono
+      minimum: 1
+      maximum: 10
+    - item: 6828 #smb
+      minimum: 25
+      maximum: 50
+    - item: 13346 #umb
+      minimum: 20
+      maximum: 40
+    - item: 12582 #cox
+      minimum: 10
+      maximum: 20
+    - item: 19891 #tob
+      minimum: 7
+      maximum: 15
+    - item: 27226 #masori
+      minimum: 1
+      maximum: 1
+    - item: 27229 #masori
+      minimum: 1
+      maximum: 1
+    - item: 27232 #masori
+      minimum: 1
+      maximum: 1
+    - item: 26374 #zaryte c'bow
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 300
+  items:
+    - item: 12579 #arbo
+      minimum: 1
+      maximum: 10
+    - item: 12588 #dono
+      minimum: 1
+      maximum: 10
+    - item: 8167 #nomad chest
+      minimum: 1
+      maximum: 3
+    - item: 13302 #bank key
+      minimum: 5
+      maximum: 10
+    - item: 10943 #dono vault
+      minimum: 1
+      maximum: 1
+    - item: 2399 #nomad key
+      minimum: 1
+      maximum: 1
+    - item: 25734 #holy ghrazi
+      minimum: 1
+      maximum: 1
+    - item: 25731 #holy sang
+      minimum: 1
+      maximum: 1
+    - item: 25736 #holy scythe
+      minimum: 1
+      maximum: 1

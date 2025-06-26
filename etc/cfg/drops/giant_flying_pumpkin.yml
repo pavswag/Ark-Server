@@ -1,0 +1,38 @@
+---
+npc_id: 7633
+constant:
+  accessibility: 1
+  items:
+    - item: 24984
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 20
+  items:
+    - item: 6828
+      minimum: 1
+      maximum: 1
+    - item: 693
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 150
+  items:
+    - item: 33063
+      minimum: 1
+      maximum: 1
+    - item: 33059
+      minimum: 1
+      maximum: 1
+    - item: 33064
+      minimum: 1
+      maximum: 1
+    - item: 33061
+      minimum: 1
+      maximum: 1
+    - item: 33062
+      minimum: 1
+      maximum: 1
+    - item: 33060
+      minimum: 1
+      maximum: 1

@@ -1,0 +1,44 @@
+[
+  {
+    "item": {
+      "id": 33377,
+      "amount": 1
+    },
+    "price": 25
+  },
+  {
+    "item": {
+      "id": 33377,
+      "amount": 2
+    },
+    "price": 50
+  },
+  {
+    "item": {
+      "id": 33377,
+      "amount": 5
+    },
+    "price": 100
+  },
+  {
+    "item": {
+      "id": 33377,
+      "amount": 9
+    },
+    "price": 200
+  },
+  {
+    "item": {
+      "id": 33377,
+      "amount": 13
+    },
+    "price": 350
+  },
+  {
+    "item": {
+      "id": 33377,
+      "amount": 25
+    },
+    "price": 500
+  }
+]

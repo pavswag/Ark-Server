@@ -1,0 +1,73 @@
+---
+id: 131
+name: "Tournament Shop"
+items:
+  - id: 24384  #Trophy
+    price: 100
+  - id: 24382  #Trophy
+    price: 250
+  - id: 24380  #Trophy
+    price: 400
+  - id: 24378  #Trophy
+    price: 550
+  - id: 24376  #Trophy
+    price: 750
+  - id: 24374  #Trophy
+    price: 1000
+  - id: 24372  #Trophy
+    price: 1500
+  - id:  956  #$1 scroll
+    price: 25
+  - name: "guard dog"
+    price: 250
+  - name: "terror dog"
+    price: 250
+  - name: "obsidian helmet"
+    price: 25
+  - name: "obsidian platebody"
+    price: 25
+  - name: "obsidian platelegs"
+    price: 25
+  - name: "spiked manacles"
+    price: 25
+  - name: "cape of skulls"
+    price: 50
+  - name: "mythical cape 2"
+    price: 50
+  - id: 11666  #Elite void token
+    price: 200
+  - id: 6679  #Mini mystery
+    price: 5
+  - id: 6677  #mini smb
+    price: 10
+  - id: 6678  #Mini umb
+    price: 20
+  - id: 8167  #Nomad chest
+    price: 250
+  - id: 2528  #Exp lamp
+    price: 3
+  - id: 20903  #Nox seed
+    price: 8
+  - id: 20906  #Golpar seed
+    price: 8
+  - id: 20909  #buchu seed
+    price: 8
+  - id: 6112  #Kelda seed
+    price: 8
+  - id: 22881  #Attas seed
+    price: 8
+  - id: 22869  #Celastrus seed
+    price: 8
+  - id: 4205  #Consecration seed
+    price: 8
+  - id: 22885  #Kronos seed
+    price: 25
+  - id: 22883  #Iasor seed
+    price: 25
+  - id: 22875  #Achievement seed
+    price: 50
+  - name: "imbue dust"
+    price: 25
+  - name: "bonus xp scroll"
+    price: 10
+

@@ -1,0 +1,93 @@
+common:
+  - id: 11681  # Scrap paper
+    amount: 100
+  - id: 11212  # Dragon arrow
+    amount: 250
+  - id: 11230  # Dragon dart
+    amount: 250
+  - id: 21046  # @cya@Chest rate bonus (+15%)
+    amount: 10
+
+uncommon:
+  - id: 11681  # Scrap paper
+    amount: 100
+  - id: 6769  # $5 scroll
+    amount: 1
+  - id: 21295  # Infernal cape
+    amount: 1
+  - id: 10557  # Collector Icon
+    amount: 1
+  - id: 10557  # Collector Icon
+    amount: 1
+  - id: 10556  # Attacker Icon
+    amount: 1
+  - id: 10556  # Attacker Icon
+    amount: 1
+  - id: 10558  # Defender Icon
+    amount: 1
+  - id: 12817  # Elysian spirit shield
+    amount: 1
+
+rare:
+  - id: 11681  # Scrap paper
+    amount: 100
+  - id: 24423  # Harmonised nightmare staff
+    amount: 1
+  - id: 24425  # Eldritch nightmare staff
+    amount: 1
+  - id: 24424  # Volatile nightmare staff
+    amount: 1
+  - id: 27226  # Masori mask
+    amount: 1
+  - id: 27229  # Masori body
+    amount: 1
+  - id: 27232  # Masori chaps
+    amount: 1
+  - id: 26235  # Zaryte Vambraces
+    amount: 1
+
+very_rare:
+  - id: 11681  # Scrap paper
+    amount: 100
+  - id: 2403  # $10 scroll
+    amount: 1
+  - id: 25736  # Holy Scythe of vitur
+    amount: 1
+  - id: 25731  # Holy Sanguinesti Staff
+    amount: 1
+  - id: 25734  # Holy Ghrazi rapier
+    amount: 1
+  - id: 22323  # Sanguinesti staff
+    amount: 1
+  - id: 20997  # Twisted bow
+    amount: 1
+  - id: 22325  # Scythe of vitur
+    amount: 1
+  - id: 26374  # Zaryte Crossbow
+    amount: 1
+  - id: 26382  # Torva full helm
+    amount: 1
+  - id: 26384  # Torva platebody
+    amount: 1
+  - id: 26225  # Ancient ceremonial mask
+    amount: 1
+  - id: 26221  # Ancient ceremonial top
+    amount: 1
+  - id: 26223  # Ancient ceremonial legs
+    amount: 1
+  - id: 13681  # Cruciferous codex
+    amount: 1
+  - id: 27251  # Elidinis' ward (f)
+    amount: 1
+  - id: 10559  # Healer Icon
+    amount: 1
+  - id: 10559  # Healer Icon
+    amount: 1
+  - id: 10559  # Healer Icon
+    amount: 1
+  - id: 20786  # Ring of wealth (i5)
+    amount: 1
+  - id: 33112  # Pot Of Gold
+    amount: 1
+  - id: 33122  # Pure Skills
+    amount: 1
